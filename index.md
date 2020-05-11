@@ -10,15 +10,8 @@ Lists
 ------------
 - [Blind 100](pages/lists/blind100.html)
 - [EPI](pages/lists/epi.html)
+- [My Solved Problems](/problems/)
 
-
-Problems
-------------
-- [Max Product Subarray](pages/problems/maxProductSubarray.html)
-- [Max Subarray](pages/problems/maxSubarray.html)
-- [Buy and Sell Stock](pages/problems/buyAndSellStock.html)
-- [LCA of Binary Tree](pages/problems/lcaBinaryTree.html)
-- [Rotate Image](pages/problems/rotateImage.html)
 
 Problems (todo)
 -----------------
