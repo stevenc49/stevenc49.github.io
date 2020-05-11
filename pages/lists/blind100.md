@@ -9,11 +9,11 @@ Array
 | Problem | Solved | Time To Solve  | Solutions | Last Attempted | Comments
 |-----------|:------------:|:-------:|
 | [Two Sum ](https://leetcode.com/problems/two-sum/) |  |   |   |   |
-| [Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Solved | 10 min to code  | [1 pass solution](../problems/buyAndSellStock.md)  |  May4  | watch for edge cases with arrays<br> 1 pass in loop with "more logic" in each loop pass 
+| [Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Solved | 10 min to code  | [1 pass solution](/problems/buyAndSellStock.html)  |  May4  | watch for edge cases with arrays<br> 1 pass in loop with "more logic" in each loop pass 
 | [Contains Duplicate ](https://leetcode.com/problems/contains-duplicate/) |  |   |   |   |
 | [Product of Array Except Self ](https://leetcode.com/problems/product-of-array-except-self/) |  |   |   |   |
-| [Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/) | Solved | 15 min to code  |  sliding window vs kadane's algo | May 6  |
-| [Maximum Product Subarray ](https://leetcode.com/problems/maximum-product-subarray/) |  |   |   |   |
+| [Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/) | Solved | 15 min to code  |  [kadane's algo](/problems/maxSubarray.html) | May 6  |
+| [Maximum Product Subarray ](https://leetcode.com/problems/maximum-product-subarray/) | Attempted | n/a  | [variation of kadane's algo](/problems/maxProductSubarray.html)  |   |
 | [Find Minimum in Rotated Sorted Array ](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |  |   |   |   |
 | [Search in Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array/) |  |   |   |   |
 | [3Sum ](https://leetcode.com/problems/3sum/) |  |   |   |   |
@@ -103,7 +103,7 @@ Matrix
 |-----------|:------------:|:-------:|
 | [Set Matrix Zeroes ](https://leetcode.com/problems/set-matrix-zeroes/) |  |   |   |   |
 | [Spiral Matrix ](https://leetcode.com/problems/spiral-matrix/) |  |   |   |   |
-| [Rotate Image ](https://leetcode.com/problems/rotate-image/) | Solved | 2hrs  | [transpose and flip horizontally](../problems/rotateImage.md)  | Apr29 | fav problem
+| [Rotate Image ](https://leetcode.com/problems/rotate-image/) | Solved | 2hrs  | [transpose and flip horizontally](/problems/rotateImage.html)  | Apr29 | fav problem
 | [Word Search ](https://leetcode.com/problems/word-search/) |  |   |   |   |
 
 ---
@@ -141,7 +141,7 @@ Tree
 | [Construct Binary Tree from Preorder and Inorder Traversal ](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |  |   |   |   |
 | [Validate Binary Search Tree ](https://leetcode.com/problems/validate-binary-search-tree/) |  |   |   |   |
 | [Kth Smallest Element in a BST ](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |  |   |   |   |
-| [Lowest Common Ancestor of BST ](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Solved | 45min  | [Recursion](../problems/lcaBinaryTree.md)  | Mar27,May1  |
+| [Lowest Common Ancestor of BST ](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Solved | 45min  | [Recursion](/problems/lcaBinaryTree.html)  | Mar27,May1  |
 | [Implement Trie (Prefix Tree) ](https://leetcode.com/problems/implement-trie-prefix-tree/) |  |   |   |   |
 | [Add and Search Word ](https://leetcode.com/problems/add-and-search-word-data-structure-design/) |  |   |   |   |
 | [Word Search II ](https://leetcode.com/problems/word-search-ii/) |  |   |   |   |

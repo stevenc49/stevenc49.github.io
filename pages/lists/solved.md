@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  My Solved Problems
+title:  Solved Problems
 ---
 
 {% for p in site.problems %}

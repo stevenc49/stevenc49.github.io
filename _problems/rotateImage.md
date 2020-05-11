@@ -4,7 +4,6 @@ title:  Rotate Image
 ---
 
 
-------------------
 
 {% highlight python %}
 
