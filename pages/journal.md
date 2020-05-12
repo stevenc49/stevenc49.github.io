@@ -3,6 +3,15 @@ layout: page
 title:  Practice Log
 ---
 
+### May 12
+
+today is pop quiz time
+
+- BFS
+- buy and sell stock
+
+
+
 ### May 6
 
 - Max Subarray
