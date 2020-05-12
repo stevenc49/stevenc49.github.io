@@ -148,6 +148,7 @@ Tree
 [Symmetric Tree]() | Solved | n/a | [recursion](/problems/symmetricTree.html) |
 [Balanced Tree]() | Solved | n/a | [recursion](/problems/isTreeBalanced.html) |
 [Deepest Leaves Sum]() | Solved | n/a | [dfs](/problems/deepestLeavesSumDFS.html) <br> [bfs](/problems/deepestLeavesSumBFS.html) |
+[Print K distance from root]() | Solved | n/a | [dfs](/problems/printKdistanceFromRoot.html) | n/a | also could've used bfs approach
 
 ---
 
