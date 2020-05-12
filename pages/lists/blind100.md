@@ -133,15 +133,15 @@ Tree
 |-----------|:------------:|:-------:|
 | [Maximum Depth of Binary Tree ](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Solved | n/a  | [recursion](/problems/maxDepth.html)  |   |
 | [Same Tree ](https://leetcode.com/problems/same-tree/) | Solved | n/a  | [recursion](/problems/isSameTree)  | may12  |
-| [Invert/Flip Binary Tree ](https://leetcode.com/problems/invert-binary-tree/) |  |   |   |   |
+| [Invert/Flip Binary Tree ](https://leetcode.com/problems/invert-binary-tree/) | Solved | 10min  |  [recursion](/problems/invertTree)  |   |
 | [Binary Tree Maximum Path Sum ](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |  |   |   |   |
 | [Binary Tree Level Order Traversal ](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Solved | n/a  | [bfs](/problems/bfs.html)  | may12 |
-| [Serialize and Deserialize Binary Tree ](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Attemped |  n/a | [solution](/problems/serializeTree.html)  |   |
+| [Serialize and Deserialize Binary Tree ](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Attemped |  n/a | [solution](/problems/serializeTree)  |   |
 | [Subtree of Another Tree ](https://leetcode.com/problems/subtree-of-another-tree/) | Solved | n/a  | [recursion](/problems/isSubtree.html)  |   |
 | [Construct Binary Tree from Preorder and Inorder Traversal ](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |  |   |   |   |
 | [Validate Binary Search Tree ](https://leetcode.com/problems/validate-binary-search-tree/) |  |   |   |   |
 | [Kth Smallest Element in a BST ](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |  |   |   |   |
-| [Lowest Common Ancestor of BST ](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Solved | 45min  | [Recursion](/problems/lcaBinaryTree.html)  | Mar27,May1  |
+| [Lowest Common Ancestor of BST ](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Solved | 45min  | [Recursion](/problems/lcaBinaryTree)  | Mar27,May1  |
 | [Implement Trie (Prefix Tree) ](https://leetcode.com/problems/implement-trie-prefix-tree/) |  |   |   |   |
 | [Add and Search Word ](https://leetcode.com/problems/add-and-search-word-data-structure-design/) |  |   |   |   |
 | [Word Search II ](https://leetcode.com/problems/word-search-ii/) |  |   |   |   |
