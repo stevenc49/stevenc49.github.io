@@ -131,13 +131,13 @@ Tree
 
 | Problem | Solved | Time To Solve  | Solutions | Last Attempted | Comments
 |-----------|:------------:|:-------:|
-| [Maximum Depth of Binary Tree ](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  |   |   |   |
-| [Same Tree ](https://leetcode.com/problems/same-tree/) |  |   |   |   |
+| [Maximum Depth of Binary Tree ](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Solved | n/a  | [recursion](/problems/maxDepth.html)  |   |
+| [Same Tree ](https://leetcode.com/problems/same-tree/) | Solved | n/a  | [recursion](/problems/sameTree)  |   |
 | [Invert/Flip Binary Tree ](https://leetcode.com/problems/invert-binary-tree/) |  |   |   |   |
 | [Binary Tree Maximum Path Sum ](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |  |   |   |   |
-| [Binary Tree Level Order Traversal ](https://leetcode.com/problems/binary-tree-level-order-traversal/) |  |   |   |   |
+| [Binary Tree Level Order Traversal ](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Solved | n/a  | [bfs](/problems/bfs.html)  |   |
 | [Serialize and Deserialize Binary Tree ](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) |  |   |   |   |
-| [Subtree of Another Tree ](https://leetcode.com/problems/subtree-of-another-tree/) |  |   |   |   |
+| [Subtree of Another Tree ](https://leetcode.com/problems/subtree-of-another-tree/) | Solved | n/a  | [recursion](/problems/isSubtree.html)  |   |
 | [Construct Binary Tree from Preorder and Inorder Traversal ](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |  |   |   |   |
 | [Validate Binary Search Tree ](https://leetcode.com/problems/validate-binary-search-tree/) |  |   |   |   |
 | [Kth Smallest Element in a BST ](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |  |   |   |   |
@@ -145,6 +145,8 @@ Tree
 | [Implement Trie (Prefix Tree) ](https://leetcode.com/problems/implement-trie-prefix-tree/) |  |   |   |   |
 | [Add and Search Word ](https://leetcode.com/problems/add-and-search-word-data-structure-design/) |  |   |   |   |
 | [Word Search II ](https://leetcode.com/problems/word-search-ii/) |  |   |   |   |
+[Symmetric Tree]() | Solved | n/a | [recursion](/problems/symmetricTree.html) |
+[Balanced Tree]() | Solved | n/a | [recursion](/problems/isTreeBalanced.html) |
 
 ---
 

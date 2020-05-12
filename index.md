@@ -9,7 +9,6 @@ layout: home
 Lists
 ------------
 - [Solved Problems](pages/lists/solved.html)
-- [Todo](pages/lists/solved.html)
 - [Blind 100](pages/lists/blind100.html)
 - [EPI](pages/lists/epi.html)
 
