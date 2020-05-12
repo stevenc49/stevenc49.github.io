@@ -132,7 +132,7 @@ Tree
 | Problem | Solved | Time To Solve  | Solutions | Last Attempted | Comments
 |-----------|:------------:|:-------:|
 | [Maximum Depth of Binary Tree ](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Solved | n/a  | [recursion](/problems/maxDepth.html)  |   |
-| [Same Tree ](https://leetcode.com/problems/same-tree/) | Solved | n/a  | [recursion](/problems/sameTree)  | may12  |
+| [Same Tree ](https://leetcode.com/problems/same-tree/) | Solved | n/a  | [recursion](/problems/isSameTree)  | may12  |
 | [Invert/Flip Binary Tree ](https://leetcode.com/problems/invert-binary-tree/) |  |   |   |   |
 | [Binary Tree Maximum Path Sum ](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |  |   |   |   |
 | [Binary Tree Level Order Traversal ](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Solved | n/a  | [bfs](/problems/bfs.html)  | may12 |
