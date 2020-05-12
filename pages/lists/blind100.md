@@ -132,10 +132,10 @@ Tree
 | Problem | Solved | Time To Solve  | Solutions | Last Attempted | Comments
 |-----------|:------------:|:-------:|
 | [Maximum Depth of Binary Tree ](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Solved | n/a  | [recursion](/problems/maxDepth.html)  |   |
-| [Same Tree ](https://leetcode.com/problems/same-tree/) | Solved | n/a  | [recursion](/problems/sameTree)  |   |
+| [Same Tree ](https://leetcode.com/problems/same-tree/) | Solved | n/a  | [recursion](/problems/sameTree)  | may12  |
 | [Invert/Flip Binary Tree ](https://leetcode.com/problems/invert-binary-tree/) |  |   |   |   |
 | [Binary Tree Maximum Path Sum ](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |  |   |   |   |
-| [Binary Tree Level Order Traversal ](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Solved | n/a  | [bfs](/problems/bfs.html)  |   |
+| [Binary Tree Level Order Traversal ](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Solved | n/a  | [bfs](/problems/bfs.html)  | may12 |
 | [Serialize and Deserialize Binary Tree ](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Attemped |  n/a | [solution](/problems/serializeTree.html)  |   |
 | [Subtree of Another Tree ](https://leetcode.com/problems/subtree-of-another-tree/) | Solved | n/a  | [recursion](/problems/isSubtree.html)  |   |
 | [Construct Binary Tree from Preorder and Inorder Traversal ](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |  |   |   |   |
@@ -147,7 +147,7 @@ Tree
 | [Word Search II ](https://leetcode.com/problems/word-search-ii/) |  |   |   |   |
 [Symmetric Tree]() | Solved | n/a | [recursion](/problems/symmetricTree.html) |
 [Balanced Tree]() | Solved | n/a | [recursion](/problems/isTreeBalanced.html) |
-[Deepest Leaves Sum]() | Solved | n/a | [dfs](/problems/deepestLeavesSumDFS.html) <br> [bfs](/problems/deepestLeavesSumBFS.html) |
+[Deepest Leaves Sum]() | Solved | n/a | [dfs](/problems/deepestLeavesSumDFS.html) <br> [bfs](/problems/deepestLeavesSumBFS.html) | may12 |
 [Print K distance from root]() | Solved | n/a | [dfs](/problems/printKdistanceFromRoot.html) | n/a | also could've used bfs approach
 
 ---
