@@ -9,7 +9,7 @@ Array
 | Problem | Solved | Time To Solve  | Solutions | Last Attempted | Comments
 |-----------|:------------:|:-------:|
 | [Two Sum ](https://leetcode.com/problems/two-sum/) | Solved | n/a  | [brute force](/problems/twoSum.html)  |   |
-| [Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Solved | 10 min to code  | [1 pass solution](/problems/buyAndSellStock.html)  |  May4  | watch for edge cases with arrays<br> 1 pass in loop with "more logic" in each loop pass 
+| [Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Solved | 10 min to code  | [1 pass solution](/problems/buyAndSellStock.html)  |  May12  |  
 | [Contains Duplicate ](https://leetcode.com/problems/contains-duplicate/) |  |   |   |   |
 | [Product of Array Except Self ](https://leetcode.com/problems/product-of-array-except-self/) |  |   |   |   |
 | [Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/) | Solved | 15 min to code  |  [kadane's algo](/problems/maxSubarray.html) | May 6  |
