@@ -22,7 +22,6 @@ Problems (todo)
 - Binary to Decimal - Linked List
 - Sum Even Grandparents
 - Reverse Bits
-- Is Same Tree?
 - Fib Iterative Return Array
 - Binary Search Iterative
 - Find Min in sorted Array
