@@ -10,7 +10,8 @@ today is pop quiz time
 - BFS
 - buy and sell stock
 - deepest leaves sum (dfs)
-
+- same tree
+- symmetric tree
 
 ### May 6
 
