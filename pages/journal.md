@@ -9,7 +9,7 @@ today is pop quiz time
 
 - BFS
 - buy and sell stock
-
+- deepest leaves sum (dfs)
 
 
 ### May 6
