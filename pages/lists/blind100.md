@@ -136,7 +136,7 @@ Tree
 | [Invert/Flip Binary Tree ](https://leetcode.com/problems/invert-binary-tree/) |  |   |   |   |
 | [Binary Tree Maximum Path Sum ](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |  |   |   |   |
 | [Binary Tree Level Order Traversal ](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Solved | n/a  | [bfs](/problems/bfs.html)  |   |
-| [Serialize and Deserialize Binary Tree ](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) |  |   |   |   |
+| [Serialize and Deserialize Binary Tree ](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Attemped |  n/a | [solution](/problems/serializeTree.html)  |   |
 | [Subtree of Another Tree ](https://leetcode.com/problems/subtree-of-another-tree/) | Solved | n/a  | [recursion](/problems/isSubtree.html)  |   |
 | [Construct Binary Tree from Preorder and Inorder Traversal ](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |  |   |   |   |
 | [Validate Binary Search Tree ](https://leetcode.com/problems/validate-binary-search-tree/) |  |   |   |   |
@@ -147,6 +147,7 @@ Tree
 | [Word Search II ](https://leetcode.com/problems/word-search-ii/) |  |   |   |   |
 [Symmetric Tree]() | Solved | n/a | [recursion](/problems/symmetricTree.html) |
 [Balanced Tree]() | Solved | n/a | [recursion](/problems/isTreeBalanced.html) |
+[Deepest Leaves Sum]() | Solved | n/a | [dfs](/problems/deepestLeavesSumDFS.html) <br> [bfs](/problems/deepestLeavesSumBFS.html) |
 
 ---
 
