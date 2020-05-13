@@ -3,6 +3,12 @@ layout: page
 title:  Practice Log
 ---
 
+### May 13
+
+https://interviewing.io/
+
+
+
 ### May 12
 
 today is pop quiz time
@@ -13,6 +19,10 @@ today is pop quiz time
 - same tree
 - symmetric tree
 - invert tree
+- validate bst (studied)
+
+keep track of which problem is "studied" vs "reviewed"
+
 
 ### May 6
 
