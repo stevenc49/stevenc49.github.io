@@ -63,10 +63,14 @@ print(validateBST(root))
 
 {% endhighlight %}
 
+______________
+
 
 The solution to this is to pass down lower and upper limits with each recursive call.
 
-{% highlight text %}
+![image1](https://gnduaw.dm.files.1drv.com/y4mPUcMxE9-yS-JjLSg4TK9uqG0PXbZGv9tB9KoZeeYNmqnvyeJB55bC4sJDHpvEBJiPnfe5J_VdAUOQBem8F70r1wBITqdYz5MgpIM9ZjllCk9D6A_MZb42JGNPXeg_WPFAvr0LiVdDzLDafRPD6ndE3gcftog3YZEmJ8HeNvoK0bCCOFBpU__K9ogsBtL6qh9c6pAAJLs4GdR1gxHehvYgw?width=1518&height=1137&cropmode=none)
+
+{% highlight python %}
 
 class TreeNode:
  
@@ -96,7 +100,7 @@ def validateBST(root):
 
         return leftValid and rightValid
     
-    return helper(root, -9999, 9999)
+    return helper(root, float('-inf'), float('inf'))
 
 
 # [10,5,15,null,null,6,20]
@@ -117,4 +121,3 @@ print(validateBST(root))
 {% endhighlight %}
 
 
-![image1]()
