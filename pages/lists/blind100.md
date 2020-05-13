@@ -75,7 +75,7 @@ Interval
 | Problem | Solved | Time To Solve  | Solutions | Last Attempted | Comments
 |-----------|:------------:|:-------:|
 | [Insert Interval ](https://leetcode.com/problems/insert-interval/) |  |   |   |   |
-| [Merge Intervals ](https://leetcode.com/problems/merge-intervals/) |  |   |   |   |
+| [Merge Intervals ](https://leetcode.com/problems/merge-intervals/) | Solved | half day | [solution](/problems/mergeIntervals)  |   |
 | [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) |  |   |   |   |
 | [Meeting Rooms (Leetcode Premium) ](https://leetcode.com/problems/meeting-rooms/) |  |   |   |   |
 | [Meeting Rooms II (Leetcode Premium) ](https://leetcode.com/problems/meeting-rooms-ii/) |  |   |   |   |
