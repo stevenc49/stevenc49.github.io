@@ -9,7 +9,7 @@ Studied
 - merge intervals
 
 Reviewed
-- 
+- reverse linked list (iterative)
 
 Today, had a lack of motivation. Did a new hard problem instead (merge intervals).
 Should do 1-2 problems "hard" problems that will require studying and "review" the rest.
