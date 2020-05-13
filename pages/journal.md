@@ -12,6 +12,7 @@ today is pop quiz time
 - deepest leaves sum (dfs)
 - same tree
 - symmetric tree
+- invert tree
 
 ### May 6
 

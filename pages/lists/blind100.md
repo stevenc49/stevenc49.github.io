@@ -139,7 +139,7 @@ Tree
 | [Serialize and Deserialize Binary Tree ](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Attemped |  n/a | [solution](/problems/serializeTree)  |   |
 | [Subtree of Another Tree ](https://leetcode.com/problems/subtree-of-another-tree/) | Solved | n/a  | [recursion](/problems/isSubtree.html)  |   |
 | [Construct Binary Tree from Preorder and Inorder Traversal ](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |  |   |   |   |
-| [Validate Binary Search Tree ](https://leetcode.com/problems/validate-binary-search-tree/) |  |   |   |   |
+| [Validate Binary Search Tree ](https://leetcode.com/problems/validate-binary-search-tree/) | Attempted | n/a  | [recursion](/problems/validateBST)  |   |
 | [Kth Smallest Element in a BST ](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |  |   |   |   |
 | [Lowest Common Ancestor of BST ](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Solved | 45min  | [Recursion](/problems/lcaBinaryTree)  | Mar27,May1  |
 | [Implement Trie (Prefix Tree) ](https://leetcode.com/problems/implement-trie-prefix-tree/) |  |   |   |   |
