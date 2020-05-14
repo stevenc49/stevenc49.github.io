@@ -5,13 +5,13 @@ title:  Practice Log
 
 ### May 14
 
-Studied
+Studied (new problem or new algo)
 - longest substring without repeating chars
 - count ones in array
 
 Reviewed
 - numOnes
-
+- merge sorted linked lists (recursive)
 
 
 Tip from Nick White:  don’t sit there and try and solve it. Just look at the solutions and learn
@@ -24,6 +24,15 @@ Found this article on bit manipulation:
 https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently/207733/
 
 
+
+Looking at a new algorithm (union find), from problem "number of islands"
+https://leetcode.com/problems/number-of-islands/discuss/583483/Summarize-of-3-Types-of-solution-methods
+
+
+Found a backtracking algo:
+https://www.thecshandbook.com/Backtracking
+
+Leetcoding is starting to become fun. Considering the alternative is doing telus work. Both type of work is pointless but there's at least a greater chance of being rewarded with leetcode.
 
 
 ### May 13
