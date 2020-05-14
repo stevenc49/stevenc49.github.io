@@ -16,7 +16,7 @@ Reviewed
 Today, had a lack of motivation. Did a new hard problem instead (merge intervals).
 Should do 1-2 "hard" problems that will require studying and "review" the rest.
 
-https://interviewing.io/
+Also found out about https://interviewing.io/. It's free so try it out when you're more comfortable.
 
 
 
