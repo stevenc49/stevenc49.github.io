@@ -7,6 +7,7 @@ title:  Practice Log
 
 Studied
 - longest substring without repeating chars
+- count ones in array
 
 Reviewed
 - numOnes
@@ -14,11 +15,10 @@ Reviewed
 
 
 Tip from Nick White:  don’t sit there and try and solve it. Just look at the solutions and learn
-
 Let's see how many new problems I can "study" using this method. I can always go back to "review" the problems.
-
 Quantity over Quality! FTW
 
+Once you learn it, write it down in notes (ie: blog) and keep looking over it. Who cares if you're "memoroziing it". Just do whatever works.
 
 Found this article on bit manipulation:
 https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently/207733/

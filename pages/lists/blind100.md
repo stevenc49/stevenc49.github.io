@@ -28,7 +28,7 @@ Binary
 |-----------|:------------:|:-------:|
 | [Sum of Two Integers ](https://leetcode.com/problems/sum-of-two-integers/) |  |   |   |   |
 | [Number of 1 Bits ](https://leetcode.com/problems/number-of-1-bits/) | Solved | 5min  | [loop and bit mask](/problems/numOnes)  | may14  |
-| [Counting Bits ](https://leetcode.com/problems/counting-bits/) |  |   |   |   |
+| [Counting Bits ](https://leetcode.com/problems/counting-bits/) | Attempted | n/a  | [dp](/problems/countOnesInArray)  | may14  |
 | [Missing Number ](https://leetcode.com/problems/missing-number/) |  |   |   |   |
 | [Reverse Bits ](https://leetcode.com/problems/reverse-bits/) |  |   |   |   |
 
