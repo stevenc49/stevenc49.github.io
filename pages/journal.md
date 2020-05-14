@@ -3,6 +3,16 @@ layout: page
 title:  Practice Log
 ---
 
+### May 14
+
+Tip from Nick White:  don’t sit there and try and solve it. Just look at the solutions and learn
+
+Let's see how many new problems I can "study" using this method. I can always go back to "review" the problems.
+
+Quantity over Quality! FTW
+
+
+
 ### May 13
 
 Studied
