@@ -25,7 +25,7 @@ https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how
 
 
 
-Looking at a new algorithm (union find), from problem "number of islands"
+Looking at a new algorithm (union find), from problem "number of islands". Time to add this to your "algo toolbelt"
 https://leetcode.com/problems/number-of-islands/discuss/583483/Summarize-of-3-Types-of-solution-methods
 
 
