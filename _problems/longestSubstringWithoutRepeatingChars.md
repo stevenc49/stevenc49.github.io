@@ -43,6 +43,9 @@ print(lengthOfLongestSubstring(s))      # 3 abc
 
 {% endhighlight %}
 
+Time Complexity O(2n) = O(n), where i and j will visit each char twice (see printout section)
+Space O(min(size of n, size of charset))
+
 
 #### Printouts
 
