@@ -4,7 +4,7 @@ title:  Num Ones
 ---
 
 
-#### Num Ones
+#### Loop and Bit Mask
 
 {% highlight python %}
 

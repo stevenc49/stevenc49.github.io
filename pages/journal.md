@@ -9,6 +9,7 @@ Studied
 - longest substring without repeating chars
 
 Reviewed
+- numOnes
 
 
 
@@ -17,6 +18,11 @@ Tip from Nick White:  don’t sit there and try and solve it. Just look at the s
 Let's see how many new problems I can "study" using this method. I can always go back to "review" the problems.
 
 Quantity over Quality! FTW
+
+
+Found this article on bit manipulation:
+https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently/207733/
+
 
 
 
