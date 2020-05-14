@@ -113,7 +113,7 @@ String
 
 | Problem | Solved | Time To Solve  | Solutions | Last Attempted | Comments
 |-----------|:------------:|:-------:|
-| [Longest Substring Without Repeating Characters ](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  |   |   |   |
+| [Longest Substring Without Repeating Characters ](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Attempted | n/a | [sliding window](/problems/longestSubstringWithoutRepeatingChars)  |   |
 | [Longest Repeating Character Replacement ](https://leetcode.com/problems/longest-repeating-character-replacement/) |  |   |   |   |
 | [Minimum Window Substring ](https://leetcode.com/problems/minimum-window-substring/) |  |   |   |   |
 | [Valid Anagram ](https://leetcode.com/problems/valid-anagram/) |  |   |   |   |
