@@ -14,7 +14,7 @@ Reviewed
 - link list cycle (hashmap and floyd)
 
 Today, had a lack of motivation. Did a new hard problem instead (merge intervals).
-Should do 1-2 problems "hard" problems that will require studying and "review" the rest.
+Should do 1-2 "hard" problems that will require studying and "review" the rest.
 
 https://interviewing.io/
 
