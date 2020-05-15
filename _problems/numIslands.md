@@ -40,18 +40,6 @@ def numIslands(grid):
             if r+1<R: floodFill(grid, r+1, c)
             if c>=1: floodFill(grid, r, c-1)
             if c+1<C: floodFill(grid, r, c+1) 
-    
-        # # Approach 2 - check out of bounds
-        # if r < 0 or r >=R or c < 0 or c >= C or grid[r][c] == "0":
-        #     return 0
-        # else:
-        #     print(r,c,grid[r][c])
-
-        #     grid[r][c] = '0'    # mark as visited
-        #     floodFill(grid, r-1, c)
-        #     floodFill(grid, r+1, c)
-        #     floodFill(grid, r, c-1)
-        #     floodFill(grid, r, c+1) 
 
     
     for i in range(R):
@@ -68,5 +56,29 @@ print(numIslands(grid))
 
 {% endhighlight %}
 
+
+The flood fill recursive algorithm could also be written as the following.
+
+The difference is that the first if statements checks for out of bounds and the "0" boundary.
+
+Then you dont have to have "directional ifs" after.
+
+{% highlight python %}
+
+    def floodFill(grid, r,c):
+   
+        # Approach 2 - check out of bounds
+        if r < 0 or r >=R or c < 0 or c >= C or grid[r][c] == "0":
+            return
+        else:
+            print(r,c,grid[r][c])
+
+            grid[r][c] = '0'    # mark as visited
+            floodFill(grid, r-1, c)
+            floodFill(grid, r+1, c)
+            floodFill(grid, r, c-1)
+            floodFill(grid, r, c+1) 
+
+{% endhighlight %}
 
 ![image1]()

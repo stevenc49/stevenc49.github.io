@@ -5,12 +5,20 @@ title:  Practice Log
 
 ### May 15
 
+Studied
+- flood fill / num islands
+
+
 Just finished studying the Flood Fill problem. I think I found a pattern/routine that works.
 
 1) Find a new problem.
+
 2) Understand the problem and think of initial solution for 5 minutes.
+
 3) Look at discussion solutions
+
 4) Implement the discussion solutions yourself without looking (you'll catch some small errors)
+
 5) Redo problem a few days later.
 
 
