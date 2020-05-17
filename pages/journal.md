@@ -3,6 +3,16 @@ layout: page
 title:  Practice Log
 ---
 
+### May 16
+
+Tomorrow or next week, need to review a few problems that I've "forgotten"
+- Find Min in Sorted Array
+- missing number
+- reverse bits
+- remove nth node from end of list
+
+
+
 ### May 15
 
 Studied

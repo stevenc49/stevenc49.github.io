@@ -5,6 +5,32 @@ title:  Find Min in Sorted Array
 
 
 
+Try a more concise solution:
+
+{% highlight python %}
+
+l, r = 0, len(nums)  - 1
+while nums[l] > nums[r]:
+    mid =  int((l+r)/2)  
+    if nums[mid] >= nums[l]:
+        l = mid + 1
+    else:
+        r = mid
+return nums[l]
+
+{% endhighlight %}
+
+
+Think of examples with each of the if statements
+
+
+if nums[mid] > nums[mid+1]:
+
+mid = 1, nums=1
+[2,1,3]
+
+
+
 
 {% highlight python %}
 
