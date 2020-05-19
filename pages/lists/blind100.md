@@ -40,7 +40,7 @@ Dynamic Programming
 | Problem | Solved | Time To Solve  | Solutions | Last Attempted | Comments
 |-----------|:------------:|:-------:|
 | [Climbing Stairs ](https://leetcode.com/problems/climbing-stairs/) | Solved | 1hr  | [fib](/problems/climbingStairs)  | may16  |
-| [Coin Change ](https://leetcode.com/problems/coin-change/) |  |   |   |   |
+| [Coin Change ](https://leetcode.com/problems/coin-change/) | Attempted |  1hr | [dp](/problems/coinChange)  | may19  |
 | [Longest Increasing Subsequence ](https://leetcode.com/problems/longest-increasing-subsequence/) |  |   |   |   |
 | [Longest Common Subsequence ]() |  |   |   |   |
 | [Word Break Problem ](https://leetcode.com/problems/word-break/) |  |   |   |   |
