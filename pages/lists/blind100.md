@@ -45,7 +45,7 @@ Dynamic Programming
 | [Longest Common Subsequence ]() |  |   |   |   |
 | [Word Break Problem ](https://leetcode.com/problems/word-break/) |  |   |   |   |
 | [Combination Sum ](https://leetcode.com/problems/combination-sum-iv/) |  |   |   |   |
-| [House Robber ](https://leetcode.com/problems/house-robber/) |  |   |   |   |
+| [House Robber ](https://leetcode.com/problems/house-robber/) | Attempted | 1hr  | [dp](/problems/houseRobber)  |   |
 | [House Robber II ](https://leetcode.com/problems/house-robber-ii/) |  |   |   |   |
 | [Decode Ways ](https://leetcode.com/problems/decode-ways/) |  |   |   |   |
 | [Unique Paths ](https://leetcode.com/problems/unique-paths/) |  |   |   |   |
