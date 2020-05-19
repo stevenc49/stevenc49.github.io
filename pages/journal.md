@@ -3,6 +3,15 @@ layout: page
 title:  Practice Log
 ---
 
+### May 19
+
+Studied
+- Coin Change
+- House Robber
+
+Just looked at solutions and memorized/learned from them. Will review in a few days.
+
+
 ### May 16
 
 Tomorrow or next week, need to review a few problems that I've "forgotten"
