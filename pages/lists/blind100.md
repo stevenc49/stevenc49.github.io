@@ -42,7 +42,7 @@ Dynamic Programming
 | [Climbing Stairs ](https://leetcode.com/problems/climbing-stairs/) | Solved | 1hr  | [fib](/problems/climbingStairs)  | may16  |
 | [Coin Change ](https://leetcode.com/problems/coin-change/) | Attempted |  1hr | [dp](/problems/coinChange)  | may19  |
 | [Longest Increasing Subsequence ](https://leetcode.com/problems/longest-increasing-subsequence/) |  |   |   |   |
-| [Longest Common Subsequence ]() |  |   |   |   |
+| [Longest Common Subsequence ](https://leetcode.com/problems/longest-common-subsequence/) | Attemped | n/a  | [dp](/problems/longestCommonSubsequence)  |   |
 | [Word Break Problem ](https://leetcode.com/problems/word-break/) |  |   |   |   |
 | [Combination Sum ](https://leetcode.com/problems/combination-sum-iv/) |  |   |   |   |
 | [House Robber ](https://leetcode.com/problems/house-robber/) | Attempted | 1hr  | [dp](/problems/houseRobber)  |   |
