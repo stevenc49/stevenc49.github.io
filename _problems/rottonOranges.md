@@ -5,7 +5,7 @@ title:  Rotton Oranges
 
 This is a BFS problem in disguise. You also need to think carefully about which variables you need to keep track of.
 
-IE: minutes_passed and fresh_count.
+IE: minutes_passed and fresh_count and going thru the grid once to get rotton cells.
 
 {% highlight python %}
 
