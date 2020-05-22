@@ -7,6 +7,7 @@ title:  Practice Log
 
 Reviewed
 - Merge Sorted List (Iterative)
+- Reverse LL (Iter)
 
 Back from a 2-day break. Been thinking entrepreneurally since was getting burnt out from leetcoding.
 I should balance out business and leetcode.
@@ -14,6 +15,11 @@ I should balance out business and leetcode.
 Tips for leetcoding:
 - Use Forest app for timeboxing leetcode.
 - Use space repetition to rework old problems in leetcode.
+
+
+Other ideas:
+- keep track of submission by problems
+- track myshopify stores and copy products
 
 
 ### May 19
