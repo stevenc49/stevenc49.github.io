@@ -3,7 +3,9 @@ layout: page
 title:  Merge Sorted Linked List (Iterative)
 ---
 
-
+- Use dummy node
+- First part, compare l1 and l2 and merge
+- Second part, just use "if statement" to add the rest of the list if there's still any left (do not use "while loop")
 
 
 {% highlight python %}

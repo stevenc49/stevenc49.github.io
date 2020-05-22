@@ -3,6 +3,19 @@ layout: page
 title:  Practice Log
 ---
 
+### May 22
+
+Reviewed
+- Merge Sorted List (Iterative)
+
+Back from a 2-day break. Been thinking entrepreneurally since was getting burnt out from leetcoding.
+I should balance out business and leetcode.
+
+Tips for leetcoding:
+- Use Forest app for timeboxing leetcode.
+- Use space repetition to rework old problems in leetcode.
+
+
 ### May 19
 
 Studied

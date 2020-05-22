@@ -89,7 +89,7 @@ Linked List
 |-----------|:------------:|:-------:|
 | [Reverse a Linked List ](https://leetcode.com/problems/reverse-linked-list/) | Solved | 10min  | [iteratively](/problems/reverseLLiterative)  | may13  | try recursive
 | [Detect Cycle in a Linked List ](https://leetcode.com/problems/linked-list-cycle/) | Solved | 10min  | [hashmap](/problems/llcycle)<br>[floyd](/problems/llcycle)  | may13  |
-| [Merge Two Sorted Lists ](https://leetcode.com/problems/merge-two-sorted-lists/) | Solved | n/a  | [iteratively](/problems/mergeSortedLLiter) <br> [recur](/problems/mergeSortedLLrecur) | recur-may14  |
+| [Merge Two Sorted Lists ](https://leetcode.com/problems/merge-two-sorted-lists/) | Solved | 30m  | [iteratively](/problems/mergeSortedLLiter) <br> [recur](/problems/mergeSortedLLrecur) | iter-may22<br>recur-may14  |
 | [Merge K Sorted Lists ](https://leetcode.com/problems/merge-k-sorted-lists/) |  |   |   |   |
 | [Remove Nth Node From End Of List ](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |  |   |   |   |
 | [Reorder List ](https://leetcode.com/problems/reorder-list/) |  |   |   |   |
