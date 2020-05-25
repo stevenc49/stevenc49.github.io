@@ -13,6 +13,5 @@ Lists
 - [EPI](pages/lists/epi.html)
 
 
-
-
-
+To start:
+``` bundle exec jekyll serve ```
