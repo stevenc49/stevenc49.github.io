@@ -3,6 +3,11 @@ layout: page
 title:  Practice Log
 ---
 
+### May 25
+
+Reviewed
+- Longest Common Subsequence
+
 ### May 22
 
 Reviewed
