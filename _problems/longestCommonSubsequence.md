@@ -4,11 +4,18 @@ title:  Longest Common Subsequence
 ---
 
 
+
 ```
 Input: text1 = "abcde", text2 = "ace" 
 Output: 3  
 Explanation: The longest common subsequence is "ace" and its length is 
 ```
+
+Gotchas
+-------
+- look out for the dimension with which you build the grid (ie: m<->i, n<->j)
+    - table=[[0]*(n+1) for x in range(m+1)]
+    - otherwise you could run into a array out of bounds error
 
 
 {% highlight python %}
@@ -50,3 +57,5 @@ print lcs(str1, str2)
 
 
 ![image1](https://gnfapq.dm.files.1drv.com/y4mZlth_qJCTlKJzsxVXX98_AG9IK8AYIiD6xyAEMPDfxF1FJFbE0z_rpEBOkZe0I65WDkyjiWZj3x4fGkqPjBT7ZrN1gmNos7vavy-EjgFiz6lFt3odQOYxbrxIxuCA8dEfPOcvqC2p_rKtb2nD6FGhClcL58TZMnbH2JEvsUZ2OdOWSd14TqjsqIut8vAdOWie9ZWU-J7qm_gnKrQcVv1Pg?width=1782&height=2278&cropmode=none)
+
+![image1](https://gnermw.dm.files.1drv.com/y4m9BSW0Ft1fHxdtWnT1V0IGF9Sxj3TFojEDo_HiaMd9YGeSK_vN3LtRkRbvzR-vnySZ1qd3PuPpdgyIim_pE9LnQG4TErnFMrBOgK-oFlMCr1Ao13C6FmeZKYfuGKiqqI8rRrSpM44Du8nNVoqUK2awKIa1u3E5TcJepJsdItmXpf7vw8LfB8FilU_qF04a9hBiLn3oQEMJcee-WnUvZQkkQ?width=2579&height=1198&cropmode=none)

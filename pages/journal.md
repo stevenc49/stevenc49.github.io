@@ -6,7 +6,7 @@ title:  Practice Log
 ### May 25
 
 Reviewed
-- Longest Common Subsequence
+- Longest Common Subsequence (25 min to reviewed approach)
 
 ### May 22
 
