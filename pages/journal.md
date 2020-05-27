@@ -8,7 +8,15 @@ title:  Practice Log
 Review:
 - search matrix
 
-The more I'm working on leetcoding/app dev/spending time with loved ones, the more i'm realizing that time management is key.
+Studied:
+- Water with most water
+
+Today, I did a brand new problem "Water with Most water". I jumped straight to the solution, read the optimum approach and was able to code up the solution myself within 25 min.
+
+
+- The more I'm working on leetcoding/app dev/spending time with loved ones, the more i'm realizing that time management is key.
+- Think of leetcoding as full time job and dropshipping/app development as side hustle
+- 
 
 ### May 26
 
