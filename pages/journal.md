@@ -3,6 +3,21 @@ layout: page
 title:  Practice Log
 ---
 
+### May 26
+
+Reviewed:
+- house robber
+
+Todo:
+matrix binary search:
+https://www.youtube.com/watch?v=41ON2EghJi0
+
+Try geometric problems:
+https://leetcode.com/problems/generate-random-point-in-a-circle
+https://www.youtube.com/watch?v=pvimAM_SLic
+
+
+
 ### May 25
 
 Reviewed

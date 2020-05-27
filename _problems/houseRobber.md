@@ -8,6 +8,10 @@ First few cases are trivial.
 Starting from n>=3, it's the max of alternating sequences.
 
 
+Gotcha:
+- be careful when to use nums array and when to use dp array
+
+
 {% highlight python %}
 
 nums = [1,2,3,1]
