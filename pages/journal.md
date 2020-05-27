@@ -17,6 +17,8 @@ https://leetcode.com/problems/generate-random-point-in-a-circle
 https://www.youtube.com/watch?v=pvimAM_SLic
 
 
+I swear memorizing these intereview problems is as dumb as memorizing prayers when I was a kid.
+
 
 ### May 25
 
