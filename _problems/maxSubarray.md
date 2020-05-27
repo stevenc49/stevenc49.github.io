@@ -16,6 +16,8 @@ nested forloop and sliding window
 
 runs in O(n) time
 
+Gotcha:
+- remember if i==0: continue, since if arr=[1], we just return 1
 
 {% highlight python %}
 

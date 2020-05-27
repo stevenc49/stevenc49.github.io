@@ -7,6 +7,11 @@ title:  Practice Log
 
 Reviewed:
 - house robber
+- max sub array
+
+
+I just reviewed house robber and max sub array today. Seems like even if I think I know the appraoch, there's lots of things coding-wise that trip me up. Definately need to review old problems from time to time.
+
 
 Todo:
 matrix binary search:
