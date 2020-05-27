@@ -14,7 +14,7 @@ Array
 | [Product of Array Except Self ](https://leetcode.com/problems/product-of-array-except-self/) |  |   |   |   |
 | [Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/) | Solved | 15 min to code  |  [kadane's algo](/problems/maxSubarray.html) | May 26  |
 | [Maximum Product Subarray ](https://leetcode.com/problems/maximum-product-subarray/) | Attempted | n/a  | [variation of kadane's algo](/problems/maxProductSubarray.html)  |   |
-| [Find Minimum in Rotated Sorted Array ](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Solved | n/a  | [binary search](/problems/findMinInSortedArray.html)  |   |
+| [Find Minimum in Rotated Sorted Array ](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Attempted | n/a  | [binary search](/problems/findMinInSortedArray.html)  |   |
 | [Search in Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array/) |  |   |   |   |
 | [3Sum ](https://leetcode.com/problems/3sum/) |  |   |   |   |
 | [Container With Most Water ](https://leetcode.com/problems/container-with-most-water/) |  |   |   |   |
