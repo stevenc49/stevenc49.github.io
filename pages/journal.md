@@ -3,6 +3,10 @@ layout: page
 title:  Practice Log
 ---
 
+### May 27
+
+
+
 ### May 26
 
 Reviewed:

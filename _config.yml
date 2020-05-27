@@ -25,5 +25,5 @@ collections:
     order:
       - 1template.md
 
-  algo:
+  code:
     output: true

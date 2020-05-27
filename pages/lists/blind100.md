@@ -105,6 +105,7 @@ Matrix
 | [Spiral Matrix ](https://leetcode.com/problems/spiral-matrix/) |  |   |   |   |
 | [Rotate Image ](https://leetcode.com/problems/rotate-image/) | Solved | 2hrs  | [transpose and flip horizontally](/problems/rotateImage.html)  | Apr29 | fav problem
 | [Word Search ](https://leetcode.com/problems/word-search/) |  |   |   |   |
+| [Matrix Search ](https://leetcode.com/problems/search-a-2d-matrix/) | Attempted | n/a  | [binary search](/problems/matrixSearch)  |   |
 
 ---
 
