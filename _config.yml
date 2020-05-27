@@ -24,3 +24,6 @@ collections:
     output: true
     order:
       - 1template.md
+
+  algo:
+    output: true
