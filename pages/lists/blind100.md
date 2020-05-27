@@ -17,7 +17,7 @@ Array
 | [Find Minimum in Rotated Sorted Array ](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Attempted | n/a  | [binary search](/problems/findMinInSortedArray.html)  |   |
 | [Search in Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array/) |  |   |   |   |
 | [3Sum ](https://leetcode.com/problems/3sum/) |  |   |   |   |
-| [Container With Most Water ](https://leetcode.com/problems/container-with-most-water/) |  |   |   |   |
+| [Container With Most Water ](https://leetcode.com/problems/container-with-most-water/) | Solved | 25min  | [2 pointer](/problems/waterWithMostWater)  | may27 |
 
 ---
 

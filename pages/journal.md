@@ -16,7 +16,7 @@ Today, I did a brand new problem "Water with Most water". I jumped straight to t
 
 - The more I'm working on leetcoding/app dev/spending time with loved ones, the more i'm realizing that time management is key.
 - Think of leetcoding as full time job and dropshipping/app development as side hustle
-- 
+- I think last time I wasted time on Project Euler and UVA Online Judge but they were not tailered towards interviewing enough.
 
 ### May 26
 
