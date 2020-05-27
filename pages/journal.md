@@ -5,7 +5,10 @@ title:  Practice Log
 
 ### May 27
 
+Review:
+- search matrix
 
+The more I'm working on leetcoding/app dev/spending time with loved ones, the more i'm realizing that time management is key.
 
 ### May 26
 
