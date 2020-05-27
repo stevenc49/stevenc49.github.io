@@ -13,6 +13,9 @@ Reviewed:
 I just reviewed house robber and max sub array today. Seems like even if I think I know the appraoch, there's lots of things coding-wise that trip me up. Definately need to review old problems from time to time.
 
 
+Also, I only have a certain level of WILLPOWER everyday. It's best to split it between working on my business and leetcode. But I cannot neglect either one.
+
+
 Todo:
 matrix binary search:
 https://www.youtube.com/watch?v=41ON2EghJi0
