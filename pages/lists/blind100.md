@@ -12,7 +12,7 @@ Array
 | [Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Solved | 10 min to code  | [1 pass solution](/problems/buyAndSellStock.html)  |  May17  |  
 | [Contains Duplicate ](https://leetcode.com/problems/contains-duplicate/) | Solved | 5min  |  [hashset/sorting](/problems/containsDuplicates) |   |
 | [Product of Array Except Self ](https://leetcode.com/problems/product-of-array-except-self/) |  |   |   |   |
-| [Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/) | Solved | 15 min to code  |  [kadane's algo](/problems/maxSubarray.html) | May 17  |
+| [Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/) | Solved | 15 min to code  |  [kadane's algo](/problems/maxSubarray.html) | May 26  |
 | [Maximum Product Subarray ](https://leetcode.com/problems/maximum-product-subarray/) | Attempted | n/a  | [variation of kadane's algo](/problems/maxProductSubarray.html)  |   |
 | [Find Minimum in Rotated Sorted Array ](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Solved | n/a  | [binary search](/problems/findMinInSortedArray.html)  |   |
 | [Search in Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array/) |  |   |   |   |
