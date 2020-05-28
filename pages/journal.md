@@ -10,6 +10,7 @@ Review:
 
 Studied:
 - Water with most water
+- house robber 2
 
 Today, I did a brand new problem "Water with Most water". I jumped straight to the solution, read the optimum approach and was able to code up the solution myself within 25 min.
 
