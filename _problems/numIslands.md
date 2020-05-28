@@ -14,50 +14,41 @@ Some gotchas:
 {% highlight python %}
 
 
-grid = [
-    ["1","1","1","1","0"],
-    ["1","1","0","1","0"],
-    ["1","1","0","0","0"],
-    ["0","0","0","1","0"]
-]
+def numIslands(self, grid):
 
-
-
-def numIslands(grid):
-
-    R = len(grid)
-    C = len(grid[0])
-    numIslands = 0
-
-    def floodFill(grid, r,c):
-
-        # Approach 1
-        print(r,c,grid[r][c])
-
-        if grid[r][c] == '1':   # this means we can advance
-            grid[r][c] = '0'    # mark as visited
-            if r>=1: floodFill(grid, r-1, c)
-            if r+1<R: floodFill(grid, r+1, c)
-            if c>=1: floodFill(grid, r, c-1)
-            if c+1<C: floodFill(grid, r, c+1) 
-
+    if not grid: return 0
     
-    for i in range(R):
-        for j in range(C):
-            if grid[i][j]=='1':
-                numIslands+=1
-                floodFill(grid, i, j)
-    
+    rows = len(grid)
+    cols = len(grid[0])
 
-    print(grid)
-    return numIslands
+    def dfs(i, j):
 
-print(numIslands(grid))
+        if i<0 or i>=rows or j<0 or j>=cols or grid[i][j]=="0":
+            return
+        else:
+            grid[i][j]="0"
+            dfs(i-1,j)
+            dfs(i+1,j)
+            dfs(i,j-1)
+            dfs(i,j+1)
+
+    count = 0
+    for i in range(rows):
+        for j in range(cols):
+
+            if grid[i][j]=="1":
+                count += 1
+                dfs(i, j)
+
+    return count
 
 {% endhighlight %}
 
 
-The flood fill recursive algorithm could also be written as the following.
+The flood fill recursive algorithm could also be written in two ways:
+
+- first with boundary checks
+- second with "directional ifs", maybe just forget about this one
 
 The difference is that the first if statements checks for out of bounds and the "0" boundary.
 
@@ -65,9 +56,10 @@ Then you dont have to have "directional ifs" after.
 
 {% highlight python %}
 
+    # Approach 1 - check out of bounds
     def floodFill(grid, r,c):
    
-        # Approach 2 - check out of bounds
+        
         if r < 0 or r >=R or c < 0 or c >= C or grid[r][c] == "0":
             return
         else:
@@ -78,6 +70,19 @@ Then you dont have to have "directional ifs" after.
             floodFill(grid, r+1, c)
             floodFill(grid, r, c-1)
             floodFill(grid, r, c+1) 
+
+    # Approach 2
+    def floodFill(grid, r,c):
+
+        print(r,c,grid[r][c])
+
+        if grid[r][c] == '1':   # this means we can advance
+            grid[r][c] = '0'    # mark as visited
+            if r>=1: floodFill(grid, r-1, c)
+            if r+1<R: floodFill(grid, r+1, c)
+            if c>=1: floodFill(grid, r, c-1)
+            if c+1<C: floodFill(grid, r, c+1) 
+
 
 {% endhighlight %}
 

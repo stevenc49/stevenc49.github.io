@@ -3,6 +3,15 @@ layout: page
 title:  Practice Log
 ---
 
+### May 28
+
+Reviewed:
+- num islands
+
+Found [this](https://leetcode.com/discuss/general-discussion/655708/graph-problems-for-beginners-practice-problems-and-sample-solutions) great list of graph problems.
+
+Use the forest app to focus and not get distracted. Remember, leetcode first priority, shopify is a side hustle.
+
 ### May 27
 
 Review:
