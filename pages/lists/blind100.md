@@ -46,7 +46,7 @@ Dynamic Programming
 | [Word Break Problem ](https://leetcode.com/problems/word-break/) |  |   |   |   |
 | [Combination Sum ](https://leetcode.com/problems/combination-sum-iv/) |  |   |   |   |
 | [House Robber ](https://leetcode.com/problems/house-robber/) | Solved | 20min  | [dp](/problems/houseRobber)  |  may26 |
-| [House Robber II ](https://leetcode.com/problems/house-robber-ii/) | Solved | 20m  | [extention of hourse robber 1](/problems/houseRobber2)  |   |
+| [House Robber II ](https://leetcode.com/problems/house-robber-ii/) | Solved | 20m  | [extention of hourse robber 1](/problems/houseRobber2)  |  may27 |
 | [Decode Ways ](https://leetcode.com/problems/decode-ways/) |  |   |   |   |
 | [Unique Paths ](https://leetcode.com/problems/unique-paths/) |  |   |   |   |
 | [Jump Game ](https://leetcode.com/problems/jump-game/) |  |   |   |   |
