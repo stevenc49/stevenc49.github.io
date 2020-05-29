@@ -26,7 +26,7 @@ But instead got this:
 {% endhighlight %}
 
 
-This is because when you do it inplace, it will zero out some cells and the helper function will be called on those ones you "accidentally" zeroed out.
+This is because when you do it inplace, it will zero out some cells and the helper function will be called on those ones you already zeroed out.
 
 {% highlight python %}
 
@@ -96,5 +96,39 @@ print(mat)
 
 {% endhighlight %}
 
+A solution to this problem is instead of modifying the matrix right away, save the row and columns that need to be zeroed into two sets. Then zero it the rows and columns in the second pass.
+
+The time complexity is O(m*n)
+
+The space complexity is O(m+n)
+
+{% highlight python %}
+
+def setZeroes(self, mat: List[List[int]]) -> None:
+
+    if not mat: return None
+
+    R = len(mat)
+    C = len(mat[0])
+
+    zero_rows = set()
+    zero_cols = set()
+
+    # iterate over matrix once to add row and column that needs to be zeroed (without modifying it in place yet)
+    for i in range(0, R):
+        for j in range(0, C):
+            if mat[i][j]==0:
+                zero_rows.add(i)
+                zero_cols.add(j)
+
+    # go over second time to actually zero out rows and columns
+    for i in range(0, R):
+        for j in range(0, C):
+            if i in zero_rows:
+                mat[i][j]=0
+            if j in zero_cols:
+                mat[i][j]=0
+
+{% endhighlight %}
 
 ![image1]()
