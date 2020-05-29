@@ -5,6 +5,12 @@ title:  Practice Log
 
 ### May 29
 
+Studied
+- Set Matrix Zeros
+
+I attempted Set Matrix Zeros but ran into gotcha. When you modify the matrix in place, it will screw over teh zeroing logic. This is like a gotcha that I found when validating BST.  It seems pretty simple but there's a gotcha.  The only way is to just do this algorithms and remember the gotchas.
+
+
 
 Good leetcode grouped problems:
 - [Graphs](https://leetcode.com/discuss/general-discussion/655708/graph-problems-for-beginners-practice-problems-and-sample-solutions)
