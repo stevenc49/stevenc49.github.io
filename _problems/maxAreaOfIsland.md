@@ -4,6 +4,7 @@ title:  Max Area of Island
 ---
 
 Similiar to numIsland, use flood fill and use ```nonlocal``` count variable to keep scope within nested function.
+
 ```nonlocal``` means it is not binded to the inner function. And it must be referenced in the outer function (binded to by the outer function)
 
 {% highlight python %}
