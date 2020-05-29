@@ -40,20 +40,14 @@ def setZeroes(mat):
             mat[i][j]=0
             zeroRight(i,j+1)
 
+    # go over mat first time to add cells to set (without modify matrix)
     for i in range(0, rows):
         for j in range(0, cols):
             if mat[i][j]==0:
                 zeroUpward(i,j)
-                print("after up", mat)
-
                 zeroDownward(i,j)
-                print("after down", mat)
-
                 zeroLeft(i,j)
-                print("after left", mat)
-
                 zeroRight(i,j)
-                print("after right", mat)
 
     return mat
 

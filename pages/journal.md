@@ -10,6 +10,8 @@ Studied
 
 I attempted Set Matrix Zeros but ran into gotcha. When you modify the matrix in place, it will screw over teh zeroing logic. This is like a gotcha that I found when validating BST.  It seems pretty simple but there's a gotcha.  The only way is to just do this algorithms and remember the gotchas.
 
+I swear these problems really make you feel stupid and the only way to overcome them is to play the stupid game and memorize the problems and solutions.
+
 
 
 Good leetcode grouped problems:
