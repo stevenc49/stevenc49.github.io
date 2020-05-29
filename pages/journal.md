@@ -3,6 +3,14 @@ layout: page
 title:  Practice Log
 ---
 
+### May 29
+
+
+Good leetcode grouped problems:
+- [Graphs](https://leetcode.com/discuss/general-discussion/655708/graph-problems-for-beginners-practice-problems-and-sample-solutions)
+- [Sliding Windows](https://leetcode.com/discuss/general-discussion/657507/sliding-window-for-beginners-problems-template-sample-solutions)
+
+
 ### May 28
 
 Reviewed:
