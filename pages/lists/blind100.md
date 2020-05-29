@@ -101,7 +101,7 @@ Matrix
 
 | Problem | Solved | Time To Solve  | Solutions | Last Attempted | Comments
 |-----------|:------------:|:-------:|
-| [Set Matrix Zeroes ](https://leetcode.com/problems/set-matrix-zeroes/) |  |   |   |   |
+| [Set Matrix Zeroes ](https://leetcode.com/problems/set-matrix-zeroes/) | attempted | 2hrs | [solution](/problems/setMatrixZeros)  | may29  |
 | [Spiral Matrix ](https://leetcode.com/problems/spiral-matrix/) |  |   |   |   |
 | [Rotate Image ](https://leetcode.com/problems/rotate-image/) | Solved | 2hrs  | [transpose and flip horizontally](/problems/rotateImage.html)  | Apr29 | fav problem
 | [Word Search ](https://leetcode.com/problems/word-search/) |  |   |   |   |
