@@ -26,7 +26,7 @@ But instead got this:
 {% endhighlight %}
 
 
-Initialially tried this but the result wasn't what I expected. I got this:
+This is because when you do it inplace, it will zero out some cells and the helper function will be called on those ones you "accidentally" zeroed out.
 
 {% highlight python %}
 
