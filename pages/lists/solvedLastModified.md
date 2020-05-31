@@ -7,7 +7,6 @@ title:  Solved - Last Modified
 Problem | Last Modified
 -----------|-----------
 [Water with Most Water](/problems/waterWithMostWater) | 2020-05-31 
-[Template](/problems/1template) | 2020-05-31 
 [Set Matrix Zeros](/problems/setMatrixZeros) | 2020-05-29 
 [Max Area of Island](/problems/maxAreaOfIsland) | 2020-05-28 
 [Number of Islands](/problems/numIslands) | 2020-05-28 

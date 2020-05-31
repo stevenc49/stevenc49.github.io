@@ -44,7 +44,7 @@ title:  Solved - Last Modified
     for prob in list_filenames_dates:
         filename = prob[0]
 
-        if filename:
+        if filename and filename!="1template.md":
             sb += "[%s](%s) | %s \n" % (getAttribute(filename, "title"), "/problems/"+filename[:-3], prob[1])
 
 
@@ -55,5 +55,5 @@ title:  Solved - Last Modified
 
 if __name__ == '__main__':
 
-    print( getAttribute("waterWithMostWater.md", "category") )
+    # print( getAttribute("waterWithMostWater.md", "category") )
     main()
