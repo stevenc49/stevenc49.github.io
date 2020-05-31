@@ -3,6 +3,11 @@ layout: page
 title:  Practice Log
 ---
 
+### May 30
+
+Made a python script that generates "Solved Problems" listed by last modified date. Hopefully this will help with space repetition.
+
+
 ### May 29
 
 Studied

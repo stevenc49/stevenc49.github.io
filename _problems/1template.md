@@ -1,16 +1,17 @@
 ---
 layout: page
 title:  Template
-date_last_solved:
+last_solved:
 category:  
 ---
 
-#### Problem Description
+##### Problem
 
 {% highlight text %}
 
 {% endhighlight %}
 
+##### Solution
 
 {% highlight python %}
 

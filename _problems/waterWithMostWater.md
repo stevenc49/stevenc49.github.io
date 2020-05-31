@@ -1,6 +1,8 @@
 ---
 layout: page
 title:  Water with Most Water
+last_solved: 2020-05-27
+category: array, 2ptr
 ---
 
 Since the area is limited to the shorter of the two lines, use 2 pointers and move the closer one inwards.
