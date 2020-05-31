@@ -7,6 +7,11 @@ title:  Practice Log
 
 Made a python script that generates "Solved Problems" listed by last modified date. Hopefully this will help with space repetition.
 
+Good leetcode grouped problems (from user wh0ami):
+- [Graphs](https://leetcode.com/discuss/general-discussion/655708/graph-problems-for-beginners-practice-problems-and-sample-solutions)
+- [Sliding Windows](https://leetcode.com/discuss/general-discussion/657507/sliding-window-for-beginners-problems-template-sample-solutions)
+- [DP](https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions)
+
 
 ### May 29
 
@@ -18,11 +23,6 @@ I attempted Set Matrix Zeros but ran into gotcha. When you modify the matrix in 
 I swear these problems really make you feel stupid and the only way to overcome them is to play the stupid game and memorize the problems and solutions.
 
 
-
-Good leetcode grouped problems (from user wh0ami):
-- [Graphs](https://leetcode.com/discuss/general-discussion/655708/graph-problems-for-beginners-practice-problems-and-sample-solutions)
-- [Sliding Windows](https://leetcode.com/discuss/general-discussion/657507/sliding-window-for-beginners-problems-template-sample-solutions)
-- [DP](https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions)
 
 ### May 28
 
