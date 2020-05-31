@@ -16,6 +16,8 @@ Write your own itoa and atoi
 
 ##### Solution
 
+So far, just written the itoa()
+
 {% highlight python %}
 
 def addStrings(self, num1: str, num2: str) -> str:
