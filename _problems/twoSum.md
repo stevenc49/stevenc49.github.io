@@ -3,7 +3,7 @@ layout: page
 title:  Two Sum
 ---
 
-### Description
+### Problem
 
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
@@ -20,7 +20,7 @@ return [0, 1].
 
 {% endhighlight %}
 
-### Solution
+### Brute Force Solution
 
 {% highlight python %}
 
@@ -48,6 +48,18 @@ print res
 
 {% endhighlight %}
 
+### OnePass HashTable SOlution
 
+{% highlight python %}
 
+def twoSum(nums, target):
 
+    seen = {}
+    for i, v in enumerate(nums):
+        remaining = target - v
+        if remaining in seen:
+            return [seen[remaining], i]
+        seen[v] = i
+    return []
+
+{% endhighlight %}

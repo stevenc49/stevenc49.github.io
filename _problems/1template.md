@@ -4,6 +4,7 @@ title:  Template
 last_solved: 
 category: 
 leetcode_url: 
+status: [ Solved | Attempted ]
 ---
 
 ##### Problem
