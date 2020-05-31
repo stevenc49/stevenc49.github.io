@@ -10,7 +10,8 @@ LIST_DIR = ROOT_DIR + "pages/lists"
 
 def getAttribute(filename, attribute):
     content = FileUtil.readFromFile( PROBLEMS_DIR + "/" + filename )
-    return list( filter( lambda x: attribute + ": " in x, content.split('\n') ) )[0][7:].strip()
+    attributeLen = len(attribute)+1
+    return list( filter( lambda x: attribute + ": " in x, content.split('\n') ) )[0][attributeLen:].strip()
 
 def main():
 
@@ -54,4 +55,5 @@ title:  Solved - Last Modified
 
 if __name__ == '__main__':
 
+    print( getAttribute("waterWithMostWater.md", "category") )
     main()
