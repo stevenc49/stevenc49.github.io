@@ -5,6 +5,18 @@ last_solved: 2020-05-27
 category: array, 2ptr
 ---
 
+
+
+##### Problem
+
+The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
+
+![water](https://s3-lc-upload.s3.amazonaws.com/uploads/2018/07/17/question_11.jpg)
+
+
+
+#### Solution
+
 Since the area is limited to the shorter of the two lines, use 2 pointers and move the closer one inwards.
 
 
@@ -35,4 +47,3 @@ def maxArea(height):
 {% endhighlight %}
 
 
-![image1]()
