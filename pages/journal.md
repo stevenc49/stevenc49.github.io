@@ -19,10 +19,10 @@ I swear these problems really make you feel stupid and the only way to overcome 
 
 
 
-Good leetcode grouped problems:
+Good leetcode grouped problems (from user wh0ami):
 - [Graphs](https://leetcode.com/discuss/general-discussion/655708/graph-problems-for-beginners-practice-problems-and-sample-solutions)
 - [Sliding Windows](https://leetcode.com/discuss/general-discussion/657507/sliding-window-for-beginners-problems-template-sample-solutions)
-
+- [DP](https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions)
 
 ### May 28
 
