@@ -1,8 +1,9 @@
 ---
 layout: page
 title:  Template
-last_solved:
-category:  
+last_solved: 
+category: 
+leetcode_url: 
 ---
 
 ##### Problem

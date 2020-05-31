@@ -3,6 +3,7 @@ layout: page
 title:  Water with Most Water
 last_solved: 2020-05-27
 category: array, 2ptr
+leetcode_url: https://leetcode.com/problems/container-with-most-water/
 ---
 
 
