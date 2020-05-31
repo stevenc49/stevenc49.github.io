@@ -11,7 +11,7 @@ minima:
 # this is the header on top of every page
 header_pages:
   - pages/lists/blind100.md
-  - pages/lists/solved.md
+  - pages/lists/solvedLastModified.md
   - pages/journal.md
 
 

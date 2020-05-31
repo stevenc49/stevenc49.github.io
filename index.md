@@ -8,7 +8,8 @@ layout: home
 
 Lists
 ------------
-- [Solved Problems](pages/lists/solved.html)
+- [Solved](pages/lists/solved.html)
+- [Solved - Last Modified](pages/lists/solvedLastModified.html)
 - [Blind 100](pages/lists/blind100.html)
 - [EPI](pages/lists/epi.html)
 
