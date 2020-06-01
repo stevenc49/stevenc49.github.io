@@ -4,37 +4,13 @@ import re
 from fileutils import FileUtil
 
 '''
-
-This script takes all the markdown pages and creates a solved page sorted by last modified date.
-
+    This script takes all the markdown pages and creates a solved page sorted by last modified date.
 '''
 
 ROOT_DIR = "/home/steve/workspace/stevenc49.github.io/"
 PROBLEMS_DIR = ROOT_DIR + "_problems"
 LIST_DIR = ROOT_DIR + "pages/lists"
 
-def getAttribute(filename, attribute):
-    content = FileUtil.readFromFile( PROBLEMS_DIR + "/" + filename )
-    attributeLen = len(attribute)+1
-
-    lines = content.split('\n')
-    filterObject = list(filter( lambda x: attribute + ": " in x, lines ))
-    
-    if filterObject:
-        lineWithAttribute = filterObject[0]
-        return lineWithAttribute[attributeLen:].strip()
-    else:
-        return ""
-
-
-    # linesWithAttribute = filter( lambda x: attribute + ": " in x, content.split('\n') )[0]
-    # if not linesWithAttribute:
-    #     return ""
-    # else:
-    #     return linesWithAttribute[attributeLen:].strip()
-    
-
-    # return list( filter( lambda x: attribute + ": " in x, content.split('\n') ) )[0][attributeLen:].strip()
 
 def main():
 
@@ -76,7 +52,21 @@ title:  Solved - Last Modified
 
 
 
+def getAttribute(filename, attribute):
+    content = FileUtil.readFromFile( PROBLEMS_DIR + "/" + filename )
+    attributeLen = len(attribute)+1
+
+    lines = content.split('\n')
+    filterObject = list(filter( lambda x: attribute + ": " in x, lines ))
+    
+    if filterObject:
+        lineWithAttribute = filterObject[0]
+        return lineWithAttribute[attributeLen:].strip()
+    else:
+        return ""
+
+
+
 if __name__ == '__main__':
 
-    # print( getAttribute("waterWithMostWater.md", "category") )
     main()
