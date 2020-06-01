@@ -50,16 +50,26 @@ print res
 
 ### OnePass HashTable SOlution
 
+This is a common interview problem. Just memorize the technique.
+
 {% highlight python %}
 
 def twoSum(nums, target):
 
-    seen = {}
-    for i, v in enumerate(nums):
-        remaining = target - v
-        if remaining in seen:
-            return [seen[remaining], i]
-        seen[v] = i
-    return []
-
+        seen = {}
+        
+        for i, v in enumerate(nums):
+            
+            remaining = target - v
+            
+            # if seen, return indexes
+            if remaining in seen:
+                return [seen[remaining], i]
+            
+            # else, add it to seen hashtable
+            else:
+                seen[v] = i
+        
+        
+        return []
 {% endhighlight %}
