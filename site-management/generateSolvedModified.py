@@ -16,7 +16,25 @@ LIST_DIR = ROOT_DIR + "pages/lists"
 def getAttribute(filename, attribute):
     content = FileUtil.readFromFile( PROBLEMS_DIR + "/" + filename )
     attributeLen = len(attribute)+1
-    return list( filter( lambda x: attribute + ": " in x, content.split('\n') ) )[0][attributeLen:].strip()
+
+    lines = content.split('\n')
+    filterObject = list(filter( lambda x: attribute + ": " in x, lines ))
+    
+    if filterObject:
+        lineWithAttribute = filterObject[0]
+        return lineWithAttribute[attributeLen:].strip()
+    else:
+        return ""
+
+
+    # linesWithAttribute = filter( lambda x: attribute + ": " in x, content.split('\n') )[0]
+    # if not linesWithAttribute:
+    #     return ""
+    # else:
+    #     return linesWithAttribute[attributeLen:].strip()
+    
+
+    # return list( filter( lambda x: attribute + ": " in x, content.split('\n') ) )[0][attributeLen:].strip()
 
 def main():
 
@@ -42,15 +60,15 @@ title:  Solved - Last Modified
     """.strip() + "\n\n\n"
 
     # generate table header
-    sb += "Problem | Last Modified\n"
-    sb += "-----------|-----------\n"
+    sb += "Problem | Last Modified | Status\n"
+    sb += "-----------|-----------|---------\n"
 
     # generate table rows
     for prob in list_filenames_dates:
         filename = prob[0]
 
         if filename and filename!="1template.md":
-            sb += "[%s](%s) | %s \n" % (getAttribute(filename, "title"), "/problems/"+filename[:-3], prob[1])
+            sb += "[%s](%s) | %s | %s \n" % (getAttribute(filename, "title"), "/problems/"+filename[:-3], prob[1], getAttribute(filename, "status"))
 
 
     # write to solved list markdown page

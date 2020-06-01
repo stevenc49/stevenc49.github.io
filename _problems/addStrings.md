@@ -4,7 +4,7 @@ title:  Add Strings
 last_solved: 2020-05-30
 category: math
 leetcode_url: https://leetcode.com/problems/add-strings/
-status: [ Attempted ]
+status: Attempted
 ---
 
 ##### Problem
