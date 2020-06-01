@@ -10,13 +10,12 @@ status: [ Attempted ]
 ##### Problem
 
 Given "12" and "3", return "15".
-Write your own itoa and atoi
-
+You must not use any built-in BigInteger library or convert the inputs to integer directly.
 
 
 ##### Solution
 
-So far, just written the itoa()
+Wasn't suppose to convert to integers
 
 {% highlight python %}
 
