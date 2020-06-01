@@ -8,7 +8,7 @@ Array
 
 | Problem | Solved | Time To Solve  | Solutions | Last Attempted | Comments
 |-----------|:------------:|:-------:|
-| [Two Sum ](https://leetcode.com/problems/two-sum/) | Solved | n/a  | [brute force](/problems/twoSum.html)  |   |
+| [Two Sum ](https://leetcode.com/problems/two-sum/) | Solved | n/a  | [brute force + one pass](/problems/twoSum.html)  |   |
 | [Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Solved | 10 min to code  | [1 pass solution](/problems/buyAndSellStock.html)  |  May17  |  
 | [Contains Duplicate ](https://leetcode.com/problems/contains-duplicate/) | Solved | 5min  |  [hashset/sorting](/problems/containsDuplicates) |   |
 | [Product of Array Except Self ](https://leetcode.com/problems/product-of-array-except-self/) |  |   |   |   |
