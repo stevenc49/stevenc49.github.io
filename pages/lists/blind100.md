@@ -104,7 +104,7 @@ Matrix
 | [Set Matrix Zeroes ](https://leetcode.com/problems/set-matrix-zeroes/) | attempted | 2hrs | [solution](/problems/setMatrixZeros)  | may29  | there are other more efficient sols in leetcode solutions artc le page
 | [Spiral Matrix ](https://leetcode.com/problems/spiral-matrix/) |  |   |   |   |
 | [Rotate Image ](https://leetcode.com/problems/rotate-image/) | Solved | 2hrs  | [transpose and flip horizontally](/problems/rotateImage.html)  | Apr29 | fav problem
-| [Word Search ](https://leetcode.com/problems/word-search/) | Attempted | n/a  | [sol](/problems/wordSearch) |   |
+| [Word Search ](https://leetcode.com/problems/word-search/) | Attempted | n/a  | [solution](/problems/wordSearch) |   |
 | [Matrix Search ](https://leetcode.com/problems/search-a-2d-matrix/) | Attempted | n/a  | [binary search](/problems/matrixSearch)  |   |
 
 ---
