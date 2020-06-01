@@ -3,6 +3,11 @@ import os, subprocess
 import re
 from fileutils import FileUtil
 
+'''
+
+This script takes all the markdown pages and creates a solved page sorted by last modified date.
+
+'''
 
 ROOT_DIR = "/home/steve/workspace/stevenc49.github.io/"
 PROBLEMS_DIR = ROOT_DIR + "_problems"
