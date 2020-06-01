@@ -6,6 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified
 -----------|-----------
+[Word Search](/problems/wordSearch) | 2020-05-31 
 [Add Strings](/problems/addStrings) | 2020-05-31 
 [Two Sum](/problems/twoSum) | 2020-05-31 
 [Water with Most Water](/problems/waterWithMostWater) | 2020-05-31 
