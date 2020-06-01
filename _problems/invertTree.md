@@ -1,6 +1,10 @@
 ---
 layout: page
 title:  invert Tree
+last_solved: 2020-06-01
+category: tree
+leetcode_url: https://leetcode.com/problems/invert-binary-tree/
+status: Solved
 ---
 
 

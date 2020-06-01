@@ -6,6 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified
 -----------|-----------
+[invert Tree](/problems/invertTree) | 2020-06-01 
 [Word Search](/problems/wordSearch) | 2020-05-31 
 [Add Strings](/problems/addStrings) | 2020-05-31 
 [Two Sum](/problems/twoSum) | 2020-05-31 
@@ -32,7 +33,6 @@ Problem | Last Modified
 [Linked List Cycle](/problems/llcycle) | 2020-05-13 
 [Merge Intervals](/problems/mergeIntervals) | 2020-05-13 
 [Validate BST](/problems/validateBST) | 2020-05-12 
-[invert Tree](/problems/invertTree) | 2020-05-12 
 [Is Same Tree?](/problems/isSameTree) | 2020-05-12 
 [Print K distance from Root](/problems/printKdistanceFromRoot) | 2020-05-11 
 [Serialize & Deserialize Tree](/problems/serializeTree) | 2020-05-11 
