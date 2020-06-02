@@ -1,6 +1,6 @@
 import math
 
-num = -123
+num = 1534236469
 
 def reverse(num):
 
@@ -18,6 +18,10 @@ def reverse(num):
         popped = num % 10
         num = math.floor(num / 10)
 
+        # handle overflow
+        if (rev > 2**31 / 10) or (rev == 2**31 / 10 and popped>7): return 0
+        if (rev < -2**31 / 10) or (rev == -2**31 / 10 and popped<-8): return 0
+
         rev = rev * 10 + popped
     
         print(num, popped, rev)
@@ -26,3 +30,7 @@ def reverse(num):
     return rev*-1 if neg else rev
 
 print( reverse(num) )
+# print( reverse(123) )
+# print( reverse(-123) )
+# print( reverse(2**31) )
+# print( reverse(-2**31) )
