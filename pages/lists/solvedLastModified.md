@@ -6,6 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status
 -----------|-----------|---------
+[Reverse Integer](/problems/reverseInteger) | 2020-06-02 | Attempted 
 [Add Strings](/problems/addStrings) | 2020-06-01 | Attempted 
 [Word Search](/problems/wordSearch) | 2020-06-01 | Attempted 
 [invert Tree](/problems/invertTree) | 2020-06-01 | Solved 

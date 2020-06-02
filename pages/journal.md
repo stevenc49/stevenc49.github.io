@@ -3,6 +3,15 @@ layout: page
 title:  Practice Log
 ---
 
+### Jun 1
+
+Doing the list Leetcode Top Interview Questions Easy List:
+https://leetcode.com/explore/interview/card/top-interview-questions-easy/
+
+Just want to see if I can do all the easy ones now that I had 3 months to practice.
+
+
+
 ### May 30
 
 Made a python script that generates "Solved Problems" listed by last modified date. Hopefully this will help with space repetition.
