@@ -6,6 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status
 -----------|-----------|---------
+[Two Sum](/problems/twoSum) | 2020-06-02 | Solved 
 [Buy and Sell Stock 2](/problems/buyAndSellStock copy) | 2020-06-02 | Solved 
 [Buy and Sell Stock](/problems/buyAndSellStock) | 2020-06-02 | Solved 
 [Single Number](/problems/singleNumber) | 2020-06-02 | Solved 
@@ -14,7 +15,6 @@ Problem | Last Modified | Status
 [Add Strings](/problems/addStrings) | 2020-06-01 | Attempted 
 [Word Search](/problems/wordSearch) | 2020-06-01 | Attempted 
 [invert Tree](/problems/invertTree) | 2020-06-01 | Solved 
-[Two Sum](/problems/twoSum) | 2020-05-31 | Solved 
 [Water with Most Water](/problems/waterWithMostWater) | 2020-05-31 |  
 [Set Matrix Zeros](/problems/setMatrixZeros) | 2020-05-29 |  
 [Max Area of Island](/problems/maxAreaOfIsland) | 2020-05-28 |  

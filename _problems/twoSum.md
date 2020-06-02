@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  Two Sum
-last_solved: 2020-05-31
-category: array, dp
+last_solved: 2020-06-01
+category: array
 leetcode_url: https://https://leetcode.com/problems/two-sum
 status: Solved
 ---
