@@ -25,6 +25,8 @@ Output: 21
 
 ##### Solution
 
+{% highlight python %}
+
 def reverse(self, num: int) -> int:
     
     # handle negative case
@@ -48,5 +50,6 @@ def reverse(self, num: int) -> int:
 
     return rev*-1 if neg else rev
 
+{% endhighlight %}
 
 ![image1]()
