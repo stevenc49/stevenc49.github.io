@@ -1,6 +1,10 @@
 ---
 layout: page
 title:  Buy and Sell Stock
+last_solved: 2020-06-02
+category: array
+leetcode_url: https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+status: Solved
 ---
 
 ### Naive O(n^2) way

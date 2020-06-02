@@ -6,6 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status
 -----------|-----------|---------
+[Buy and Sell Stock](/problems/buyAndSellStock) | 2020-06-02 | Solved 
 [Single Number](/problems/singleNumber) | 2020-06-02 | Solved 
 [Reverse Integer](/problems/reverseInteger) | 2020-06-02 | Solved 
 [Reverse String](/problems/reverseString) | 2020-06-02 | Solved 
@@ -49,6 +50,5 @@ Problem | Last Modified | Status
 [Merge Sorted Linked List (Recursive)](/problems/mergeSortedLLrecur) | 2020-05-11 |  
 [Reverse Linked List Iteratively](/problems/reverseLLiterative) | 2020-05-11 |  
 [Rotate Image](/problems/rotateImage) | 2020-05-11 |  
-[Buy and Sell Stock](/problems/buyAndSellStock) | 2020-05-11 |  
 [Maximum Product Subarray](/problems/maxProductSubarray) | 2020-05-09 |  
 [LCA of binary tree](/problems/lcaBinaryTree) | 2020-05-06 |  
