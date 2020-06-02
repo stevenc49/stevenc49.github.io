@@ -25,7 +25,7 @@ Output: 21
 
 ##### Solution
 
-This solution doesn't handle overflows yet. Check out [this](https://www.youtube.com/watch?v=ThdOYKsFSK0) video: 
+The tricky part of this question is handling the overflows. Check out [this](https://www.youtube.com/watch?v=ThdOYKsFSK0) video: 
 
 {% highlight python %}
 
@@ -46,8 +46,12 @@ def reverse(self, num: int) -> int:
         num = math.floor(num / 10)
 
         # handle overflow
-        if (rev > 2**31 / 10) or (rev == 2**31 / 10 and popped>7): return 0
-        if (rev < -2**31 / 10) or (rev == -2**31 / 10 and popped<-8): return 0
+        # if (rev > 2**31 / 10) or (rev == 2**31 / 10 and popped>7): return 0
+        # if (rev < -2**31 / 10) or (rev == -2**31 / 10 and popped<-8): return 0
+        
+        # this is good enough
+        if (rev >= 2**31 / 10) : return 0
+        if (rev <= -2**31 / 10) : return 0
 
         rev = rev * 10 + popped
     
@@ -61,6 +65,8 @@ def reverse(self, num: int) -> int:
 
 ```2**31 = 2147483648```
 ```-2**31 = -2147483648```
+
+-2147483648 to 2147483647 Because of the range see thee last digit
 
 This is what happens when it overflows
 
