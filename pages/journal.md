@@ -5,6 +5,8 @@ title:  Practice Log
 
 ### Jun 2
 
+Today I've done 6 problems. 5 were easy and 1 (reversing integer), I had to analyze how they handled overflow.
+
 Something that I'm realizing is that even if I have a bunch of easy questions, it still takes a long time to do a bunch of them. And the "harder" questions could be solved in the same amount of time if you've memorized them.
 
 Your willpower to keep doing another easy question will also be drained. At most, you might be able to get through 5-6 easy problems per day.
