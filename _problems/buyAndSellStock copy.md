@@ -63,5 +63,6 @@ def maxProfit(self, prices: List[int]) -> int:
 
 {% endhighlight %}
 
+We can make it constant space by changing ```positive_days``` to a variable that we continously sum up.
 
 ![image1]()
