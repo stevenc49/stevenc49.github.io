@@ -44,7 +44,22 @@ Explanation: In this case, no transaction is done, i.e. max profit = 0.
 Solution
 ----------
 
+This one is actually easier than the first one (Buy and Sell Stock 1) because you're not restricted to making only one trade.
+
+Since you can make multiple trades, you can buy and sell at every peak and valley. In that case, just sum up all the positive days and sum it up.
+
 {% highlight python %}
+
+def maxProfit(self, prices: List[int]) -> int:
+    
+    positive_days = []
+    
+    for i in range(len(prices)-1):
+        
+        if prices[i+1]-prices[i]>0:
+            positive_days.append( prices[i+1]-prices[i] )
+        
+    return sum(positive_days)
 
 {% endhighlight %}
 
