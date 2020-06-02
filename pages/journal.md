@@ -3,6 +3,15 @@ layout: page
 title:  Practice Log
 ---
 
+### Jun 2
+
+Also found this other youtube channel for coding interviews:
+https://www.youtube.com/channel/UCpLC2ohmappF2iUsWYRnsxg
+
+So we have "Terrible Whiteboard", nick white and backtobackswe.
+
+
+
 ### Jun 1
 
 Doing the list Leetcode Top Interview Questions Easy List:
