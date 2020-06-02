@@ -7,13 +7,15 @@ leetcode_url:
 status: Attempted
 ---
 
-##### Problem
+Problem
+-------
 
 {% highlight text %}
 
 {% endhighlight %}
 
-##### Solution
+Solution
+----------
 
 {% highlight python %}
 

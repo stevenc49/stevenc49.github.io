@@ -7,7 +7,8 @@ leetcode_url: https://leetcode.com/problems/single-number/
 status: Solved
 ---
 
-##### Problem
+Problem
+------------
 
 {% highlight text %}
 
@@ -28,23 +29,24 @@ Output: 4
 
 {% endhighlight %}
 
-##### Solution
+Solution
+---------
 
-XOR Solution
---------------
+### XOR Solution
+
 
 Since XOR is commutative and any number XOR'ed with itself is 0, it will cancel out all the duplicate numbers, leaving the single number by itself
 
 {% highlight python %}
 
-    def singleNumber(self, nums: List[int]) -> int:
+def singleNumber(self, nums: List[int]) -> int:
+    
+    res=0
+    for n in nums:
+        res = res^n
+        print(res)
         
-        res=0
-        for n in nums:
-            res = res^n
-            print(res)
-            
-        return res
+    return res
 
 {% endhighlight %}
 
