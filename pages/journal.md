@@ -5,6 +5,12 @@ title:  Practice Log
 
 ### Jun 2
 
+Something that I'm realizing is that even if I have a bunch of easy questions, it still takes a long time to do a bunch of them. And the "harder" questions could be solved in the same amount of time if you've memorized them.
+
+So the only way to do good on interviews is to do a bunch of problems, memorize them and find ways to practice more problems right before your interview.
+
+-----------
+
 Also found this other youtube channel for coding interviews:
 https://www.youtube.com/channel/UCpLC2ohmappF2iUsWYRnsxg
 
