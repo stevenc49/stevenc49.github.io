@@ -6,6 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status
 -----------|-----------|---------
+[Buy and Sell Stock 2](/problems/buyAndSellStock copy) | 2020-06-02 | Solved 
 [Buy and Sell Stock](/problems/buyAndSellStock) | 2020-06-02 | Solved 
 [Single Number](/problems/singleNumber) | 2020-06-02 | Solved 
 [Reverse Integer](/problems/reverseInteger) | 2020-06-02 | Solved 
