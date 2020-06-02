@@ -32,10 +32,42 @@ Output: 4
 Solution
 ---------
 
-### XOR Solution
+
+### Add to List and Remove if duplicated
+
+{% highlight python %}
+
+def singleNumber(self, nums: List[int]) -> int:
+    
+    dupList = []
+    
+    for n in nums:
+        if n in dupList:
+            dupList.remove(n)
+        else:
+            dupList.append(n)
+    
+    return dupList[0]
+
+{% endhighlight %}
+
+- Time: O(n^2) because O(n) to look thru list once, and since search is in loop, it's another O(n)
+- Space: O(n)
+
+
+### Hashtable
+
+Add to hash table with count and return count=1.
+
+- O(n) time and space
+
+### XOR Solution (Best Solution)
 
 
 Since XOR is commutative and any number XOR'ed with itself is 0, it will cancel out all the duplicate numbers, leaving the single number by itself
+
+- O(n) time
+- O(1) space
 
 {% highlight python %}
 
@@ -48,7 +80,7 @@ def singleNumber(self, nums: List[int]) -> int:
         
     return res
 
-{% endhighlight %}
+{% endhighlight python %}
 
 
 ![image1]()
