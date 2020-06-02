@@ -25,6 +25,8 @@ Output: 21
 
 ##### Solution
 
+This solution doesn't handle overflows yet.
+
 {% highlight python %}
 
 def reverse(self, num: int) -> int:
