@@ -4,7 +4,7 @@ title:  Reverse Integer
 last_solved: 2020-06-02
 category: math
 leetcode_url: https://leetcode.com/problems/reverse-integer
-status: Attempted
+status: Solved
 ---
 
 ##### Problem
