@@ -6,6 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status
 -----------|-----------|---------
+[Move Zeros](/problems/moveZeros) | 2020-06-02 | Solved 
 [Two Sum](/problems/twoSum) | 2020-06-02 | Solved 
 [Buy and Sell Stock 2](/problems/buyAndSellStock copy) | 2020-06-02 | Solved 
 [Buy and Sell Stock](/problems/buyAndSellStock) | 2020-06-02 | Solved 
