@@ -6,6 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Water with Most Water](/problems/waterWithMostWater) | 2020-06-03 | Solved | array, 2ptr 
 [Two City Scheduling](/problems/twoCityScheduling) | 2020-06-03 | Not Solved | greedy, optimization 
 [Move Zeros](/problems/moveZeros) | 2020-06-02 | Solved | array 
 [Two Sum](/problems/twoSum) | 2020-06-02 | Solved | array 
@@ -17,7 +18,6 @@ Problem | Last Modified | Status | Category
 [Add Strings](/problems/addStrings) | 2020-06-01 | Attempted | math 
 [Word Search](/problems/wordSearch) | 2020-06-01 | Attempted | matrix 
 [invert Tree](/problems/invertTree) | 2020-06-01 | Solved | tree 
-[Water with Most Water](/problems/waterWithMostWater) | 2020-05-31 |  | array, 2ptr 
 [Set Matrix Zeros](/problems/setMatrixZeros) | 2020-05-29 |  |  
 [Max Area of Island](/problems/maxAreaOfIsland) | 2020-05-28 |  |  
 [Number of Islands](/problems/numIslands) | 2020-05-28 |  |  
