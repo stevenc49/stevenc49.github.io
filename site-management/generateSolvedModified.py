@@ -48,7 +48,7 @@ title:  Solved - Last Modified
                 (getAttribute(filename, "title"), \
                     "/problems/"+filename[:-3], \
                     prob[1], \
-                    getAttribute(filename, "status") \
+                    getAttribute(filename, "status"), \
                     getAttribute(filename, "category") \
                     )
 
