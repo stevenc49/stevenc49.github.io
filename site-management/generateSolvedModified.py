@@ -36,15 +36,21 @@ title:  Solved - Last Modified
     """.strip() + "\n\n\n"
 
     # generate table header
-    sb += "Problem | Last Modified | Status\n"
-    sb += "-----------|-----------|---------\n"
+    sb += "Problem | Last Modified | Status | Category \n"
+    sb += "--------|---------------|--------|----------\n"
 
     # generate table rows
     for prob in list_filenames_dates:
         filename = prob[0]
 
         if filename and filename!="1template.md":
-            sb += "[%s](%s) | %s | %s \n" % (getAttribute(filename, "title"), "/problems/"+filename[:-3], prob[1], getAttribute(filename, "status"))
+            sb += "[%s](%s) | %s | %s | %s \n" % \
+                (getAttribute(filename, "title"), \
+                    "/problems/"+filename[:-3], \
+                    prob[1], \
+                    getAttribute(filename, "status") \
+                    getAttribute(filename, "category") \
+                    )
 
 
     # write to solved list markdown page
