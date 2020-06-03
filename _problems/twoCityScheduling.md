@@ -35,14 +35,51 @@ The total minimum cost is 10 + 30 + 50 + 20 = 110 to have half the people interv
 Solution
 ----------
 
-Not solved, looked over solutions.
-
-- [Leetcode discuss](https://leetcode.com/problems/two-city-scheduling/discuss/668155/Two-Approach-or-Detailed-Explanation-or-Clean-Code-or-Java-1ms-or)
-- [Youtube](https://www.youtube.com/watch?v=vtNoP43hGJA)
-
 {% highlight python %}
 
+costs = [
+    [10,20],
+    [30,200],
+    [400,50],
+    [30,20]
+]
+
+def minCosts(costs):
+
+    n = len(costs)//2
+
+    # calculate the difference between city A and city B for each person
+    delta = [(a - b) for a, b in costs]
+    print( "delta: ", delta )
+
+    # get the ordered difference
+    ordered_delta = sorted((value, i) for (i, value) in enumerate(delta))
+    print( "ordered delta:", ordered_delta )
+    
+    minimum_cost = 0
+
+    # for the n smallest cost_A - cost_B, it costs a lot to fly to B,
+    # so we send them to city A
+    print( "ordered_delta[:n] ", ordered_delta[:n] )
+    for value, i in ordered_delta[:n]:
+        minimum_cost += costs[i][0]
+
+    # for the n greatest cost_A - cost_B, it costs a lot to fly to A,
+    # so we send them to city B
+    for value, i in ordered_delta[n:]:
+        minimum_cost += costs[i][1]
+    return minimum_cost
+
+print( minCosts(costs) )
+
 {% endhighlight %}
+
+```
+delta:  [-10, -170, 350, 10]
+ordered delta: [(-170, 1), (-10, 0), (10, 3), (350, 2)]
+ordered_delta[:n]  [(-170, 1), (-10, 0)]
+110
+```
 
 
 ![image1]()

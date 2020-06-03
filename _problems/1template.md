@@ -10,9 +10,10 @@ status: Attempted
 Problem
 -------
 
-{% highlight text %}
+```
 
-{% endhighlight %}
+
+```
 
 Solution
 ----------
