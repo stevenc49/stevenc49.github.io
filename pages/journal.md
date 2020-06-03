@@ -13,6 +13,9 @@ Your willpower to keep doing another easy question will also be drained. At most
 
 So the only way to do good on interviews is to do a bunch of problems, memorize them and find ways to practice more problems right before your interview.
 
+Also, read this:
+https://leetcode.com/explore/interview/card/coding-interview-strategy
+
 
 
 -----------
