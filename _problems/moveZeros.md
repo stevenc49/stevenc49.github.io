@@ -2,7 +2,7 @@
 layout: page
 title:  Move Zeros
 last_solved: 2020-06-02
-category: arrays
+category: array
 leetcode_url: https://leetcode.com/problems/move-zeroes/
 status: Solved
 ---

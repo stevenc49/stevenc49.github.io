@@ -6,7 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
-[Move Zeros](/problems/moveZeros) | 2020-06-02 | Solved | arrays 
+[Move Zeros](/problems/moveZeros) | 2020-06-02 | Solved | array 
 [Two Sum](/problems/twoSum) | 2020-06-02 | Solved | array 
 [Buy and Sell Stock 2](/problems/buyAndSellStock copy) | 2020-06-02 | Solved | array 
 [Buy and Sell Stock](/problems/buyAndSellStock) | 2020-06-02 | Solved | array 
