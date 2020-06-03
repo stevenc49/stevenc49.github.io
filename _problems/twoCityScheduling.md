@@ -2,7 +2,7 @@
 layout: page
 title:  Two City Scheduling
 last_solved: 2020-06-03
-category: optimization
+category: greedy, optimization
 leetcode_url: https://leetcode.com/problems/two-city-scheduling
 status: Not Solved
 ---
@@ -37,8 +37,8 @@ Solution
 
 Not solved, looked over solutions.
 
-https://leetcode.com/problems/two-city-scheduling/discuss/668155/Two-Approach-or-Detailed-Explanation-or-Clean-Code-or-Java-1ms-or
-https://www.youtube.com/watch?v=vtNoP43hGJA
+- [Leetcode discuss](https://leetcode.com/problems/two-city-scheduling/discuss/668155/Two-Approach-or-Detailed-Explanation-or-Clean-Code-or-Java-1ms-or)
+- [Youtube](https://www.youtube.com/watch?v=vtNoP43hGJA)
 
 {% highlight python %}
 
