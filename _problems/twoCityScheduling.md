@@ -82,4 +82,4 @@ ordered_delta[:n]  [(-170, 1), (-10, 0)]
 ```
 
 
-![image1]()
+![image1](https://gnfhha.dm.files.1drv.com/y4muHXtqyUxi04APXeMASIp-yHG57ZaQjRlTKOSEZKuTP093gr_IpctxKHrhcC_w5Dzj7GjGOia0S0fzqFCQEz4yVcm_3f0UP9NtsNzDCAU51qivDcj1tmMKDm1QAQNtdEOfxjQpmxE3uGQtsQRVjcwv5NX9dhqis6gkW1_MkABagijSZSmRh6Tpe5a3aMOtLvkGib3dWO9QvYuDPpBBgsDxA?width=2245&height=1049&cropmode=none)
