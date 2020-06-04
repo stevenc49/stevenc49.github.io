@@ -6,6 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Merge Intervals](/problems/mergeIntervals) | 2020-06-03 | Attempted | intervals 
 [Water with Most Water](/problems/waterWithMostWater) | 2020-06-03 | Solved | array, 2ptr 
 [Two City Scheduling](/problems/twoCityScheduling) | 2020-06-03 | Not Solved | greedy, optimization 
 [Move Zeros](/problems/moveZeros) | 2020-06-02 | Solved | array 
@@ -38,7 +39,6 @@ Problem | Last Modified | Status | Category
 [Num Ones](/problems/numOnes) | 2020-05-14 |  |  
 [Longest Substring without Repeating Characters](/problems/longestSubstringWithoutRepeatingChars) | 2020-05-14 |  |  
 [Linked List Cycle](/problems/llcycle) | 2020-05-13 |  |  
-[Merge Intervals](/problems/mergeIntervals) | 2020-05-13 |  |  
 [Validate BST](/problems/validateBST) | 2020-05-12 |  |  
 [Is Same Tree?](/problems/isSameTree) | 2020-05-12 |  |  
 [Print K distance from Root](/problems/printKdistanceFromRoot) | 2020-05-11 |  |  
