@@ -6,7 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
-[Remove Duplicate from Sorted List](/problems/removeDupFromSortedList) | 2020-06-03 | Solved | array, 2ptr 
+[Remove Duplicate from Sorted Array](/problems/removeDupFromSortedArray) | 2020-06-03 | Solved | array, 2ptr 
 [Two City Scheduling](/problems/twoCityScheduling) | 2020-06-03 | Attempted | greedy, optimization 
 [Merge Intervals](/problems/mergeIntervals) | 2020-06-03 | Attempted | intervals 
 [Water with Most Water](/problems/waterWithMostWater) | 2020-06-03 | Solved | array, 2ptr 
