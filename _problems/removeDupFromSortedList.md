@@ -2,7 +2,7 @@
 layout: page
 title:  Remove Duplicate from Sorted List
 last_solved: 2020-06-03
-category: array
+category: array, 2ptr
 leetcode_url: https://leetcode.com/problems/remove-duplicates-from-sorted-array
 status: Solved
 ---
