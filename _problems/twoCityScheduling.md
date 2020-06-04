@@ -4,7 +4,7 @@ title:  Two City Scheduling
 last_solved: 2020-06-03
 category: greedy, optimization
 leetcode_url: https://leetcode.com/problems/two-city-scheduling
-status: Not Solved
+status: Attempted
 ---
 
 Problem

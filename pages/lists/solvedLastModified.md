@@ -6,9 +6,9 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Two City Scheduling](/problems/twoCityScheduling) | 2020-06-03 | Attempted | greedy, optimization 
 [Merge Intervals](/problems/mergeIntervals) | 2020-06-03 | Attempted | intervals 
 [Water with Most Water](/problems/waterWithMostWater) | 2020-06-03 | Solved | array, 2ptr 
-[Two City Scheduling](/problems/twoCityScheduling) | 2020-06-03 | Not Solved | greedy, optimization 
 [Move Zeros](/problems/moveZeros) | 2020-06-02 | Solved | array 
 [Two Sum](/problems/twoSum) | 2020-06-02 | Solved | array 
 [Buy and Sell Stock 2](/problems/buyAndSellStock copy) | 2020-06-02 | Solved | array 
