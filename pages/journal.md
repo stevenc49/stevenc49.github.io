@@ -3,6 +3,14 @@ layout: page
 title:  Practice Log
 ---
 
+### Jun 4
+
+I'm starting to realize there's no way I'm going to memorize the solution to all these problems. But I'm starting to feel like it's actually possible to "recite" these solutions in an interview if I do enough of them. It's just going to take a lot of time and practice.
+
+So I would still have to spend all my available time on it for a chance to get lucky in an interview. Still, it's something that I should do if I have a pointless job. But I should still work on other stuff in life if I can make the time for it.
+
+
+
 ### Jun 3
 
 I studied one new type of problem (two city scheduling). It's a greedy problem that I probably wouldn't have encountered but I did it because it was the June challenge.
