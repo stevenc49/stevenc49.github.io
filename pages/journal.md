@@ -3,6 +3,18 @@ layout: page
 title:  Practice Log
 ---
 
+### Jun 3
+
+I studied one new type of problem (two city scheduling). It's a greedy problem that I probably wouldn't have encountered but I did it because it was the June challenge.
+
+That also brought me to redo (Merge Intervals) because of the foreign Python syntax to sort by first element. I need to practice python fundamentals instead of doing my Java style habits.
+
+Python practices here:
+- https://www.hackerrank.com/domains/python
+- https://learnxinyminutes.com/docs/python/
+
+
+
 ### Jun 2
 
 Today I've done 6 problems. 5 were easy and 1 (reversing integer), I had to analyze how they handled overflow.
