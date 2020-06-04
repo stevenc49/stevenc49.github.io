@@ -2,7 +2,7 @@
 layout: page
 title:  Two City Scheduling
 last_solved: 2020-06-03
-category: greedy, optimization
+category: greedy
 leetcode_url: https://leetcode.com/problems/two-city-scheduling
 status: Attempted
 ---
