@@ -4,7 +4,7 @@ title:  Rotate Array
 last_solved: 2020-06-04
 category: array
 leetcode_url: https://leetcode.com/problems/rotate-array/
-status: Semi-Solved
+status: Semi-Solved, Multiple solutions
 ---
 
 Problem

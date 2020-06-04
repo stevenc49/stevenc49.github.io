@@ -6,9 +6,9 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Jump Game](/problems/jumpGame) | 2020-06-04 | Semi-Solved, Multiple solutions | greedy, dp, backtracking 
+[Rotate Array](/problems/rotateArray) | 2020-06-04 | Semi-Solved, Multiple solutions | array 
 [Two City Scheduling](/problems/twoCityScheduling) | 2020-06-04 | Attempted | greedy 
-[Jump Game](/problems/jumpGame) | 2020-06-04 | Attempted | greedy, dp, backtracking 
-[Rotate Array](/problems/rotateArray) | 2020-06-04 | Semi-Solved | array 
 [Remove Duplicate from Sorted Array](/problems/removeDupFromSortedArray) | 2020-06-03 | Solved | array, 2ptr 
 [Merge Intervals](/problems/mergeIntervals) | 2020-06-03 | Attempted | intervals 
 [Water with Most Water](/problems/waterWithMostWater) | 2020-06-03 | Solved | array, 2ptr 
