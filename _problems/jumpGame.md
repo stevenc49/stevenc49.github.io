@@ -44,7 +44,7 @@ There are 4 solutions to this:
 
 The solutions article in leetcode is actually really good for this question. [here](https://leetcode.com/problems/jump-game/solution/)
 
-Here is the greedy approach:
+#### Greedy Approach
 
 Go backwards from the last position. If you can reach the first element from the last element, then you are good.
 
