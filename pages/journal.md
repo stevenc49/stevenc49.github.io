@@ -3,6 +3,15 @@ layout: page
 title:  Practice Log
 ---
 
+### Jun 5
+
+Leetcoding is now full-time job. Business ideas/Real Estate are side hustles. No time for real work.
+
+If you can't understand a problem. Try to understand as much of it and revisit it the next day. Mark it down as "Attempted" in the Solved Problems page.
+
+After a while, you should go back and "revisit" all the ones you marked as Attempted.
+
+
 ### Jun 4
 
 I'm starting to realize there's no way I'm going to memorize the solution to all these problems. But I'm starting to feel like it's actually possible to "recite" these solutions in an interview if I do enough of them. It's just going to take a lot of time and practice.
