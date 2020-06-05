@@ -2,14 +2,14 @@ arr = [2,3,1,1,4]
 
 def canJump(nums) -> bool:
     
-    lastPos = len(nums) - 1
+    lastGoodPos = len(nums) - 1
     for i in reversed(range(len(nums))):
         
-        print(i, nums[i], lastPos)
+        print(i, nums[i], lastGoodPos, i + nums[i] >= lastGoodPos)
 
-        if i + nums[i] >= lastPos:
-            lastPos = i
+        if i + nums[i] >= lastGoodPos:
+            lastGoodPos = i
     
-    return lastPos == 0
+    return lastGoodPos == 0
 
 canJump(arr)

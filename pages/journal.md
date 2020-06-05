@@ -11,6 +11,8 @@ If you can't understand a problem. Try to understand as much of it and revisit i
 
 After a while, you should go back and "revisit" all the ones you marked as Attempted.
 
+Don't get stuck on any one problem. Your goal is to move ahead and do as many problems as possible with deliberate practice.
+
 
 ### Jun 4
 

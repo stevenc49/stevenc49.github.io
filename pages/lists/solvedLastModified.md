@@ -6,7 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
-[Jump Game](/problems/jumpGame) | 2020-06-04 | Semi-Solved, Multiple solutions | greedy, dp, backtracking 
+[Jump Game](/problems/jumpGame) | 2020-06-05 | Semi-Solved, Multiple solutions | greedy, dp, backtracking 
 [Rotate Array](/problems/rotateArray) | 2020-06-04 | Semi-Solved, Multiple solutions | array 
 [Two City Scheduling](/problems/twoCityScheduling) | 2020-06-04 | Attempted | greedy 
 [Remove Duplicate from Sorted Array](/problems/removeDupFromSortedArray) | 2020-06-03 | Solved | array, 2ptr 

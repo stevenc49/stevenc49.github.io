@@ -52,17 +52,43 @@ This is a O(n) time and O(1) space solution.
 
 {% highlight python %}
 
-def canJump(self, nums: List[int]) -> bool:
+def canJump(nums) -> bool:
     
-    lastPos = len(nums) - 1
+    lastGoodPos = len(nums) - 1
     for i in reversed(range(len(nums))):
         
-        if i + nums[i] >= lastPos:
-            lastPos = i
+        if i + nums[i] >= lastGoodPos:
+            lastGoodPos = i
     
-    return lastPos == 0
+    return lastGoodPos == 0
 
 {% endhighlight %}
 
+
+```
+
+walk thru each iteration:
+
+4+4>=4
+8>=4 is true
+lastgoodPos = 4
+
+3+1>=4
+4>=4 is true
+lastGoodPos = 3
+
+2+1>=3
+3>=3 is true
+lastGoodPos = 2
+
+1+3>=2
+4>=2 is true
+lastGoodPos = 1
+
+0+2>=1
+2>=1 is true
+lastGoodPos = 0
+
+```
 
 ![image1]()
