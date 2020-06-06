@@ -7,6 +7,8 @@ title:  Practice Log
 
 Going thru some of the SQL problems in preparation for the SQL online assessment. I'm realizin it's not just about knowing algorithms. Getting good at interviews is just about getting good at the skill of being tested.  It's not about being a good engineer and completing projects, it's about being good at leetcode problems and hackerrank shit.
 
+https://www.hackerrank.com/dashboard
+
 ------------
 
 Spent longer than I should have on Longest Common Prefix. It should've been an easy String problem but I'm not familiar with the basic String functions (ie: index() vs find()).
