@@ -5,6 +5,13 @@ title:  Practice Log
 
 ### Jun 5
 
+Spent longer than I should have on Longest Common Prefix. It should've been an easy String problem but I'm not familiar with the basic String functions (ie: index() vs find()).
+
+I need to spend more time on String problems too. Thinking they're too easy and avoiding them is a mistake.
+
+
+-------------
+
 Leetcoding is now full-time job. Business ideas/Real Estate are side hustles. No time for real work.
 
 If you can't understand a problem. Try to understand as much of it and revisit it the next day. Mark it down as "Attempted" in the Solved Problems page.
