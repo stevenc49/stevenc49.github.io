@@ -16,7 +16,7 @@ def intersect(nums1, nums2):
     ans = []
     
     # logic is similar to merging
-    while( i < len(nums1)-1 and j < len(nums2)-1 ):
+    while( i <= len(nums1)-1 and j <= len(nums2)-1 ):
 
         if nums1[i]==nums2[j]:
             ans.append(nums1[i])
