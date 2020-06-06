@@ -5,6 +5,10 @@ title:  Practice Log
 
 ### Jun 5
 
+Use the Python debugger in VS Code. F5 to debug, F10 to step over.
+
+------------
+
 Going thru some of the SQL problems in preparation for the SQL online assessment. I'm realizin it's not just about knowing algorithms. Getting good at interviews is just about getting good at the skill of being tested.  It's not about being a good engineer and completing projects, it's about being good at leetcode problems and hackerrank shit.
 
 https://www.hackerrank.com/dashboard

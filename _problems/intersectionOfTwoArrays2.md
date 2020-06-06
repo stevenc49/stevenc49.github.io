@@ -44,8 +44,6 @@ def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:
         else:
             map[num] = map[num] + 1
 
-
-
     # iter thru num2, if exist in map, minus it
     res = []
     for num in nums2:
