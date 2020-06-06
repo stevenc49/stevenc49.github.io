@@ -5,6 +5,10 @@ title:  Practice Log
 
 ### Jun 5
 
+Did the problem "Plus One" all by myself without reference. Sure, I took a bit longer with some corner cases but it's definately a confidence booster.
+
+-------------
+
 Use the Python debugger in VS Code. F5 to debug, F10 to step over.
 
 ------------
