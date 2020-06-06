@@ -6,6 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Intersection of Two Arrays II](/problems/intersectionOfTwoArrays2) | 2020-06-05 | Solved | array 
 [Longest Common Prefix](/problems/longestCommonPrefix) | 2020-06-05 | Solved | string 
 [Jump Game](/problems/jumpGame) | 2020-06-05 | Semi-Solved, Multiple solutions | greedy, dp, backtracking 
 [Rotate Array](/problems/rotateArray) | 2020-06-04 | Semi-Solved, Multiple solutions | array 
