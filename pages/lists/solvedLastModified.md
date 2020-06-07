@@ -6,6 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Queue Reconstruction By Height](/problems/queueReconstructionByHeight) | 2020-06-06 | Attempted | greedy 
 [Plus One](/problems/plusOne) | 2020-06-05 | Solved | array 
 [Intersection of Two Arrays II](/problems/intersectionOfTwoArrays2) | 2020-06-05 | Solved | array 
 [Longest Common Prefix](/problems/longestCommonPrefix) | 2020-06-05 | Solved | string 
