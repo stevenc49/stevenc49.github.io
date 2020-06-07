@@ -12,57 +12,22 @@ status: Solved
 
 {% highlight python %}
 
-class LinkedListNode:
-
-    def __init__(self, val):
-
-        self.val = val
-        self.next = None
-
-
-
-def reverse(head):
-
-    curr = head
+def reverseList(self, head: ListNode) -> ListNode:
+    
     prev = None
+    curr = head
     next = None
-
+    
     while curr:
         
-        # save next node
-        next = curr.next
-
-        # reverse curr's pointer
-        curr.next = prev
-
-        # advance curr and prev
+        next = curr.next    # save next
+        
+        curr.next = prev    # do reversal
+        
         prev = curr
         curr = next
     
-    head = prev
-    return head
-
-
-head = LinkedListNode(1)
-head.next = LinkedListNode(2)
-head.next.next = LinkedListNode(3)
-
-# print list
-node = head
-while node:
-    print(node.val)
-    node = node.next
-
-
-head = reverse(head)
-
-
-# print list
-node = head
-while node:
-    print(node.val)
-    node = node.next
-
+    return prev
 
 
 {% endhighlight %}
