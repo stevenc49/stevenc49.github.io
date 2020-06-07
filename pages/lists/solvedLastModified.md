@@ -6,6 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Reverse Linked List Iteratively](/problems/reverseLLiterative) | 2020-06-06 | Solved | linked list 
 [Remove Nth Node from End of List](/problems/removeNthNodeFromEndOfList) | 2020-06-06 | Solved | linked list 
 [Queue Reconstruction By Height](/problems/queueReconstructionByHeight) | 2020-06-06 | Attempted | greedy 
 [Plus One](/problems/plusOne) | 2020-06-05 | Solved | array 
@@ -59,7 +60,6 @@ Problem | Last Modified | Status | Category
 [Is Sub Tree?](/problems/isSubtree) | 2020-05-11 |  |  
 [Max Depth of Tree](/problems/maxDepth) | 2020-05-11 |  |  
 [Merge Sorted Linked List (Recursive)](/problems/mergeSortedLLrecur) | 2020-05-11 |  |  
-[Reverse Linked List Iteratively](/problems/reverseLLiterative) | 2020-05-11 |  |  
 [Rotate Image](/problems/rotateImage) | 2020-05-11 |  |  
 [Maximum Product Subarray](/problems/maxProductSubarray) | 2020-05-09 |  |  
 [LCA of binary tree](/problems/lcaBinaryTree) | 2020-05-06 |  |  

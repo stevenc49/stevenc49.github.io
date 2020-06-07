@@ -1,6 +1,10 @@
 ---
 layout: page
 title:  Reverse Linked List Iteratively
+last_solved: 2020-06-06
+category: linked list
+leetcode_url: https://leetcode.com/problems/reverse-linked-list/
+status: Solved
 ---
 
 
