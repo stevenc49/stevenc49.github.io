@@ -6,6 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Remove Nth Node from End of List](/problems/removeNthNodeFromEndOfList) | 2020-06-06 | Solved | linked list 
 [Queue Reconstruction By Height](/problems/queueReconstructionByHeight) | 2020-06-06 | Attempted | greedy 
 [Plus One](/problems/plusOne) | 2020-06-05 | Solved | array 
 [Intersection of Two Arrays II](/problems/intersectionOfTwoArrays2) | 2020-06-05 | Solved | array 
