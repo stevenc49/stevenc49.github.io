@@ -3,6 +3,17 @@ layout: page
 title:  Practice Log
 ---
 
+### Jun 6
+
+Goal: finish easy collection by wednesday.
+
+Get to the point where you can read solution and understand/code it.
+https://leetcode.com/problems/coin-change-2/discuss/675096/Python-O(amount-*-N)-simple-dp-explained-(updated)
+
+Don't compare your ability with anyone else, just compare to your past self.
+
+
+
 ### Jun 5
 
 Did the problem "Plus One" all by myself without reference. Sure, I took a bit longer with some corner cases but it's definately a confidence booster.
