@@ -10,6 +10,8 @@ Goal: finish easy collection by wednesday.
 Get to the point where you can read solution and understand/code it.
 https://leetcode.com/problems/coin-change-2/discuss/675096/Python-O(amount-*-N)-simple-dp-explained-(updated)
 
+At least be able to comment on the code.
+
 Don't compare your ability with anyone else, just compare to your past self.
 
 
