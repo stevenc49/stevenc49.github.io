@@ -8,7 +8,10 @@ title:  Practice Log
 Booked a peer interview for Thursday @ 3pm. Should start watching other interviews from the showcase.
 https://start.interviewing.io/showcase
 
+-----------------
 
+Teck mining company, who has no business giving technical interviews, are also giving out hacker ranks assessments now.
+This whole industry has gone to shit.
 
 
 ### Jun 6
