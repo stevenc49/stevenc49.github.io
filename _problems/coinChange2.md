@@ -37,20 +37,24 @@ Output: 1
 Solution
 ----------
 
-[This](https://leetcode.com/problems/coin-change-2/discuss/675096/Python-O(amount-*-N)-simple-dp-explained-(updated)) discussion explains it, but I'm still not getting how the dp table derives its values.
-
-
-[This](https://www.youtube.com/watch?v=DJ4a7cmjZY0) video from backtobackswe explains why it's "-coin[j][j]"
-
+[This](https://www.youtube.com/watch?v=DJ4a7cmjZY0) video from backtobackswe explains why you subtract the coin.
 
 ```
         0	1	2	3	4	5
-[1]     1	1	1	1	1	1
-[1,2]	1	1	2	2	3	3
+[1]     1	1	1	1	^1^	1
+[1,2]	1	1	`2`	2	*3*	3
 [1,2,5]	1	1	2	2	3	4
 ```
 
-Think of 
+```*3* = ^1^ + `2` ```
+
+Think of "ways to make $4 with [1,2]" is equal to:
+
+It's equal to (ways to make $4 with [1] coin) + (ways to make $2 with [1,2] coins)
+
+```	(1+1+1+1)         +      ( [1,1] + [2] ) "+2 if we use the $2 coin"         ```
+
+The reason it's "ways to make $2 with [1,2] coins" is because if **we USE THE 2 coin, then it's $4-$2 coin, and we solve subproblem of ways to make $2 with [1,2] coins**
 
 {% highlight python %}
 
