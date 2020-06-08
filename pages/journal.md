@@ -14,6 +14,10 @@ At least be able to comment on the code. Just find the systematic approach to ge
 
 Don't compare your ability with anyone else, just compare to your past self.
 
+-----------
+
+If you don't get a solution, keep using other resources until you can understand it.
+
 
 
 ### Jun 5

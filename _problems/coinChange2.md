@@ -39,6 +39,10 @@ Solution
 
 [This](https://leetcode.com/problems/coin-change-2/discuss/675096/Python-O(amount-*-N)-simple-dp-explained-(updated)) discussion explains it, but I'm still not getting how the dp table derives its values.
 
+
+[This](https://www.youtube.com/watch?v=DJ4a7cmjZY0) video from backtobackswe explains why it's "-coin[j][j]"
+
+
 ```
                 0	1	2	3	4	5
 coin #0 (1)	1	1	1	1	1	1
