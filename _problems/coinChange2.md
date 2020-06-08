@@ -48,7 +48,7 @@ coin #2 (5)	1	1	2	2	3	4
 
 {% highlight python %}
 
-def change(self, amount, coins):
+def change(amount, coins):
     N = len(coins)
     if N == 0: return int(N == amount)
     
