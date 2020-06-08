@@ -6,6 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Coin Change 2](/problems/coinChange2) | 2020-06-07 | Not Solved | dp 
 [First Unque Char in String](/problems/firstNonRepeatingChar) | 2020-06-07 | Solved | string 
 [Reverse Linked List Iteratively](/problems/reverseLLiterative) | 2020-06-06 | Solved | linked list 
 [Remove Nth Node from End of List](/problems/removeNthNodeFromEndOfList) | 2020-06-06 | Solved | linked list 
