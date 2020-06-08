@@ -3,6 +3,14 @@ layout: page
 title:  Practice Log
 ---
 
+### Jun 7
+
+Booked a peer interview for Thursday @ 3pm. Should start watching other interviews from the showcase.
+https://start.interviewing.io/showcase
+
+
+
+
 ### Jun 6
 
 Goal: finish easy collection by wednesday.
