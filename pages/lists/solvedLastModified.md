@@ -6,6 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Is Subsequence](/problems/isSubSequence) | 2020-06-09 | Attempted | strings, 2ptr 
 [Search in Rotated Sorted Array](/problems/searchRotatedArray) | 2020-06-08 | Attempted | binary search 
 [Coin Change 2](/problems/coinChange2) | 2020-06-07 | Not Solved | dp 
 [First Unque Char in String](/problems/firstNonRepeatingChar) | 2020-06-07 | Solved | string 
