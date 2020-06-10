@@ -7,6 +7,9 @@ title:  Practice Log
 
 Did the Hackerrank Data Engineer BS assessment yesterday. It was pretty BS. It's a good reminder that these algo questions are the easiest way to go if you get good at them.
 
+P.S. need to categorize binary search as its own categories and practice a bunch of those questions, just like strings
+
+
 
 
 ### Jun 7
