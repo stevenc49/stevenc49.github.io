@@ -3,6 +3,12 @@ layout: page
 title:  Practice Log
 ---
 
+### Jun 10
+
+Did the Hackerrank Data Engineer BS assessment yesterday. It was pretty BS. It's a good reminder that these algo questions are the easiest way to go if you get good at them.
+
+
+
 ### Jun 7
 
 Booked a peer interview for Thursday @ 3pm. Should start watching other interviews from the showcase.
