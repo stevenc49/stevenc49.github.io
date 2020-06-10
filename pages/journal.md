@@ -6,6 +6,8 @@ title:  Practice Log
 ### Jun 10
 
 
+Search Insert Position
+----------------------
 
 I did the problem "Search INsert Position" all by myself. It was an easy binary search question, but it's usually one of the ones that I always failed at.
 
@@ -16,6 +18,12 @@ Looking back at some of the LC discussions, I may have over-complicated it and w
 I posted my solution in the discussions for feedback.
 
 
+
+Validate Sudoku
+----------------------
+
+Also did validate sudoku problem. I did it within a reasonable amount of time. The debugger helped with finding bugs such as ignoring ".".
+It wasn't a logic problem.  Just a trivial mistake.
 
 -----------------------
 
