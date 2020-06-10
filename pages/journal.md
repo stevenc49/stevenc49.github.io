@@ -11,6 +11,10 @@ I did the problem "Search INsert Position" all by myself. It was an easy binary 
 
 I started with what I know about binary search and modified it by thinking of all the edge cases and eventually wound up at an acceptable solution.
 
+Looking back at some of the LC discussions, I may have over-complicated it and wrote more than I need to. The classical binary search would have suffice with a single line modification (return left if none found).
+
+I posted my solution in the discussions for feedback.
+
 
 
 -----------------------
