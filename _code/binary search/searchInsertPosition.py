@@ -10,27 +10,27 @@ def searchInsert(nums, target):
         if target==nums[mid]:
             return mid
 
-        # left and right beside each other
-        elif right-left<=1:
+        # # left and right beside each other
+        # elif right-left<=1:
 
-            # and target is inbetween (ie: [4,6], tar=5)
-            if target>=nums[left] and target<=nums[right]:
-                return left+1
+        #     # and target is inbetween (ie: [4,6], tar=5)
+        #     if target>=nums[left] and target<=nums[right]:
+        #         return left+1
 
-            # target is outside of array (to the right)
-            elif target>nums[right]:
-                return right+1
+        #     # target is outside of array (to the right)
+        #     elif target>nums[right]:
+        #         return right+1
             
-            # target is outside of array (to the left)
-            elif target<nums[left]:
-                return left
+        #     # target is outside of array (to the left)
+        #     elif target<nums[left]:
+        #         return left
 
         elif target>nums[mid]:
             left = mid+1
         elif target<nums[mid]:
             right = mid-1
 
-    return -1
+    return left
 
 
 
