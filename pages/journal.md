@@ -5,6 +5,16 @@ title:  Practice Log
 
 ### Jun 10
 
+
+
+I did the problem "Search INsert Position" all by myself. It was an easy binary search question, but it's usually one of the ones that I always failed at.
+
+I started with what I know about binary search and modified it by thinking of all the edge cases and eventually wound up at an acceptable solution.
+
+
+
+-----------------------
+
 Did the Hackerrank Data Engineer BS assessment yesterday. It was pretty BS. It's a good reminder that these algo questions are the easiest way to go if you get good at them.
 
 P.S. need to categorize binary search as its own categories and practice a bunch of those questions, just like strings
