@@ -7,10 +7,17 @@ title:  Practice Log
 
 ### Jun 11
 
-Just finished the practice interview. It went okay. I got a solution, although it wasn't optimal.
+Just finished the practice interview. It went okay. I surprised myself when I actually came up with a solution myself in the allotted time, even though it wasn't optimal. For your practice, allocate some time to problems where you just figure it out yourself and don't stop unless you've tried for over an hour. Probably best done in some of the easier types of questions (ie: arrays, strings, hashmap).
+
+
 
 Some other feedback has been left here:
 https://start.interviewing.io/feedback/J2aykIDapnWN
+
+Key points were:
+- ask clarifying questions
+- always review space and time complexity (i got space complexity wrong)
+
 
 In every interview, you will always feel unprepared and you will even stress out DURING the interview. You will want to give up. Need to find some way to handle the stress and keep tackling the problem.
 
