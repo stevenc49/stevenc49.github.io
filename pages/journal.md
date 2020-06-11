@@ -23,6 +23,7 @@ When you run the code, you can print(num, trackerVars...) at the end of the loop
 Getting prep'ed for my practice interview. Just reviewing all the different "bag of tricks" by going thru jekyll blog.
 I should make my own list of problems to "review before an interview". Should be a handful of problems that I can review in a short amount of time.
 
+After your interview, you should go and find it in the showcase and see where you can improve. So give it all you got.
 
 
 ### Jun 10
