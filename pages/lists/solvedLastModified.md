@@ -6,6 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Group Isometric Strings](/problems/groupIsometricStrings) | 2020-06-11 | Solved | hashmap 
 [Rotate Image](/problems/rotateImage) | 2020-06-11 | Solved | matrix 
 [Sort Colors](/problems/sortColors) | 2020-06-11 | Attempted | arrays, sorting 
 [Rotate Matrix](/problems/rotateMatrix) | 2020-06-10 | Solved | Matrix 

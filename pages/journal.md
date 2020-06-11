@@ -7,7 +7,13 @@ title:  Practice Log
 
 ### Jun 11
 
-Just finished the practice interview. It went okay. I surprised myself when I actually came up with a solution myself in the allotted time, even though it wasn't optimal. For your practice, allocate some time to problems where you just figure it out yourself and don't stop unless you've tried for over an hour. Probably best done in some of the easier types of questions (ie: arrays, strings, hashmap).
+Just finished the practice interview. I got this question in the interview:
+https://leetcode.com/discuss/interview-question/368038/Amazon-or-Onsite-or-Group-Isomorphic-Strings
+
+
+
+
+It went okay. I surprised myself when I actually came up with a solution myself in the allotted time, even though it wasn't optimal. For your practice, allocate some time to problems where you just figure it out yourself and don't stop unless you've tried for over an hour. Probably best done in some of the easier types of questions (ie: arrays, strings, hashmap).
 
 
 
