@@ -18,6 +18,8 @@ It also helps you with your walk-thru dry debugging.  When you're doing a dry wa
     # 0 0 2 1 1 2    i=1    s=0    e=4
 ```
 
+When you run the code, you can print(num, trackerVars...) at the end of the loop and verify what you get when you execute matches what you think you should get.
+
 ### Jun 10
 
 

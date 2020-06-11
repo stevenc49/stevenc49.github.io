@@ -4,7 +4,7 @@ title:  Sort Colors
 last_solved: 2020-06-11
 category: arrays, sorting
 leetcode_url: https://leetcode.com/problems/sort-colors/
-status: Solved
+status: Attempted
 ---
 
 Problem
@@ -57,7 +57,7 @@ def sortColors(nums):
             nums[index]=nums[end]
             nums[end]=2
             end-=1
-            index+=1
+            #index+=1
         
         else:
             index+=1
