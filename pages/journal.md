@@ -7,6 +7,16 @@ title:  Practice Log
 
 ### Jun 11
 
+Just finished the practice interview. It went okay. I got a solution, although it wasn't optimal.
+
+Some other feedback has been left here:
+https://start.interviewing.io/feedback/J2aykIDapnWN
+
+In every interview, you will always feel unprepared and you will even stress out DURING the interview. You will want to give up. Need to find some way to handle the stress and keep tackling the problem.
+
+
+--------------------
+
 Have a practice interview today at 3pm.  Should start practicing using the online environment:
 https://start.interviewing.io/interview/playground?tutorial=true
 
