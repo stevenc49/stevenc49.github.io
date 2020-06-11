@@ -11,9 +11,12 @@ Have a practice interview today at 3pm.  Should start practicing using the onlin
 https://start.interviewing.io/interview/playground?tutorial=true
 
 
-It also helps you with your walk-thru dry debugging.
+It also helps you with your walk-thru dry debugging.  When you're doing a dry walk-thru online, type out the array in its current state along with all tracker variables. For example:
 
-
+```
+    # 2 0 2 1 1 0    i=0    s=0    e=5
+    # 0 0 2 1 1 2    i=1    s=0    e=4
+```
 
 ### Jun 10
 
