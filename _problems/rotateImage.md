@@ -1,6 +1,10 @@
 ---
 layout: page
 title:  Rotate Image
+last_solved: 2020-06-11
+category: matrix
+leetcode_url: https://leetcode.com/problems/rotate-image/
+status: Solved
 ---
 
 

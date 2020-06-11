@@ -6,6 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Rotate Image](/problems/rotateImage) | 2020-06-11 | Solved | matrix 
 [Sort Colors](/problems/sortColors) | 2020-06-11 | Attempted | arrays, sorting 
 [Rotate Matrix](/problems/rotateMatrix) | 2020-06-10 | Solved | Matrix 
 [Validate Sudoku](/problems/validateSudoku) | 2020-06-10 | Solved | matrix 
@@ -68,6 +69,5 @@ Problem | Last Modified | Status | Category
 [Is Sub Tree?](/problems/isSubtree) | 2020-05-11 |  |  
 [Max Depth of Tree](/problems/maxDepth) | 2020-05-11 |  |  
 [Merge Sorted Linked List (Recursive)](/problems/mergeSortedLLrecur) | 2020-05-11 |  |  
-[Rotate Image](/problems/rotateImage) | 2020-05-11 |  |  
 [Maximum Product Subarray](/problems/maxProductSubarray) | 2020-05-09 |  |  
 [LCA of binary tree](/problems/lcaBinaryTree) | 2020-05-06 |  |  
