@@ -25,7 +25,20 @@ Validate Sudoku
 Also did validate sudoku problem. I did it within a reasonable amount of time. The debugger helped with finding bugs such as ignoring ".".
 It wasn't a logic problem.  Just a trivial mistake.
 
+
+Rotate Image
 -----------------------
+
+Transpose and Flip. This is the second time that I'm seeing this and I really worked hard to understand it the first time.
+
+The second time, I was able to:
+- recall "the solution"
+- code up the solution and get the array indexes and loop ranges correct (things I usually mess up on)
+
+It turns out these problems are actually easier if you solve them a few times before. So it really is all just about practice and not purely talent.
+
+------------------
+
 
 Did the Hackerrank Data Engineer BS assessment yesterday. It was pretty BS. It's a good reminder that these algo questions are the easiest way to go if you get good at them.
 
