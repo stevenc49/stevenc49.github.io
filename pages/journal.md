@@ -20,6 +20,9 @@ It also helps you with your walk-thru dry debugging.  When you're doing a dry wa
 
 When you run the code, you can print(num, trackerVars...) at the end of the loop and verify what you get when you execute matches what you think you should get.
 
+Getting prep'ed for my practice interview. Just reviewing all the different "bag of tricks" by going thru jekyll blog.
+
+
 ### Jun 10
 
 
