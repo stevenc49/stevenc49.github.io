@@ -6,6 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Sort Colors](/problems/sortColors) | 2020-06-11 | Solved | arrays, sorting 
 [Rotate Matrix](/problems/rotateMatrix) | 2020-06-10 | Solved | Matrix 
 [Validate Sudoku](/problems/validateSudoku) | 2020-06-10 | Solved | matrix 
 [Search Insert Position](/problems/searchInsertPosition) | 2020-06-10 | Solved | binary search 

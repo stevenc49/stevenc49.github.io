@@ -3,6 +3,18 @@ layout: page
 title:  Practice Log
 ---
 
+
+
+### Jun 11
+
+Have a practice interview today at 3pm.  Should start practicing using the online environment:
+https://start.interviewing.io/interview/playground?tutorial=true
+
+
+It also helps you with your walk-thru dry debugging.
+
+
+
 ### Jun 10
 
 
