@@ -28,9 +28,6 @@ Solution
 
 def normalize(word):
     
-    # print("in normalize")
-    # print(word)
-    
     res = ""
     count = 0
     
@@ -53,17 +50,19 @@ def findIso(arr):
         if normalize(word) not in map:
             map[ normalize(word) ] = [word]
         else:
-            existingList = map[ normalize(word) ]
-            existingList.append(word)
-            map[ normalize(word) ] = existingList
-    
+            # existingList = map[ normalize(word) ]
+            # existingList.append(word)
+            # map[ normalize(word) ] = existingList
+            map[ normalize(word) ].append(word)
     
     # second pass to extract grouped words in the map
-    result = []
-    for groupedWords in map.values():
-        result.append( groupedWords )
+#     result = []
+#     for groupedWords in map.values():
+#         result.append( groupedWords )
     
-    return result
+#     return result
+
+    return list( map.values() )
 
 input1 = ["foo", "bar", "paper", "title", "egg", "add"]
 res = findIso(input1)
