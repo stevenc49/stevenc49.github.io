@@ -47,6 +47,16 @@ randomSet.getRandom();
 Solution
 ----------
 
+The insight is to use 2 hash tables to achive O(1) time.
+
+The hard part was to achive a O(1) time with getRandom(), we need to make sure it can pick from a hashtable index directly.
+Therefore, when we delete an element from both hash tables, we can't leave a gap. Writing the code for that was a bit tricky so write out your sample data and write out each step seperately. Like so:
+
+```
+    # map1: {0:10, 1:20}    map1[index] = real value
+    # map2: {10:0, 20:1}    map2 is the reverse
+```
+
 {% highlight python %}
 
 class RandomizedSet:
