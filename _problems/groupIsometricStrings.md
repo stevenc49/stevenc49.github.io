@@ -36,6 +36,7 @@ def normalize(word):
         if c not in map:
             map[c] = count
             count+=1
+            res += str(map[c])
         else:
             res += str(map[c])
     
