@@ -4,6 +4,12 @@ title:  Practice Log
 ---
 
 
+### Jun 12
+
+Start using interview.io sandbox to practice, they have Python autocomplete and executes code on save. (Much nicer than VS Code).
+
+
+
 
 ### Jun 11
 

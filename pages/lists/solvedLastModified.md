@@ -6,6 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Insert Delete GetRandom O(1)](/problems/insertDeleteGetRandom) | 2020-06-12 | Solved | hashtable, design 
 [Group Isometric Strings](/problems/groupIsometricStrings) | 2020-06-11 | Solved | hashmap 
 [Rotate Image](/problems/rotateImage) | 2020-06-11 | Solved | matrix 
 [Sort Colors](/problems/sortColors) | 2020-06-11 | Attempted | arrays, sorting 
