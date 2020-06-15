@@ -3,6 +3,13 @@ layout: page
 title:  Practice Log
 ---
 
+### Jun 15
+
+I read somewhere that Leetcoding is like going to the gym for your coding skills. It's a slow marathon. That falls in line with my experience that you can't cram for an interview. I will just have to incorporate it into my daily routine or work routine.
+
+Since you value your time, your 9-5 is when you should be leetcoding. Treat it like a job and don't bother leetcoding outside office hours.
+
+
 
 ### Jun 12
 
