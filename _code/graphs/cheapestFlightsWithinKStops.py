@@ -1,10 +1,10 @@
 import collections
 
 n = 3
-edges = [[0,1,100],[1,2,100],[0,2,500]]
+edges = [[0,1,100],[1,2,200],[0,2,500]]
 src = 0
 dst = 2
-k = 0
+k = 1
 
 def findCheapestPrice(n, flights, src, dst, K):
 
