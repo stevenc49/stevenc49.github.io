@@ -5,6 +5,11 @@ title:  Practice Log
 
 ### Jun 15
 
+
+Today, I spent most of the day with the Cheapest Flight problem. I didn't quite get it even after looking at the code so tomorrow, I will focus on understand Dijkstra at a deep level before going back to the problem.
+
+-----------------
+
 I read somewhere that Leetcoding is like going to the gym for your coding skills. It's a slow marathon. That falls in line with my experience that you can't cram for an interview. I will just have to incorporate it into my daily routine or work routine.
 
 Since you value your time, your 9-5 is when you should be leetcoding. Treat it like a job and don't bother leetcoding outside office hours.
