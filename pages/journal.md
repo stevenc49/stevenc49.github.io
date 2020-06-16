@@ -3,6 +3,14 @@ layout: page
 title:  Practice Log
 ---
 
+
+### Jun 16
+
+Spent the morning working on telus shit. what a waste of time.
+
+
+
+
 ### Jun 15
 
 
