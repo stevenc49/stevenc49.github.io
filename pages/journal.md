@@ -8,7 +8,9 @@ title:  Practice Log
 
 Today, I spent most of the day with the Cheapest Flight problem. I didn't quite get it even after looking at the code so tomorrow, I will focus on understand Dijkstra at a deep level before going back to the problem.
 
-Check groking algorithms ebook for dijkstra chapter. 
+Check groking algorithms ebook for dijkstra chapter.
+Can also read "competitive programming" ebook.
+
 
 -----------------
 
