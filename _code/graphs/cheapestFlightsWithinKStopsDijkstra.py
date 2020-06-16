@@ -32,18 +32,22 @@ def findCheapestPrice(n, flights, src, dest, K):
 
     while graph:
 
-        print("graph")
-        print(graph)
+        print("graph: ", graph)
 
-        print("popping")
         u, stop = graph.popleft()
+        print("popping u: %s, stop: %s" % (u, stop))
         if stop >= K:
             continue
 
         for v, w in adj[u]:
+
+            print("for %s, %s in adj[%s]" % (v, w, u))
+
             output[v] = output[u]+w
             graph.append((v,stop+1))
         
+        print("")
+
     if output[dest] == float('inf'):
         return -1
     else:
