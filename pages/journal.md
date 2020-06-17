@@ -10,6 +10,14 @@ Today, do cheapest flight problem (dijkstra) and leetcode daily problem (union f
 Get used to tryign out solutions and being wrong in leetcode. It's better than being wrong in the actual interview.
 
 
+Leetcode post for writing concise Python code:
+- https://leetcode.com/discuss/general-discussion/459791/Special-data-structures-in-Python
+- https://yangshun.github.io/tech-interview-handbook/landscape
+
+Another list of leetcode questions:
+- https://yangshun.github.io/tech-interview-handbook/best-practice-questions
+
+
 ### Jun 16
 
 Spent the morning working on telus shit. what a waste of time.

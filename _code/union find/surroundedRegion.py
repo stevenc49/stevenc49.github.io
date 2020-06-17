@@ -27,14 +27,19 @@ class Solution:
         if not board: return 0
         self.board, self.M, self.N = board, len(board), len(board[0])
         
+        # run dfs on sides
         for i in range(0, self.M):
-            self.dfs(i,0)
-            self.dfs(i,self.N-1)
-            
-        for j in range(0, self.N):
-            self.dfs(0,j)
-            self.dfs(self.M-1,j)
+            self.dfs(i,0)           # left side
+            self.dfs(i,self.N-1)    # right side
         
+        # run dfs on top and bottom
+        for j in range(0, self.N):
+            self.dfs(0,j)           # top
+            self.dfs(self.M-1,j)    # bottom
+        
+        print(board)
+
+        # itertools.product() is equivalent to nested forloop
         for i,j in product(range(self.M), range(self.N)):
             board[i][j] = "X" if board[i][j] != "T" else "O"
 
