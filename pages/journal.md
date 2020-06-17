@@ -8,6 +8,7 @@ title:  Practice Log
 
 Spent the morning working on telus shit. what a waste of time.
 
+Today, I went thru the BFS and Dijkstra chapters in Grokking Algorithms book. It does a very good job at explaining for visual learners. Tmr will attempt some dijkstra problems.
 
 
 
