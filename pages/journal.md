@@ -3,11 +3,23 @@ layout: page
 title:  Practice Log
 ---
 
+### Jun 18
+
 ### Jun 17
 
 Today, do cheapest flight problem (dijkstra) and leetcode daily problem (union find).
 
 Get used to tryign out solutions and being wrong in leetcode. It's better than being wrong in the actual interview.
+
+----------------
+
+Try rewriting Num Islands solution more concisely from techniques learned from Surrounded Region (for x,y in neib_list) and itertools.product()
+
+
+
+
+
+--------------
 
 
 Leetcode post for writing concise Python code:
