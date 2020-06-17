@@ -14,10 +14,7 @@ Get used to tryign out solutions and being wrong in leetcode. It's better than b
 ----------------
 
 Try rewriting Num Islands solution more concisely from techniques learned from Surrounded Region (for x,y in neib_list) and itertools.product()
-
-
-
-
+Maybe instead of going thru new problems, go thru the ones that you have done before and make sure you can write them concisely and can communicate them well.
 
 --------------
 
