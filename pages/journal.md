@@ -3,6 +3,11 @@ layout: page
 title:  Practice Log
 ---
 
+### Jun 17
+
+Today, do cheapest flight problem (dijkstra) and leetcode daily problem (union find).
+
+
 
 ### Jun 16
 
