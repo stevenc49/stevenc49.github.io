@@ -7,6 +7,7 @@ title:  Practice Log
 
 Today, do cheapest flight problem (dijkstra) and leetcode daily problem (union find).
 
+Get used to tryign out solutions and being wrong in leetcode. It's better than being wrong in the actual interview.
 
 
 ### Jun 16

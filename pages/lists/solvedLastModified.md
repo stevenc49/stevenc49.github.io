@@ -6,6 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Surrounded Region](/problems/surroundedRegion) | 2020-06-17 | Attempted | union find 
 [House Robber](/problems/houseRobber) | 2020-06-16 | Solved | dp 
 [Insert Delete GetRandom O(1)](/problems/insertDeleteGetRandom) | 2020-06-12 | Solved | hashtable, design 
 [Group Isometric Strings](/problems/groupIsometricStrings) | 2020-06-11 | Solved | hashmap 
