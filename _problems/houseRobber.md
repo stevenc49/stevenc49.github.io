@@ -1,6 +1,10 @@
 ---
 layout: page
 title:  House Robber
+last_solved: 2020-06-16
+category: dp
+leetcode_url: https://leetcode.com/problems/house-robber
+status: Solved
 ---
 
 First few cases are trivial.
@@ -10,7 +14,7 @@ Starting from n>=3, it's the max of alternating sequences.
 
 Gotcha:
 - be careful when to use nums array and when to use dp array
-
+- make sure to use a different dp array and don't overwrite the given `nums` array
 
 {% highlight python %}
 

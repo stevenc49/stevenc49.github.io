@@ -6,6 +6,7 @@ title:  Solved - Last Modified
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[House Robber](/problems/houseRobber) | 2020-06-16 | Solved | dp 
 [Insert Delete GetRandom O(1)](/problems/insertDeleteGetRandom) | 2020-06-12 | Solved | hashtable, design 
 [Group Isometric Strings](/problems/groupIsometricStrings) | 2020-06-11 | Solved | hashmap 
 [Rotate Image](/problems/rotateImage) | 2020-06-11 | Solved | matrix 
@@ -45,7 +46,6 @@ Problem | Last Modified | Status | Category
 [House Robber 2](/problems/houseRobber2) | 2020-05-27 |  |  
 [Matrix Search](/problems/matrixSearch) | 2020-05-27 |  |  
 [Maximum Subarray](/problems/maxSubarray) | 2020-05-27 |  |  
-[House Robber](/problems/houseRobber) | 2020-05-26 |  |  
 [Longest Common Subsequence](/problems/longestCommonSubsequence) | 2020-05-25 |  |  
 [Merge Sorted Linked List (Iterative)](/problems/mergeSortedLLiter) | 2020-05-22 |  |  
 [Rotton Oranges](/problems/rottonOranges) | 2020-05-21 |  |  
