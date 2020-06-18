@@ -13,6 +13,7 @@ Doing daily problems have been slowing down the past week. Need to keep monitor 
 
 Now that I've worked on over a hundred problems on leetcode. It's time to go back and review some of the ones that I didn't get (or do some faster and more concisely)
 
+
 Things that have worked:
 
 - this journal

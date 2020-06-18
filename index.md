@@ -12,8 +12,8 @@ Lists
 - [Solved - Last Modified](pages/lists/solvedLastModified.html)
 - [Blind 100](pages/lists/blind100.html)
 - [EPI](pages/lists/epi.html)
-- [Review Problems]()
-- [Interview Prep Sites]()
+- [Review Problems](pages/lists/reviewProblems.html)
+- [Bookmarked Sites](/pages/bookmarkedSites)
 
 To start:
 ``` bundle exec jekyll serve ```
