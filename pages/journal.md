@@ -5,6 +5,9 @@ title:  Practice Log
 
 ### Jun 18
 
+Get to the point where the skill of doing coding interviews is a science.  Create your own list of "must review" problems before an interview. Have those problems be ones that you have worked on before because you will never be able to do all the leetcode problems ever.
+
+
 ### Jun 17
 
 Today, do cheapest flight problem (dijkstra) and leetcode daily problem (union find).
