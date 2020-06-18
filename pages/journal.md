@@ -5,7 +5,30 @@ title:  Practice Log
 
 ### Jun 18
 
+Time to do some retrospective:
+
+-----
+
+Doing daily problems have been slowing down the past week. Need to keep monitor burnout/stress level.
+
+Now that I've worked on over a hundred problems on leetcode. It's time to go back and review some of the ones that I didn't get (or do some faster and more concisely)
+
+Things that have worked:
+
+- this journal
+- this jekyll blog for easy tracking of problems
+- this site doesn't actually make me review questions, but it does have my old solutions and some notes so I can reference them in similar problems
+- try to gather a bunch of similar type problems and do them in batches
+
+
+----
+
+
 Get to the point where the skill of doing coding interviews is a science.  Create your own list of "must review" problems before an interview. Have those problems be ones that you have worked on before because you will never be able to do all the leetcode problems ever.
+
+---
+
+
 
 
 ### Jun 17
