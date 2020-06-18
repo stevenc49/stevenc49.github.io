@@ -4,6 +4,8 @@ title:  Solved - Last Modified
 ---
 
 
+There are 70 problems solved.
+
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
 [Surrounded Region](/problems/surroundedRegion) | 2020-06-17 | Attempted | union find 

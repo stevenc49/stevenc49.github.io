@@ -35,6 +35,8 @@ title:  Solved - Last Modified
 ---
     """.strip() + "\n\n\n"
 
+    sb += "There are %s problems solved.\n\n" % len(list_filenames_dates)
+
     # generate table header
     sb += "Problem | Last Modified | Status | Category \n"
     sb += "--------|---------------|--------|----------\n"
