@@ -264,6 +264,7 @@ Good leetcode grouped problems (from user wh0ami):
 - [Sliding Windows](https://leetcode.com/discuss/general-discussion/657507/sliding-window-for-beginners-problems-template-sample-solutions)
 - [DP](https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions)
 - [Greedy](https://leetcode.com/discuss/general-discussion/669996/greedy-for-beginners-problems-sample-solutions)
+- [Binary Search](https://leetcode.com/discuss/general-discussion/691825/binary-search-for-beginners-problems-patterns-sample-solutions)
 
 ### May 29
 
