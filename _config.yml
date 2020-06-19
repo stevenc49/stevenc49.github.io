@@ -1,4 +1,4 @@
-title: Leetcode Curriculum
+title: Leetcode Gym
 
 theme: minima
 plugins:
@@ -10,7 +10,7 @@ minima:
 
 # this is the header on top of every page
 header_pages:
-  - pages/lists/blind100.md
+  - pages/lists/reviewProblems.md
   - pages/lists/solvedLastModified.md
   - pages/journal.md
 

@@ -1,6 +1,10 @@
 ---
 layout: page
 title:  Coin Change
+last_solved: 
+category: dp
+leetcode_url: https://leetcode.com/problems/coin-change
+status: Not Solved
 ---
 
 

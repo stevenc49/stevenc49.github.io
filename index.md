@@ -12,7 +12,7 @@ Lists
 - [Solved - Last Modified](pages/lists/solvedLastModified.html)
 - [Blind 100](pages/lists/blind100.html)
 - [EPI](pages/lists/epi.html)
-- [Review Problems](pages/lists/reviewProblems.html)
+- [Review Problems](pages/lists/reviewProblems)
 - [Bookmarked Sites](/pages/bookmarkedSites)
 
 To start:
