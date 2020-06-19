@@ -1,6 +1,10 @@
 ---
 layout: page
 title:  Flood Fill
+last_solved: 2020-06-19
+category: union find
+leetcode_url: https://leetcode.com/problems/flood-fill/
+status: Solved
 ---
 
 Be careful with this critical tranversal section, if you make a mistake (ie: > instead of <, than it may not visit the entire grid)
