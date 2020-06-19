@@ -10,8 +10,6 @@ status: Solved
 Problem
 -------
 
-Iterate thru matrix. If cell==1, add 4.
-If it has a left or top border, subtract 2.
 
 ```
 
@@ -31,6 +29,10 @@ Explanation: The perimeter is the 16 yellow stripes in the image below:
 
 Solution
 ----------
+
+Iterate thru matrix. If cell==1, add 4.
+
+If it has a left or top border, subtract 2.
 
 {% highlight python %}
 
