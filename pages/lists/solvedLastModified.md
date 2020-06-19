@@ -8,6 +8,7 @@ There are 70 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Number of Islands](/problems/numIslands) | 2020-06-19 | Solved | union find 
 [Sort Colors](/problems/sortColors) | 2020-06-19 | Attempted | arrays, sorting 
 [Coin Change](/problems/coinChange) | 2020-06-18 | Not Solved | dp 
 [Group Isometric Strings](/problems/groupIsomorphicStrings) | 2020-06-18 | Solved | hashmap 
@@ -46,7 +47,6 @@ Problem | Last Modified | Status | Category
 [invert Tree](/problems/invertTree) | 2020-06-01 | Solved | tree 
 [Set Matrix Zeros](/problems/setMatrixZeros) | 2020-05-29 |  |  
 [Max Area of Island](/problems/maxAreaOfIsland) | 2020-05-28 |  |  
-[Number of Islands](/problems/numIslands) | 2020-05-28 |  |  
 [House Robber 2](/problems/houseRobber2) | 2020-05-27 |  |  
 [Matrix Search](/problems/matrixSearch) | 2020-05-27 |  |  
 [Maximum Subarray](/problems/maxSubarray) | 2020-05-27 |  |  

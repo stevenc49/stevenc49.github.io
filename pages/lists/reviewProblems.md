@@ -96,7 +96,7 @@ It is sorted by category. This list will continually change as your skill level 
 - Num Islands
 - Max Area Of Islands
 - Rotten Oranges
-- Surrounded Region
+- [Surrounded Region](/problems/surroundedRegion)
 - Word Search
 
 
