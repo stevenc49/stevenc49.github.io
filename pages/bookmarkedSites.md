@@ -3,6 +3,19 @@ layout: page
 title:  Bookmarked Sites
 ---
 
-- [career advice](https://www.teamblind.com/post/advice-for-younger-folks-WzpcU2oi)
+- [leetcode](leetcode.com)
+- [interviewing.io](interviewing.io)
 
 - [grokking system design]()
+
+- [career advice](https://www.teamblind.com/post/advice-for-younger-folks-WzpcU2oi)
+
+
+
+
+Good leetcode grouped problems (from user wh0ami):
+- [Graphs](https://leetcode.com/discuss/general-discussion/655708/graph-problems-for-beginners-practice-problems-and-sample-solutions)
+- [Sliding Windows](https://leetcode.com/discuss/general-discussion/657507/sliding-window-for-beginners-problems-template-sample-solutions)
+- [DP](https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions)
+- [Greedy](https://leetcode.com/discuss/general-discussion/669996/greedy-for-beginners-problems-sample-solutions)
+- [Binary Search](https://leetcode.com/discuss/general-discussion/691825/binary-search-for-beginners-problems-patterns-sample-solutions)
