@@ -93,7 +93,7 @@ It is sorted by category. This list will continually change as your skill level 
 #### Flood Fill
 
 - Flood Fill
-- Num Islands
+- [Num Islands](/problems/numIslands)
 - Max Area Of Islands
 - Rotten Oranges
 - [Surrounded Region](/problems/surroundedRegion)

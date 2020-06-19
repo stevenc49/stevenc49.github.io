@@ -52,4 +52,35 @@ print(floodFill(image, 1,1,2))
 {% endhighlight %}
 
 
+_________________
+
+
+More concise:
+
+{% highlight python %}
+
+def floodFill(self, image: List[List[int]], startRow: int, startCol: int, newColor: int) -> List[List[int]]:
+    
+    R = len(image)
+    C = len(image[0])
+    
+    oldColor = image[startRow][startCol]
+    if newColor==oldColor: return image
+    
+    def dfs(i,j, newColor):
+        
+        if i<0 or i>=R or j<0 or j>=C or image[i][j]!=oldColor:     # conditions to "retrack back"
+            return
+        
+        dirs = [[i-1,j],[i+1,j],[i,j-1],[i,j+1]]
+        for x,y in dirs:
+            image[i][j]=newColor           # the processing that you want to do
+            dfs(x, y, newColor)
+    
+    dfs(startRow, startCol, newColor)
+    
+    return image
+
+{% endhighlight %}
+
 ![image1]()
