@@ -1,14 +1,17 @@
 ---
 layout: page
-title:  Template
-last_solved: 
-category: 
+title:  Island Perimeter
+last_solved: 2020-06-19
+category: matrix
 leetcode_url: https://leetcode.com/problems/island-perimeter
 status: Solved
 ---
 
 Problem
 -------
+
+Iterate thru matrix. If cell==1, add 4.
+If it has a left or top border, subtract 2.
 
 ```
 
@@ -22,9 +25,9 @@ Output: 16
 
 Explanation: The perimeter is the 16 yellow stripes in the image below:
 
-![image1](https://assets.leetcode.com/uploads/2018/10/12/island.png)
-
 ```
+
+![image1](https://assets.leetcode.com/uploads/2018/10/12/island.png)
 
 Solution
 ----------
