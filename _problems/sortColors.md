@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Sort Colors
-last_solved: 2020-06-11
+last_solved: 2020-06-19
 category: arrays, sorting
 leetcode_url: https://leetcode.com/problems/sort-colors/
 status: Attempted
@@ -70,6 +70,39 @@ def sortColors(nums):
 print( sortColors(nums) )
 
 {% endhighlight %}
+
+
+
+-----------------
+
+{% highlight python %}
+
+def sortColors(self, nums: List[int]) -> None:
+
+    start = 0
+    end = len(nums)-1
+    index = 0
+    
+    def swap(nums, i, j):
+        tmp = nums[i]
+        nums[i] = nums[j]
+        nums[j] = tmp
+    
+    while start<end and index<=end:
+        
+        if nums[index]==0:
+            swap(nums, start, index)
+            start+=1
+            index+=1
+        elif nums[index]==2:
+            swap(nums, index, end)
+            end-=1
+        else:
+            index+=1
+        
+{% endhighlight %}
+
+
 
 
 ![image1]()

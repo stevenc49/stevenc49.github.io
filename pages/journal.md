@@ -8,6 +8,13 @@ title:  Practice Log
 
 Other than doing problems from a problems list, can also go thru youtube video playlists of known leetcode youtubers.
 
+Been learning some advanced algos recently:
+- Dijkstra
+- Rabin Carp
+- KMP substring matching
+
+Practice whiteboard/paper space management
+
 
 
 

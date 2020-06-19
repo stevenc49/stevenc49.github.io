@@ -8,13 +8,13 @@ There are 70 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Sort Colors](/problems/sortColors) | 2020-06-19 | Attempted | arrays, sorting 
 [Coin Change](/problems/coinChange) | 2020-06-18 | Not Solved | dp 
 [Group Isometric Strings](/problems/groupIsomorphicStrings) | 2020-06-18 | Solved | hashmap 
 [Surrounded Region](/problems/surroundedRegion) | 2020-06-17 | Attempted | union find 
 [House Robber](/problems/houseRobber) | 2020-06-16 | Solved | dp 
 [Insert Delete GetRandom O(1)](/problems/insertDeleteGetRandom) | 2020-06-12 | Solved | hashtable, design 
 [Rotate Image](/problems/rotateImage) | 2020-06-11 | Solved | matrix 
-[Sort Colors](/problems/sortColors) | 2020-06-11 | Attempted | arrays, sorting 
 [Rotate Matrix](/problems/rotateMatrix) | 2020-06-10 | Solved | Matrix 
 [Validate Sudoku](/problems/validateSudoku) | 2020-06-10 | Solved | matrix 
 [Search Insert Position](/problems/searchInsertPosition) | 2020-06-10 | Solved | binary search 
