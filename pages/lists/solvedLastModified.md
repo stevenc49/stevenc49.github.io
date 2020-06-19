@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 70 problems solved.
+There are 71 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Template](/problems/islandPerimeter) | 2020-06-19 | Solved |  
 [Flood Fill](/problems/floodfill) | 2020-06-19 |  |  
 [Number of Islands](/problems/numIslands) | 2020-06-19 | Solved | union find 
 [Sort Colors](/problems/sortColors) | 2020-06-19 | Attempted | arrays, sorting 
