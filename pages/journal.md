@@ -3,6 +3,14 @@ layout: page
 title:  Practice Log
 ---
 
+
+### Jun 19
+
+Other than doing problems from a problems list, can also go thru youtube video playlists of known leetcode youtubers.
+
+
+
+
 ### Jun 18
 
 Time to do some retrospective:
@@ -286,12 +294,7 @@ Just want to see if I can do all the easy ones now that I had 3 months to practi
 
 Made a python script that generates "Solved Problems" listed by last modified date. Hopefully this will help with space repetition.
 
-Good leetcode grouped problems (from user wh0ami):
-- [Graphs](https://leetcode.com/discuss/general-discussion/655708/graph-problems-for-beginners-practice-problems-and-sample-solutions)
-- [Sliding Windows](https://leetcode.com/discuss/general-discussion/657507/sliding-window-for-beginners-problems-template-sample-solutions)
-- [DP](https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions)
-- [Greedy](https://leetcode.com/discuss/general-discussion/669996/greedy-for-beginners-problems-sample-solutions)
-- [Binary Search](https://leetcode.com/discuss/general-discussion/691825/binary-search-for-beginners-problems-patterns-sample-solutions)
+
 
 ### May 29
 
