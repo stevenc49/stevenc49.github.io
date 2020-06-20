@@ -8,6 +8,11 @@ title:  Practice Log
 
 Other than doing problems from a problems list, can also go thru youtube video playlists of known leetcode youtubers.
 
+Add due dates to learn certain tasks:
+- 1 night to learn dijkstra and bfs
+- 1 week to learn dp
+
+
 Been learning some advanced algos recently:
 - Dijkstra
 - Rabin Carp

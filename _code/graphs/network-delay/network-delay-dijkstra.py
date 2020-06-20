@@ -8,7 +8,11 @@ K = 2
 
 def networkDelayTime(times, N, K):
 
-    elapsedTime, graph, heap = [0] + [float("inf")] * N, defaultdict(list), [(0, K)]
+    elapsedTime = [0] + [float("inf")] * N
+    graph = defaultdict(list)
+    heap = [(0, K)]
+
+    # add to adj hash table, where group
     for u, v, w in times:
         graph[u].append((v, w))
     while heap:
@@ -20,4 +24,4 @@ def networkDelayTime(times, N, K):
     mx = max(elapsedTime)
     return mx if mx < float("inf") else -1
 
-print( networkDelay(times, N, K) )
+print( networkDelayTime(times, N, K) )
