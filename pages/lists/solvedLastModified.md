@@ -8,7 +8,7 @@ There are 71 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
-[Two Sum](/problems/twoSum) | 2020-06-19 | Solved | array 
+[Two Sum](/problems/twoSum) | 2020-06-19 | Solved | array, hashtable 
 [Flood Fill](/problems/floodfill) | 2020-06-19 | Solved | union find 
 [Island Perimeter](/problems/islandPerimeter) | 2020-06-19 | Solved | matrix 
 [Number of Islands](/problems/numIslands) | 2020-06-19 | Solved | union find 
