@@ -15,12 +15,22 @@ def networkDelayTime(times, N, K):
     # add to adj hash table, where group
     for u, v, w in times:
         graph[u].append((v, w))
+
+    
     while heap:
+
+        # pop off heap/queue
         time, node = heapq.heappop(heap)
         if time < elapsedTime[node]:
+
+            # process (add to elapsed time array)
             elapsedTime[node] = time
+
+            # add neighbours, include weight
             for v, w in graph[node]:
                 heapq.heappush(heap, (time + w, v))
+
+    
     mx = max(elapsedTime)
     return mx if mx < float("inf") else -1
 
