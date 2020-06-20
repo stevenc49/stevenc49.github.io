@@ -15,7 +15,8 @@ Been learning some advanced algos recently:
 
 Practice whiteboard/paper space management
 
-
+Do this graph problem, it has every graph algorithm below:
+https://leetcode.com/problems/network-delay-time/discuss/471164/Python-DFS-BFS-Dijkstra-Bellman-Ford-Floyd-Warshall
 
 
 ### Jun 18

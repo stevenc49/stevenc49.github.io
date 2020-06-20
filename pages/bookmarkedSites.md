@@ -31,7 +31,7 @@ Another list of leetcode questions:
 Youtubers
 -------
 - Nick White
-- Kevin H Naught
+- Kevin Naughton
 - BackToBackSWE
 - Timothy H Chang
 - Terrible Whiteboard
