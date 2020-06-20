@@ -57,11 +57,11 @@ def networkDelayTime(times, N, K):
     for u, v, w in times:
         graph[u].append((v, w))
 
-    ###
+    '''
         graph:
         2: [(1,1),(1,3)]
         3: [(4,1)]
-    ###
+    '''
     
     while heap:
 
