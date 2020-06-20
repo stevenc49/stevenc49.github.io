@@ -53,7 +53,7 @@ def networkDelayTime(times, N, K):
     graph = defaultdict(list)
     heap = [(0, K)]     # time, start node (ie: (0,2))
 
-    # add to adj hash table, where group
+    # add to adj hash table, where values = (edge,weight)
     for u, v, w in times:
         graph[u].append((v, w))
 
