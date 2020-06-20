@@ -8,6 +8,7 @@ There are 71 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Two Sum](/problems/twoSum) | 2020-06-19 | Solved | array 
 [Flood Fill](/problems/floodfill) | 2020-06-19 | Solved | union find 
 [Island Perimeter](/problems/islandPerimeter) | 2020-06-19 | Solved | matrix 
 [Number of Islands](/problems/numIslands) | 2020-06-19 | Solved | union find 
@@ -38,7 +39,6 @@ Problem | Last Modified | Status | Category
 [Merge Intervals](/problems/mergeIntervals) | 2020-06-03 | Attempted | intervals 
 [Water with Most Water](/problems/waterWithMostWater) | 2020-06-03 | Solved | array, 2ptr 
 [Move Zeros](/problems/moveZeros) | 2020-06-02 | Solved | array 
-[Two Sum](/problems/twoSum) | 2020-06-02 | Solved | array 
 [Buy and Sell Stock 2](/problems/buyAndSellStock copy) | 2020-06-02 | Solved | array 
 [Buy and Sell Stock](/problems/buyAndSellStock) | 2020-06-02 | Solved | array 
 [Single Number](/problems/singleNumber) | 2020-06-02 | Solved | array, bit manipulation 

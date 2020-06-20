@@ -77,3 +77,42 @@ def twoSum(nums, target):
         
         return []
 {% endhighlight %}
+
+____________
+
+Another way of writing it, not as nice. Use enumerate.
+
+{% highlight python %}
+
+# not using enumerate
+def twoSum(self, nums: List[int], target: int) -> List[int]:
+    
+    seen = {}
+    
+    for i in range(len(nums)):
+        
+        remaining = target-nums[i]
+        
+        if nums[i] in seen:
+            return [i, seen[nums[i]]]
+        else:
+            seen[remaining] = i
+
+# using enumerate
+def twoSum(self, nums: List[int], target: int) -> List[int]:
+    
+    seen = {}
+    
+    for i, v in enumerate(nums):
+        
+        remaining = target-v
+        
+        if nums[i] in seen:
+            return [i, seen[v]]
+        else:
+            seen[remaining] = i
+        
+
+{% endhighlight %}
+
+
