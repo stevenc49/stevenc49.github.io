@@ -3,6 +3,11 @@ layout: page
 title:  Practice Log
 ---
 
+### Jun 20
+
+I tried the weekly contest. The time pressure is there. There are also virtual contests where rank will not be affected.
+
+
 
 ### Jun 19
 
