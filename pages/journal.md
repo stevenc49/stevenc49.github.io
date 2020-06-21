@@ -7,6 +7,9 @@ title:  Practice Log
 
 I tried the weekly contest. The time pressure is there. There are also virtual contests where rank will not be affected.
 
+When the contest is finished, you see your rank amongst other ppl. For my first one, I got 1/4 question correct with a rank of 9316/13807.
+
+
 
 
 ### Jun 19
