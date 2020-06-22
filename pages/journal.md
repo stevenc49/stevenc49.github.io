@@ -3,6 +3,20 @@ layout: page
 title:  Practice Log
 ---
 
+### Jun 22
+
+Make a timeline for reaching milestones. (IE: by August, start applying to tier B companies)
+
+Another list of questions: https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/preview?pru=AAABcwEKa6A*jTAyJNFMW1ButNqUo_V6zA
+
+
+### Jun 21
+
+I have definately stopped consistently doing the June challenge. I should get back into the habit of doing it. It's about how you recover after getting off the wagon.
+
+
+
+
 ### Jun 20
 
 I tried the weekly contest. The time pressure is there. There are also virtual contests where rank will not be affected.
