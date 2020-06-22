@@ -92,7 +92,8 @@ It is sorted by category. This list will continually change as your skill level 
 
 #### Recursion / Backtracking
 
-- [Permutation](https://leetcode.com/problems/permutations)
+- [Permutation](/problems/permutations)
+- [Subsets](/problems/subsets)
 
 #### Flood Fill
 

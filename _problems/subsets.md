@@ -39,7 +39,7 @@ All backtracking problems have this structure, just memorize it.
 
 {% highlight python %}
 
-def subsets2(nums):
+def subsets(nums):
 
     def backtrack(startIndex, currentSubset, allSubsets, nums):
 
