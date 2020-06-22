@@ -35,4 +35,21 @@ def subsets(nums):
     generateSubsets(0, nums, [], subsets)
     return subsets
 
+
+def subsets2(nums):
+
+    def backtrack(startIndex, currentSubset, allSubsets, nums):
+
+        allSubsets.append(currentSubset)
+
+        for i in range(startIndex, len(nums)):
+            currentSubset.append(nums[i])
+            backtrack( i+1, currentSubset, allSubsets, nums)
+            currentSubset.remove( currentSubset[-1] )
+
+    allSubsets = []
+    backtrack( 0, [], allSubsets, nums )
+    return allSubsets
+
+
 print(subsets(nums))
