@@ -12,6 +12,8 @@ Do June Challenge, then work on permutation problems. Do not spend more than 30 
 Another list of questions: https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/preview?pru=AAABcwEKa6A*jTAyJNFMW1ButNqUo_V6zA
 
 
+When a problem is really hard to understand, try debugging, putting print statements or finding a solution to a similar problem.
+
 ### Jun 21
 
 I have definately stopped consistently doing the June challenge. I should get back into the habit of doing it. It's about how you recover after getting off the wagon.
