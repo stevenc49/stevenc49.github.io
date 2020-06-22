@@ -7,7 +7,7 @@ title:  Practice Log
 
 Make a timeline for reaching milestones. (IE: by August, start applying to tier B companies)
 
-Do June Challenge, then work on permutation problems.
+Do June Challenge, then work on permutation problems. Do not spend more than 30 min figuring out a solution and not more than an hour coding it.
 
 Another list of questions: https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/preview?pru=AAABcwEKa6A*jTAyJNFMW1ButNqUo_V6zA
 
