@@ -90,6 +90,10 @@ It is sorted by category. This list will continually change as your skill level 
     - max subarray
     - max product subarray
 
+#### Recursion / Backtracking
+
+- [Permutation](https://leetcode.com/problems/permutations)
+
 #### Flood Fill
 
 - [Flood Fill](/problems/floodfill)
