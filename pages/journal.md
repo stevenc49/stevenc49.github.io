@@ -3,6 +3,12 @@ layout: page
 title:  Practice Log
 ---
 
+### Jun 23
+
+Need to do telus work first. Then go back to Complete Binary Tree Node problem.
+
+I think I've successfully built the habit of leetcoding a little bit every day.
+
 ### Jun 22
 
 Make a timeline for reaching milestones. (IE: by August, start applying to tier B companies)
