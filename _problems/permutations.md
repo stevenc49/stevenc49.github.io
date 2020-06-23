@@ -67,4 +67,31 @@ print(permute(nums))
 {% endhighlight %}
 
 
+________________________
+
+
+Following the generic backtracking structure:
+
+{% highlight python %}
+
+def permute(nums):
+
+    def backtrack(currentList, allPermutations, nums):
+
+        if len(currentList)==len(nums):
+            allPermutations.append(currentList[:])
+        else:
+            for i in range(0, len(nums)):
+                if nums[i] in currentList:
+                    continue
+                currentList.append(nums[i])
+                backtrack( currentList, allPermutations, nums )
+                currentList.remove(currentList[-1])
+
+    allPermutations = []
+    backtrack([], allPermutations, nums)
+    return allPermutations
+
+{% endhighlight %}
+
 ![image1]()

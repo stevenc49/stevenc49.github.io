@@ -40,7 +40,7 @@ def subsets2(nums):
 
     def backtrack(startIndex, currentSubset, allSubsets, nums):
 
-        allSubsets.append(currentSubset)
+        allSubsets.append(currentSubset[:])
 
         for i in range(startIndex, len(nums)):
             currentSubset.append(nums[i])
@@ -52,4 +52,4 @@ def subsets2(nums):
     return allSubsets
 
 
-print(subsets(nums))
+print(subsets2(nums))
