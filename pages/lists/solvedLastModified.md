@@ -8,9 +8,9 @@ There are 77 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Permutations](/problems/permutations) | 2020-06-23 | Solved | recursion, backtracking 
 [Count Complete Tree Nodes](/problems/countCompleteBinaryNodes) | 2020-06-23 | Attempted | trees 
 [Subsets](/problems/subsets) | 2020-06-22 | Solved | recursion, backtracking 
-[Permutations](/problems/permutations) | 2020-06-22 | Attempted | recursion, backtracking 
 [Single Number II](/problems/singleNumberii) | 2020-06-22 | Attempted | bit manipulation 
 [Cheapest Flight Within K Stops](/problems/cheapestFlight) | 2020-06-21 | Attempted | graph, dijkstra 
 [Network Delay Time](/problems/networkDelayTime) | 2020-06-19 | Attempted | graph, dijkstra 

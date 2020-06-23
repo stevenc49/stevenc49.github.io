@@ -4,7 +4,7 @@ title:  Permutations
 last_solved: 2020-06-22
 category: recursion, backtracking
 leetcode_url: https://leetcode.com/problems/permutations
-status: Attempted
+status: Solved
 ---
 
 Problem
