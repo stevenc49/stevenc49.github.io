@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 76 problems solved.
+There are 77 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Count Complete Tree Nodes](/problems/countCompleteBinaryNodes) | 2020-06-23 | Attempted | trees 
 [Subsets](/problems/subsets) | 2020-06-22 | Solved | recursion, backtracking 
 [Permutations](/problems/permutations) | 2020-06-22 | Attempted | recursion, backtracking 
 [Single Number II](/problems/singleNumberii) | 2020-06-22 | Attempted | bit manipulation 
