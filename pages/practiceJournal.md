@@ -7,6 +7,8 @@ title:  Practice Log
 
 I just watched David V's course on "Everybody can build a Twitter Audience" and it convinced me that I need to gain credibility before I can start any entrepreneurial adventure. Since I'm already working on leetcoding, I can start small and tweet/post my leetcode solutions on medium/leetcode/twitter, etc.
 
+It's better to look at solution, learn it and move on than to get stuck and waste hours on a single problem. You can always return to it later or turn it into a blog article to cement your learning.
+
 
 
 ### Jun 23
