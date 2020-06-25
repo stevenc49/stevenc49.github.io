@@ -8,7 +8,8 @@ There are 80 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
-[Linked List Cycle II](/problems/llcycle2) | 2020-06-25 | Attempted | linked list, cycle detection 
+[Linked List Cycle II](/problems/llcycle2) | 2020-06-25 | Solved | linked list, cycle detection 
+[Linked List Cycle](/problems/llcycle) | 2020-06-25 | Solved | linked list, cycle detection 
 [Find the Duplicate Number](/problems/findTheDuplicateNumber) | 2020-06-25 | Solved | cycle detection 
 [Unique BST](/problems/uniqueBST) | 2020-06-24 | Attempted | dp 
 [Permutations](/problems/permutations) | 2020-06-23 | Solved | recursion, backtracking 
@@ -71,7 +72,6 @@ Problem | Last Modified | Status | Category
 [Count Ones (In Array)](/problems/countOnesInArray) | 2020-05-14 |  |  
 [Num Ones](/problems/numOnes) | 2020-05-14 |  |  
 [Longest Substring without Repeating Characters](/problems/longestSubstringWithoutRepeatingChars) | 2020-05-14 |  |  
-[Linked List Cycle](/problems/llcycle) | 2020-05-13 |  |  
 [Validate BST](/problems/validateBST) | 2020-05-12 |  |  
 [Is Same Tree?](/problems/isSameTree) | 2020-05-12 |  |  
 [Print K distance from Root](/problems/printKdistanceFromRoot) | 2020-05-11 |  |  
