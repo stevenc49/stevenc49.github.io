@@ -9,6 +9,7 @@ I just watched David V's course on "Everybody can build a Twitter Audience" and 
 
 It's better to look at solution, learn it and move on than to get stuck and waste hours on a single problem. You can always return to it later or turn it into a blog article to cement your learning.
 
+The key thing is that you want to gain credibility and have something to promote later on.
 
 
 ### Jun 23
