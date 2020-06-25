@@ -68,7 +68,7 @@ It is sorted by category. This list will continually change as your skill level 
     - Is Same Tree
     - Is Symmetric Tree?
     - Is Sub Tree
-    - Invert Tree
+    - Invert/Reverse Tree
 
 
 
