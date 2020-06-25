@@ -12,7 +12,7 @@ minima:
 header_pages:
   - pages/lists/reviewProblems.md
   - pages/lists/solvedLastModified.md
-  - pages/journal.md
+  - pages/practiceJournal.md
 
 
 # this lets you access it on your local area network
