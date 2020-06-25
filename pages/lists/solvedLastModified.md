@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 78 problems solved.
+There are 79 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Find the Duplicate Number](/problems/findTheDuplicateNumber) | 2020-06-25 | Attempted | cycle detection 
 [Unique BST](/problems/uniqueBST) | 2020-06-24 | Attempted | dp 
 [Permutations](/problems/permutations) | 2020-06-23 | Solved | recursion, backtracking 
 [Count Complete Tree Nodes](/problems/countCompleteBinaryNodes) | 2020-06-23 | Attempted | trees 
