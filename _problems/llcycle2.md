@@ -74,5 +74,43 @@ def detectCycle(self, head: ListNode) -> ListNode:
 
 {% endhighlight %}
 
+_____________________
+
+
+After adding null checks and followed the tips from [Linked List Cycle I](/problems/llcycle)
+
+{% highlight python %}
+
+def detectCycle(self, head: ListNode) -> ListNode:
+    
+    if not head: return None
+    
+    slow = head
+    fast = head
+    
+    # find intersection in cycle
+    while True:
+        
+        if slow is None or fast is None or fast.next is None:
+            return None
+        
+        slow = slow.next
+        fast = fast.next.next
+        
+        if slow is fast:
+            break
+    
+    
+    # reset slow back to head and find entrance
+    # the gap between the beginning and entrance == gap between fast and entrance
+    # (this only applies if fast moved 2x as fast as slow)
+    slow = head
+    while slow!=fast:
+        slow = slow.next
+        fast = fast.next
+    
+    return slow
+
+{% endhighlight %}
 
 ![image1]()
