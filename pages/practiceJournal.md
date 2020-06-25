@@ -3,6 +3,12 @@ layout: page
 title:  Practice Log
 ---
 
+### Jun 25
+
+I just watched David V's course on "Everybody can build a Twitter Audience" and it convinced me that I need to gain credibility before I can start any entrepreneurial adventure. Since I'm already working on leetcoding, I can start small and tweet/post my leetcode solutions on medium/leetcode/twitter, etc.
+
+
+
 ### Jun 23
 
 Need to do telus work first. Then go back to Complete Binary Tree Node problem.
