@@ -84,6 +84,7 @@ It is sorted by category. This list will continually change as your skill level 
 - [Longest Common Subsequence](/problems/longestCommonSubsequence)
 - [Coin Change](/problems/coinChange)
 - [Coin Change 2](/problems/coinChange2)
+- [Unique BST](/problems/uniqueBST)
 - Easy
     - Buy and Sell stocks I and II
     - House Robber I and II
