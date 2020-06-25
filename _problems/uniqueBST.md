@@ -57,7 +57,25 @@ f(4) = g(3) + (1*g(2)) + (g(2)* 1) + g(3)
 
 {% highlight python %}
 
-
+class Solution:
+    def numTrees(self, n: int) -> int:
+        
+        @lru_cache(None)
+        def helper(left, right):
+            
+            # base case, g(1)
+            if left>=right:
+                return 1
+            
+            count = 0
+            for i in range(left, right+1):
+                l_tree = helper(left, i-1)
+                r_tree = helper(i+1, right)
+                count += l_tree * r_tree
+            
+            return count
+    
+        return helper(1, n)
 
 {% endhighlight %}
 
