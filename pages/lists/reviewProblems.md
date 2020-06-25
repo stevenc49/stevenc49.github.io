@@ -52,9 +52,14 @@ It is sorted by category. This list will continually change as your skill level 
 
 ### Linked List
 - Merge Sorted Lists
-- Linked List Cycle
 - Remove Nth Node from End of List
 - Reverse Linked List
+- Cycle Detection
+    - [Linked List Cycle I](/problems/llcycle)
+    - [Linked List Cycle II](/problems/llcycle2)
+    - [Find the Duplicate number](/problems/findTheDuplicateNumber)
+
+
 
 #### Trees
 
