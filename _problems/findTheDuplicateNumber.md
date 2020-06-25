@@ -4,7 +4,7 @@ title:  Find the Duplicate Number
 last_solved: 2020-06-25
 category: cycle detection
 leetcode_url: https://leetcode.com/problems/find-the-duplicate-number
-status: Attempted
+status: Solved
 ---
 
 Problem
