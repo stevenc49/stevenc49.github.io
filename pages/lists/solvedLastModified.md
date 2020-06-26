@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 80 problems solved.
+There are 81 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Generate Parenthesis](/problems/generateParanthesis) | 2020-06-25 | Attempted | backtracking 
 [Linked List Cycle II](/problems/llcycle2) | 2020-06-25 | Solved | linked list, cycle detection 
 [Linked List Cycle](/problems/llcycle) | 2020-06-25 | Solved | linked list, cycle detection 
 [Find the Duplicate Number](/problems/findTheDuplicateNumber) | 2020-06-25 | Solved | cycle detection 
