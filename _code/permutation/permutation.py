@@ -30,7 +30,8 @@ def permute(nums):
                     continue
                 currentList.append(nums[i])
                 backtrack( currentList, allPermutations, nums )
-                currentList.remove(currentList[-1])
+                currentList.remove(currentList[-1])   # currentList.pop() also does the same thing
+
 
     allPermutations = []
     backtrack([], allPermutations, nums)
