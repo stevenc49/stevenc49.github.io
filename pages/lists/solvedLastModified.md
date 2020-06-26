@@ -8,6 +8,7 @@ There are 82 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Permutations](/problems/permutations) | 2020-06-26 | Solved | recursion, backtracking 
 [Sum Root to Leaf Numbers](/problems/sumRootToLeaf) | 2020-06-26 | Attempted | trees 
 [Deepest Leaves Sum (DFS)](/problems/deepestLeavesSumDFS) | 2020-06-26 | Solved | trees 
 [Generate Parenthesis](/problems/generateParanthesis) | 2020-06-25 | Attempted | backtracking 
@@ -15,7 +16,6 @@ Problem | Last Modified | Status | Category
 [Linked List Cycle](/problems/llcycle) | 2020-06-25 | Solved | linked list, cycle detection 
 [Find the Duplicate Number](/problems/findTheDuplicateNumber) | 2020-06-25 | Solved | cycle detection 
 [Unique BST](/problems/uniqueBST) | 2020-06-24 | Attempted | dp 
-[Permutations](/problems/permutations) | 2020-06-23 | Solved | recursion, backtracking 
 [Count Complete Tree Nodes](/problems/countCompleteBinaryNodes) | 2020-06-23 | Attempted | trees 
 [Subsets](/problems/subsets) | 2020-06-22 | Solved | recursion, backtracking 
 [Single Number II](/problems/singleNumberii) | 2020-06-22 | Attempted | bit manipulation 
