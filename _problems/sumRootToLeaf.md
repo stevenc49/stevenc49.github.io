@@ -78,4 +78,28 @@ def sumNumbers(root):
 {% endhighlight %}
 
 
-![image1]()
+_____________
+
+
+Anotehr solution
+
+
+{% highlight python %}
+
+def sumNumbers(self, root: TreeNode) -> int:
+
+    def dfs(root, n):
+        if not root:
+            return 0
+        n = n*10 + root.val
+        if not root.left and not root.right:
+            return n
+        else:
+            return dfs(root.left, n) + dfs(root.right, n)
+    return dfs(root, 0)
+
+
+{% endhighlight %}
+
+
+![image1](https://5wjpjg.dm.files.1drv.com/y4mQXn_k4mYsnwW7OsyfFTgPp4V0-G1X9AvuveNRV_HZ72gpClN9TsNQGqUSULWOT_SKWwlYsXBCT6U117kb5dUfFA7AljA3iQiTDr2F_1d7jWuXB1vSz7Pa6B1NgFvapoHBQ48y1F5-_sBTG7O1ZIjo9g3xc8-suiyyCTjaMKYL5x-jCLtp9LvCHGTW9s9LzreX4okmXD7StEu6vDLbF4DYw?width=1400&height=2901&cropmode=none)
