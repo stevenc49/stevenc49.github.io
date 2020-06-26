@@ -23,7 +23,7 @@ def permute(nums):
     def backtrack(currentList, allPermutations, nums):
 
         if len(currentList)==len(nums):
-            allPermutations.append(currentList[:])
+            allPermutations.append(currentList[:])  # or currentList.copy() because Python passes by reference
         else:
             for i in range(0, len(nums)):
                 if nums[i] in currentList:
