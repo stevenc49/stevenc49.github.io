@@ -1,9 +1,15 @@
 ---
 layout: page
 title:  Deepest Leaves Sum (DFS)
+last_solved: 2020-06-25
+category: trees
+leetcode_url: https://leetcode.com/problems/deepest-leaves-sum/
+status: Solved
 ---
 
-
+```
+Given a binary tree, return the sum of values of its deepest leaves.
+```
 
 
 {% highlight python %}

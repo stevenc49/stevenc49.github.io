@@ -4,10 +4,12 @@ title:  Solved - Last Modified
 ---
 
 
-There are 81 problems solved.
+There are 82 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Sum Root to Leaf Numbers](/problems/sumRootToLeaf) | 2020-06-26 | Attempted | trees 
+[Deepest Leaves Sum (DFS)](/problems/deepestLeavesSumDFS) | 2020-06-26 | Solved | trees 
 [Generate Parenthesis](/problems/generateParanthesis) | 2020-06-25 | Attempted | backtracking 
 [Linked List Cycle II](/problems/llcycle2) | 2020-06-25 | Solved | linked list, cycle detection 
 [Linked List Cycle](/problems/llcycle) | 2020-06-25 | Solved | linked list, cycle detection 
@@ -77,7 +79,6 @@ Problem | Last Modified | Status | Category
 [Is Same Tree?](/problems/isSameTree) | 2020-05-12 |  |  
 [Print K distance from Root](/problems/printKdistanceFromRoot) | 2020-05-11 |  |  
 [Serialize & Deserialize Tree](/problems/serializeTree) | 2020-05-11 |  |  
-[Deepest Leaves Sum (DFS)](/problems/deepestLeavesSumDFS) | 2020-05-11 |  |  
 [Deepest Leaves Sum (BFS)](/problems/deepestLeavesSumBFS) | 2020-05-11 |  |  
 [Is Tree Balanced?](/problems/isTreeBalanced) | 2020-05-11 |  |  
 [Is Tree Symmetric?](/problems/symmetricTree) | 2020-05-11 |  |  
