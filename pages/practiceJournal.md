@@ -5,11 +5,18 @@ title:  Practice Log
 
 ### Jun 25
 
+Today, I just spent 2 hours trying to get DS to run my CommandLineRunner after Andrei's changes. FUCK!!!!!
+After that, I just into issues because teh Auth.net prod credentials were incorrect. Stupid problems. In comparison, leetcoding is easy shit.
+
+
+### Jun 24
+
 I just watched David V's course on "Everybody can build a Twitter Audience" and it convinced me that I need to gain credibility before I can start any entrepreneurial adventure. Since I'm already working on leetcoding, I can start small and tweet/post my leetcode solutions on medium/leetcode/twitter, etc.
 
 It's better to look at solution, learn it and move on than to get stuck and waste hours on a single problem. You can always return to it later or turn it into a blog article to cement your learning.
 
 The key thing is that you want to gain credibility and have something to promote later on.
+
 
 
 ### Jun 23
