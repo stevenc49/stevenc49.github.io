@@ -1,6 +1,10 @@
 ---
 layout: page
 title:  Merge Sorted Linked List (Iterative)
+last_solved: 2020-06-26
+category: linked list
+leetcode_url: https://leetcode.com/problems/merge-two-sorted-lists/
+status: Solved
 ---
 
 - Use dummy node

@@ -8,6 +8,7 @@ There are 83 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Merge Sorted Linked List (Iterative)](/problems/mergeSortedLLiter) | 2020-06-26 | Solved | linked list 
 [Combination Sum](/problems/combination_sum) | 2020-06-26 | Attempted | permutations 
 [Permutations](/problems/permutations) | 2020-06-26 | Solved | recursion, backtracking 
 [Sum Root to Leaf Numbers](/problems/sumRootToLeaf) | 2020-06-26 | Attempted | trees 
@@ -67,7 +68,6 @@ Problem | Last Modified | Status | Category
 [Matrix Search](/problems/matrixSearch) | 2020-05-27 |  |  
 [Maximum Subarray](/problems/maxSubarray) | 2020-05-27 |  |  
 [Longest Common Subsequence](/problems/longestCommonSubsequence) | 2020-05-25 |  |  
-[Merge Sorted Linked List (Iterative)](/problems/mergeSortedLLiter) | 2020-05-22 |  |  
 [Rotton Oranges](/problems/rottonOranges) | 2020-05-21 |  |  
 [Missing Number](/problems/missingNumber) | 2020-05-17 |  |  
 [Contains Duplicates](/problems/containsDuplicates) | 2020-05-17 |  |  
