@@ -19,6 +19,12 @@ Time to add a new habit?
 - writing / blogging / tweeting and building audience
 
 
+Start building these small habits slowly. And be realistic.
+
+Got the leetcoding habit down.
+Should expand and do blogging habit next.
+
+
 ### Jun 25
 
 Today, I just spent 2 hours trying to get DS to run my CommandLineRunner after Andrei's changes. FUCK!!!!!
