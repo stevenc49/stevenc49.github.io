@@ -11,6 +11,13 @@ Working on the Perfect Squares problem and I'm starting to identify subproblems 
 Also, in the last couple days, I've been working on backtracking problems. Should work on "similar types of questions" at the same time so I can identify patterns. Maybe make a study curriculum.
 
 
+_________
+
+Time to add a new habit?
+
+- chinese / cooking
+- writing / blogging / tweeting and building audience
+
 
 ### Jun 25
 
