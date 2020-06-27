@@ -3,6 +3,15 @@ layout: page
 title:  Practice Log
 ---
 
+
+### Jun 27
+
+Working on the Perfect Squares problem and I'm starting to identify subproblems by myself.
+
+Also, in the last couple days, I've been working on backtracking problems. Should work on "similar types of questions" at the same time so I can identify patterns. Maybe make a study curriculum.
+
+
+
 ### Jun 25
 
 Today, I just spent 2 hours trying to get DS to run my CommandLineRunner after Andrei's changes. FUCK!!!!!
