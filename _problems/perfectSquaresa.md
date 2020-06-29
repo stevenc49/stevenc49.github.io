@@ -2,7 +2,7 @@
 layout: page
 title:  Perfect Squares
 last_solved: 2020-06-28
-category: dp
+category: dp [bottom up]
 leetcode_url: https://leetcode.com/problems/perfect-squares/
 status: Semi-Solved
 ---

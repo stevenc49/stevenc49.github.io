@@ -2,7 +2,7 @@
 layout: page
 title:  Coin Change
 last_solved: 
-category: dp
+category: dp [bottom up]
 leetcode_url: https://leetcode.com/problems/coin-change
 status: Solved
 ---
