@@ -26,8 +26,12 @@ Explanation: 13 = 4 + 9.
 
 ```
 
+
+
 Solution
 ----------
+
+This is suppose to be similar to the coin change problem somehow.
 
 ```
 
