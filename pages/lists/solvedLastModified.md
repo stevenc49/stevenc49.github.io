@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 84 problems solved.
+There are 85 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Perfect Squares](/problems/perfectSquaresa) | 2020-06-28 | Semi-Solved | dp 
 [Reconstruct Iternary](/problems/reconstructIternary) | 2020-06-28 | Not Solved | dfs, graph 
 [Merge Sorted Linked List (Iterative)](/problems/mergeSortedLLiter) | 2020-06-26 | Solved | linked list 
 [Combination Sum](/problems/combination_sum) | 2020-06-26 | Attempted | permutations 
