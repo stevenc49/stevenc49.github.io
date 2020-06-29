@@ -3,7 +3,7 @@ tickets = [["JFK","SFO"],["JFK","ATL"],["SFO","ATL"],["ATL","JFK"],["ATL","SFO"]
 
 def findTicketIndForStartCity(startCity):
 
-    # store all ticket indexes that have the same start city
+    # TODO: store all ticket indexes that have the same start city
     sameStartCityIndex = {}
 
     for ticketInd, cities in enumerate(tickets):

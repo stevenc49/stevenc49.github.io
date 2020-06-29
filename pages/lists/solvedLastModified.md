@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 83 problems solved.
+There are 84 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Template](/problems/reconstructIternary) | 2020-06-28 | Attempted |  
 [Merge Sorted Linked List (Iterative)](/problems/mergeSortedLLiter) | 2020-06-26 | Solved | linked list 
 [Combination Sum](/problems/combination_sum) | 2020-06-26 | Attempted | permutations 
 [Permutations](/problems/permutations) | 2020-06-26 | Solved | recursion, backtracking 
