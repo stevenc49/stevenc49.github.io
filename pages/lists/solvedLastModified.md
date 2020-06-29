@@ -8,7 +8,7 @@ There are 85 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
-[Coin Change](/problems/coinChange) | 2020-06-29 | Not Solved | dp 
+[Coin Change](/problems/coinChange) | 2020-06-29 | Solved | dp 
 [Perfect Squares](/problems/perfectSquaresa) | 2020-06-28 | Semi-Solved | dp 
 [Reconstruct Iternary](/problems/reconstructIternary) | 2020-06-28 | Not Solved | dfs, graph 
 [Merge Sorted Linked List (Iterative)](/problems/mergeSortedLLiter) | 2020-06-26 | Solved | linked list 
