@@ -13,6 +13,9 @@ Rant:
 
 Johnson, Gus and Yvonne asked for an update on SMS Whitelisting and CPG. Eventhough nothing was done, just lie to their fucking faces about it being wrapped up. Tell them what they want to hear and get them off my back.
 
+_________
+
+I've built the habit of leetcoding in my free time. This has become the norm and it requires less will power to keep up. Just like running daily now, whenever it's a "normal" day, I am growing.
 
 
 

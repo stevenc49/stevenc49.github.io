@@ -1,6 +1,6 @@
 nums = [10,20,30]
 
-def permute(nums):
+def permute1(nums):
 
     def backtrack(currentList, allPermutations, nums):
 
@@ -20,15 +20,27 @@ def permute(nums):
     return allPermutations
 
 
-def permute(nums):
+def permute2(nums):
 
-    for i in range(len(nums)):
+    def backtrack(currentList, allPermutations, nums):
 
-        currentList.append(nums[i])
-        backtrack()
+        if len(currentList)==len(nums):
+            allPermutations.append(currentList.copy())
+        else:
+            for i in range(len(nums)):
+
+                currentList.append(nums[i])
+                print(currentList)
+
+                backtrack(currentList, allPermutations, nums)
+                currentList.pop()
+                print(currentList)
+
 
     allPermutations = []
     backtrack([], allPermutations, nums)
     return allPermutations
 
-print(permute(nums))
+# print(permute1(nums))
+# print()
+print(permute2(nums))
