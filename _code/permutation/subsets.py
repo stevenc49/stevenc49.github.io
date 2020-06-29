@@ -55,4 +55,25 @@ def subsets2(nums):
     return allSubsets
 
 
-print(subsets2(nums))
+
+def subsets3(nums):
+
+    def backtrack(currentList, allSubsets, nums, index):
+
+        allSubsets.append( currentList.copy() )
+
+        for i in range(index, len(nums)):
+
+            currentList.append(nums[i])
+            print(currentList)
+
+            backtrack( currentList, allSubsets, nums, index+1 )
+            currentList.pop()
+            print(currentList)
+
+
+    ans = []
+    backtrack([], ans, nums, 0)
+    return ans
+
+print(subsets3(nums))
