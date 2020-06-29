@@ -7,6 +7,14 @@ title:  Practice Log
 
 Did the June Daily Challenge all by myself on a brand new problem. It was the Unique Paths Problem and I solved it using the bottom up dynamics programming approach. Practicing all those similar dp problems have really paid off.
 
+____________
+
+Rant:
+
+Johnson, Gus and Yvonne asked for an update on SMS Whitelisting and CPG. Eventhough nothing was done, just lie to their fucking faces about it being wrapped up.
+
+
+
 
 
 ### Jun 28
