@@ -10,8 +10,11 @@ I did the REconstructIternary problem almost all by myself. At least the first e
 
 Mark down questions that you could do and ones that you have no idea how to start.
 - count and say
-- recontrcut iternary
+- reconstruct iternary
 
+__________
+
+Today, upon working on the Perfect Square problem, I went back to visit the Coin Change problem (change making problem) because Timonthy H Chang said it was similar. After watching Back2BackSWE video, I finally understand how the problem is solved.  Sometimes, you just need to come back to a problem after gaining more insight.
 
 
 
