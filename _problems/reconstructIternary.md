@@ -71,6 +71,8 @@ _________________
 
 Here is the solution in Python using DFS and a stack. The solution is explained in [this video](https://www.youtube.com/watch?v=WYqsg5dziaQ).
 
+Visualization [here](https://leetcode.com/problems/reconstruct-itinerary/discuss/709699/Python-by-DFS-and-stack-w-Visualization)
+
 I don't fully get why it's DFS but you can revisit it. For now, just take a few things as a lesson like how they use a hashmap to build an adjacency list (as seen in other similar graph problems).
 
 {% highlight python %}
