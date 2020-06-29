@@ -29,7 +29,10 @@ Another list of leetcode questions:
 - https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions
 
 
+Behaviour Interview
+---------------------
 [Amazon LP](https://medium.com/@scarletinked/are-you-the-leader-were-looking-for-interviewing-at-amazon-8301d787815d)
+[Behaviour Interview](https://www.youtube.com/c/DanCroitor/videos)
 
 Youtubers
 -------
