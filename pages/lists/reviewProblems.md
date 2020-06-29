@@ -89,6 +89,7 @@ It is sorted by category. This list will continually change as your skill level 
 Can only solve these if seen before
 
 - [Longest Common Subsequence](/problems/longestCommonSubsequence)
+- [Unique Paths](/problems/uniquePaths)
 - [Coin Change](/problems/coinChange)
 - [Coin Change 2](/problems/coinChange2)
 - Perfect Squares

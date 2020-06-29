@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 85 problems solved.
+There are 86 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Unique Paths](/problems/uniquePaths) | 2020-06-29 | Solved | dp 
 [Coin Change](/problems/coinChange) | 2020-06-29 | Solved | dp [bottom up] 
 [Perfect Squares](/problems/perfectSquaresa) | 2020-06-29 | Semi-Solved | dp [bottom up] 
 [Reconstruct Iternary](/problems/reconstructIternary) | 2020-06-28 | Not Solved | dfs, graph 
