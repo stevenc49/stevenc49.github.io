@@ -32,7 +32,8 @@ Another list of leetcode questions:
 Behaviour Interview
 ---------------------
 [Amazon LP](https://medium.com/@scarletinked/are-you-the-leader-were-looking-for-interviewing-at-amazon-8301d787815d)
-[Behaviour Interview](https://www.youtube.com/c/DanCroitor/videos)
+[Behaviour Interview](https://www.youtube.com/c/DanCroitor/videos) -> youtube-dl and listen to mp3
+
 
 Youtubers
 -------
