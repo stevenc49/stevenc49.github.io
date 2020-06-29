@@ -29,12 +29,14 @@ def permute2(nums):
         else:
             for i in range(len(nums)):
 
-                currentList.append(nums[i])
-                print(currentList)
+                if nums[i] not in currentList:
 
-                backtrack(currentList, allPermutations, nums)
-                currentList.pop()
-                print(currentList)
+                    currentList.append(nums[i])
+                    print(currentList)
+
+                    backtrack(currentList, allPermutations, nums)
+                    currentList.pop()
+                    print(currentList)
 
 
     allPermutations = []

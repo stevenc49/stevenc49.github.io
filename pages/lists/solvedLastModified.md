@@ -8,13 +8,13 @@ There are 86 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Permutations](/problems/permutations) | 2020-06-29 | Solved | recursion, backtracking 
 [Unique Paths](/problems/uniquePaths) | 2020-06-29 | Solved | dp 
 [Coin Change](/problems/coinChange) | 2020-06-29 | Solved | dp [bottom up] 
 [Perfect Squares](/problems/perfectSquaresa) | 2020-06-29 | Semi-Solved | dp [bottom up] 
 [Reconstruct Iternary](/problems/reconstructIternary) | 2020-06-28 | Not Solved | dfs, graph 
 [Merge Sorted Linked List (Iterative)](/problems/mergeSortedLLiter) | 2020-06-26 | Solved | linked list 
 [Combination Sum](/problems/combination_sum) | 2020-06-26 | Attempted | permutations 
-[Permutations](/problems/permutations) | 2020-06-26 | Solved | recursion, backtracking 
 [Sum Root to Leaf Numbers](/problems/sumRootToLeaf) | 2020-06-26 | Attempted | trees 
 [Deepest Leaves Sum (DFS)](/problems/deepestLeavesSumDFS) | 2020-06-26 | Solved | trees 
 [Generate Parenthesis](/problems/generateParanthesis) | 2020-06-25 | Attempted | backtracking 

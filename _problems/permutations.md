@@ -33,6 +33,10 @@ Solution
 
 A generic backtracking skeleton is [here](https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning))
 
+
+[medium article on permutation/subsets](https://medium.com/algorithms-and-leetcode/backtracking-e001561b9f28)
+
+
 ```
     """
     Level0: []
@@ -43,29 +47,89 @@ A generic backtracking skeleton is [here](https://leetcode.com/problems/permutat
     """
 ```    
 
-{% highlight python %}
+The vanilla backtracking template would do this to `currList`.
+So that's why you need to check to that nums[i] is not in `currList`
 
-nums = [1,2,3]
-
-def backtracking(res,visited,subset,nums):
-    if len(subset) == len(nums):
-        res.append(subset)
-    for i in range(len(nums)):
-        if i not in visited:
-            visited.add(i)
-            backtracking(res,visited,subset+[nums[i]],nums)
-            visited.remove(i)
-
-def permute(nums):
-    visited = set()
-    res = []
-    backtracking(res,visited,[],nums)
-    return res
-
-print(permute(nums))
-
-{% endhighlight %}
-
+```
+[10]
+[10, 10]
+[10, 10, 10]
+[10, 10]
+[10, 10, 20]
+[10, 10]
+[10, 10, 30]
+[10, 10]
+[10]
+[10, 20]
+[10, 20, 10]
+[10, 20]
+[10, 20, 20]
+[10, 20]
+[10, 20, 30]
+[10, 20]
+[10]
+[10, 30]
+[10, 30, 10]
+[10, 30]
+[10, 30, 20]
+[10, 30]
+[10, 30, 30]
+[10, 30]
+[10]
+[]
+[20]
+[20, 10]
+[20, 10, 10]
+[20, 10]
+[20, 10, 20]
+[20, 10]
+[20, 10, 30]
+[20, 10]
+[20]
+[20, 20]
+[20, 20, 10]
+[20, 20]
+[20, 20, 20]
+[20, 20]
+[20, 20, 30]
+[20, 20]
+[20]
+[20, 30]
+[20, 30, 10]
+[20, 30]
+[20, 30, 20]
+[20, 30]
+[20, 30, 30]
+[20, 30]
+[20]
+[]
+[30]
+[30, 10]
+[30, 10, 10]
+[30, 10]
+[30, 10, 20]
+[30, 10]
+[30, 10, 30]
+[30, 10]
+[30]
+[30, 20]
+[30, 20, 10]
+[30, 20]
+[30, 20, 20]
+[30, 20]
+[30, 20, 30]
+[30, 20]
+[30]
+[30, 30]
+[30, 30, 10]
+[30, 30]
+[30, 30, 20]
+[30, 30]
+[30, 30, 30]
+[30, 30]
+[30]
+[]
+```
 
 ________________________
 
@@ -87,6 +151,36 @@ def permute(nums):
                 currentList.append(nums[i])
                 backtrack( currentList, allPermutations, nums )
                 currentList.remove(currentList[-1])     # currentList.pop() also does the same thing
+
+    allPermutations = []
+    backtrack([], allPermutations, nums)
+    return allPermutations
+
+{% endhighlight %}
+
+_________
+
+
+{% highlight python %}
+
+def permute2(nums):
+
+    def backtrack(currentList, allPermutations, nums):
+
+        if len(currentList)==len(nums):
+            allPermutations.append(currentList.copy())
+        else:
+            for i in range(len(nums)):
+
+                if nums[i] not in currentList:
+
+                    currentList.append(nums[i])
+                    print(currentList)
+
+                    backtrack(currentList, allPermutations, nums)
+                    currentList.pop()
+                    print(currentList)
+
 
     allPermutations = []
     backtrack([], allPermutations, nums)
