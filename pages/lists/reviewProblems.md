@@ -89,6 +89,7 @@ It is sorted by category. This list will continually change as your skill level 
 - [Longest Common Subsequence](/problems/longestCommonSubsequence)
 - [Coin Change](/problems/coinChange)
 - [Coin Change 2](/problems/coinChange2)
+- Perfect Squares
 - [Unique BST](/problems/uniqueBST)
 - Easy
     - Buy and Sell stocks I and II
@@ -114,7 +115,8 @@ It is sorted by category. This list will continually change as your skill level 
 #### Graphs (Dijkstra)
 
 - Cheapest Flights
-
+- Network Delay Times
+- Reconstruct Iteranary
 
 #### Greedy
 
