@@ -40,15 +40,16 @@ def subsets2(nums):
 
     def backtrack(startIndex, currentSubset, allSubsets, nums):
 
-        
-
         allSubsets.append(currentSubset[:])
 
         for i in range(startIndex, len(nums)):
             currentSubset.append(nums[i])
             print(currentSubset)
+
             backtrack( i+1, currentSubset, allSubsets, nums)
+            
             currentSubset.remove( currentSubset[-1] )
+            print(currentSubset)
 
     allSubsets = []
     backtrack( 0, [], allSubsets, nums )
@@ -58,22 +59,24 @@ def subsets2(nums):
 
 def subsets3(nums):
 
-    def backtrack(currentList, allSubsets, nums, index):
+    def backtrack(currentSubset, allSubsets, nums, index):
 
-        allSubsets.append( currentList.copy() )
+        allSubsets.append( currentSubset.copy() )
 
         for i in range(index, len(nums)):
 
-            currentList.append(nums[i])
-            print(currentList)
+            currentSubset.append(nums[i])
+            print(currentSubset)
 
-            backtrack( currentList, allSubsets, nums, index+1 )
-            currentList.pop()
-            print(currentList)
+            backtrack( currentSubset, allSubsets, nums, i+1 )
+            currentSubset.pop()
+            print(currentSubset)
 
 
     ans = []
     backtrack([], ans, nums, 0)
     return ans
 
+# print(subsets2(nums))
+# print()
 print(subsets3(nums))

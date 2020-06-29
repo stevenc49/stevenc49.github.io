@@ -8,6 +8,7 @@ There are 86 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Subsets](/problems/subsets) | 2020-06-29 | Solved | recursion, backtracking 
 [Permutations](/problems/permutations) | 2020-06-29 | Solved | recursion, backtracking 
 [Unique Paths](/problems/uniquePaths) | 2020-06-29 | Solved | dp 
 [Coin Change](/problems/coinChange) | 2020-06-29 | Solved | dp [bottom up] 
@@ -23,7 +24,6 @@ Problem | Last Modified | Status | Category
 [Find the Duplicate Number](/problems/findTheDuplicateNumber) | 2020-06-25 | Solved | cycle detection 
 [Unique BST](/problems/uniqueBST) | 2020-06-24 | Attempted | dp 
 [Count Complete Tree Nodes](/problems/countCompleteBinaryNodes) | 2020-06-23 | Attempted | trees 
-[Subsets](/problems/subsets) | 2020-06-22 | Solved | recursion, backtracking 
 [Single Number II](/problems/singleNumberii) | 2020-06-22 | Attempted | bit manipulation 
 [Cheapest Flight Within K Stops](/problems/cheapestFlight) | 2020-06-21 | Attempted | graph, dijkstra 
 [Network Delay Time](/problems/networkDelayTime) | 2020-06-19 | Attempted | graph, dijkstra 

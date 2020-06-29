@@ -37,36 +37,49 @@ Solution
 
 All backtracking problems have this structure, just memorize it.
 
+Still not sure why we +1 to index and why that is different from Permutation.
+
 {% highlight python %}
 
-def subsets(nums):
+def subsets3(nums):
 
-    def backtrack(startIndex, currentSubset, allSubsets, nums):
+    def backtrack(currentSubset, allSubsets, nums, index):
 
-        allSubsets.append(currentSubset[:])
+        allSubsets.append( currentSubset.copy() )
 
-        for i in range(startIndex, len(nums)):
+        for i in range(index, len(nums)):
+
             currentSubset.append(nums[i])
-            backtrack( i+1, currentSubset, allSubsets, nums)
-            currentSubset.remove( currentSubset[-1] )
+            print(currentSubset)
 
-    allSubsets = []
-    backtrack( 0, [], allSubsets, nums )
-    return allSubsets
+            backtrack( currentSubset, allSubsets, nums, i+1 )
+            currentSubset.pop()
+            print(currentSubset)
+
+
+    ans = []
+    backtrack([], ans, nums, 0)
+    return ans
 
 {% endhighlight %}
 
 
 printing the currentSubset at each iteration looks like this:
 ```
-[]
 [1]
 [1, 2]
 [1, 2, 3]
+[1, 2]
+[1]
 [1, 3]
+[1]
+[]
 [2]
 [2, 3]
+[2]
+[]
 [3]
+[]
 [[], [1], [1, 2], [1, 2, 3], [1, 3], [2], [2, 3], [3]]
 ```
 
