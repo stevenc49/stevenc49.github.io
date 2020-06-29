@@ -86,6 +86,8 @@ It is sorted by category. This list will continually change as your skill level 
 
 #### Dynamic Programming
 
+Can only solve these if seen before
+
 - [Longest Common Subsequence](/problems/longestCommonSubsequence)
 - [Coin Change](/problems/coinChange)
 - [Coin Change 2](/problems/coinChange2)
@@ -99,11 +101,15 @@ It is sorted by category. This list will continually change as your skill level 
 
 #### Recursion / Backtracking
 
+Really need to work on these
+
 - [Permutation](/problems/permutations)
 - [Subsets](/problems/subsets)
 
 
 #### Flood Fill
+
+Okay at solving these. Just need to remember pattern.
 
 - [Flood Fill](/problems/floodfill)
 - [Num Islands](/problems/numIslands)
@@ -115,11 +121,15 @@ It is sorted by category. This list will continually change as your skill level 
 
 #### Graphs (Dijkstra)
 
+Just learning these. Do more of these problems to find patterns.
+
 - Cheapest Flights
 - Network Delay Times
 - Reconstruct Iteranary
 
 #### Greedy
+
+Just learning these. Do more of these problems to find patterns.
 
 - [Queue Reconstruction By Height](/problems/queueReconstructionByHeight)
 - [Jump Game](/problems/jumpGame)
