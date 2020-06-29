@@ -8,6 +8,7 @@ There are 85 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Coin Change](/problems/coinChange) | 2020-06-28 | Not Solved | dp 
 [Perfect Squares](/problems/perfectSquaresa) | 2020-06-28 | Semi-Solved | dp 
 [Reconstruct Iternary](/problems/reconstructIternary) | 2020-06-28 | Not Solved | dfs, graph 
 [Merge Sorted Linked List (Iterative)](/problems/mergeSortedLLiter) | 2020-06-26 | Solved | linked list 
@@ -30,7 +31,6 @@ Problem | Last Modified | Status | Category
 [Island Perimeter](/problems/islandPerimeter) | 2020-06-19 | Solved | matrix 
 [Number of Islands](/problems/numIslands) | 2020-06-19 | Solved | union find 
 [Sort Colors](/problems/sortColors) | 2020-06-19 | Attempted | arrays, sorting 
-[Coin Change](/problems/coinChange) | 2020-06-18 | Not Solved | dp 
 [Group Isometric Strings](/problems/groupIsomorphicStrings) | 2020-06-18 | Solved | hashmap 
 [Surrounded Region](/problems/surroundedRegion) | 2020-06-17 | Attempted | union find 
 [House Robber](/problems/houseRobber) | 2020-06-16 | Solved | dp 
