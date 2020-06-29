@@ -11,7 +11,7 @@ ____________
 
 Rant:
 
-Johnson, Gus and Yvonne asked for an update on SMS Whitelisting and CPG. Eventhough nothing was done, just lie to their fucking faces about it being wrapped up.
+Johnson, Gus and Yvonne asked for an update on SMS Whitelisting and CPG. Eventhough nothing was done, just lie to their fucking faces about it being wrapped up. Tell them what they want to hear and get them off my back.
 
 
 
