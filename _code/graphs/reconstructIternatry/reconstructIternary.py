@@ -1,14 +1,16 @@
-tickets = [["MUC", "LHR"], ["JFK", "MUC"], ["SFO", "SJC"], ["LHR", "SFO"]]
+# tickets = [["MUC", "LHR"], ["JFK", "MUC"], ["SFO", "SJC"], ["LHR", "SFO"]]
 tickets = [["JFK","SFO"],["JFK","ATL"],["SFO","ATL"],["ATL","JFK"],["ATL","SFO"]]
 
 def findTicketIndForStartCity(startCity):
 
-    # TODO: store all ticket indexes that have the same start city
-    sameStartCityIndex = {}
-
     for ticketInd, cities in enumerate(tickets):
         if cities[0]==startCity:
             return ticketInd
+
+
+
+
+tickets.sort(key=lambda x: x[1])
 
 
 output = ['JFK']

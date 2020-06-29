@@ -1,9 +1,9 @@
 ---
 layout: page
-title:  Template
+title:  Reconstruct Iternary
 last_solved: 
-category: 
-leetcode_url: 
+category: dfs, graph
+leetcode_url: https://leetcode.com/problems/reconstruct-itinerary
 status: Attempted
 ---
 

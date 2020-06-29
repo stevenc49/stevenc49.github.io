@@ -13,6 +13,8 @@ Mark down questions that you could do and ones that you have no idea how to star
 - recontrcut iternary
 
 
+
+
 ### Jun 27
 
 Working on the Perfect Squares problem and I'm starting to identify subproblems by myself.
