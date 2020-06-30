@@ -7,6 +7,8 @@ title:  Practice Log
 
 I realized I can't even work with Steve and Mayuresh on a project where there is no communication or leadership/accountability. Fuck those guys too.
 
+They are finally asking question in the 11th hour and I have lost all my willpower to care. Just going to keep leetcoding and deflecting their questions.
+
 
 
 ### Jun 29
