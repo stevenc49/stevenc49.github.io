@@ -37,7 +37,9 @@ Solution
 
 All backtracking problems have this structure, just memorize it.
 
-Still not sure why we +1 to index and why that is different from Permutation.
+Still not sure why we +1 to index and why that is different from Permutation. This [link](https://medium.com/algorithms-and-leetcode/backtracking-e001561b9f28) tried to explain it but didn't get it. They drew out the tree.
+
+
 
 {% highlight python %}
 
@@ -83,4 +85,6 @@ printing the currentSubset at each iteration looks like this:
 [[], [1], [1, 2], [1, 2, 3], [1, 3], [2], [2, 3], [3]]
 ```
 
-![image1]()
+![image1](https://miro.medium.com/max/1400/1*xrjS6JIZ5f7wFCNBDPrr0g.png)
+
+![image1](https://miro.medium.com/max/1400/1*_s5iiwdZXbg1OFWO9YDjng@2x.jpeg)
