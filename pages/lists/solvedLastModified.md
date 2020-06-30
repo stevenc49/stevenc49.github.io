@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 86 problems solved.
+There are 87 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Implement Trie](/problems/implementATrie) | 2020-06-30 | Attempted | Attempted 
 [Subsets](/problems/subsets) | 2020-06-29 | Solved | recursion, backtracking 
 [Permutations](/problems/permutations) | 2020-06-29 | Solved | recursion, backtracking 
 [Unique Paths](/problems/uniquePaths) | 2020-06-29 | Solved | dp 
