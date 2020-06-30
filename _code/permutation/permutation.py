@@ -1,4 +1,5 @@
-nums = [10,20,30]
+# nums = [10,20,30]
+nums = [1,1,2]
 
 def permute1(nums):
 
@@ -29,14 +30,12 @@ def permute2(nums):
         else:
             for i in range(len(nums)):
 
-                if nums[i] not in currentList:
+                currentList.append(nums[i])
+                print(currentList)
 
-                    currentList.append(nums[i])
-                    print(currentList)
-
-                    backtrack(currentList, allPermutations, nums)
-                    currentList.pop()
-                    print(currentList)
+                backtrack(currentList, allPermutations, nums)
+                currentList.pop()
+                print(currentList)
 
 
     allPermutations = []

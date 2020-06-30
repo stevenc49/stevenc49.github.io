@@ -37,8 +37,11 @@ Solution
 
 All backtracking problems have this structure, just memorize it.
 
-Still not sure why we +1 to index and why that is different from Permutation. This [link](https://medium.com/algorithms-and-leetcode/backtracking-e001561b9f28) tried to explain it but didn't get it. They drew out the tree.
+Still not sure why we +1 to index and why that is different from Permutation. This series of articles tries to explain it.
 
+[part 1](https://medium.com/algorithms-and-leetcode/backtracking-e001561b9f28)
+[part 2](https://medium.com/algorithms-and-leetcode/backtracking-with-leetcode-problems-part-2-705c9cc70e52)
+[part 3](https://medium.com/algorithms-and-leetcode/in-depth-backtracking-with-leetcode-problems-part-3-b225f19e0d51)
 
 
 {% highlight python %}
