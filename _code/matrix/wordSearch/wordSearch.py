@@ -35,4 +35,4 @@ def exist(board, word):
 
     return False
 
-print( exist(board, "ABZ") )
+print( exist(board, "ABC") )

@@ -3,6 +3,12 @@ layout: page
 title:  Practice Log
 ---
 
+### Jun 30
+
+I realized I can't even work with Steve and Mayuresh on a project where there is no communication or leadership/accountability. Fuck those guys too.
+
+
+
 ### Jun 29
 
 Did the June Daily Challenge all by myself on a brand new problem. It was the Unique Paths Problem and I solved it using the bottom up dynamics programming approach. Practicing all those similar dp problems have really paid off.
