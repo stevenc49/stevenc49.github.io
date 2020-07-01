@@ -46,6 +46,8 @@ Solution
 
 Tried the intuitive solution first but it ran into TLE.
 
+It's actually a binary search question similar to [Search Insert Position](/problems/searchInsertPosition)
+
 
 ```
 
