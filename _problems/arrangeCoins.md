@@ -91,4 +91,5 @@ def arrangeCoins(self, n: int) -> int:
 {% endhighlight %}
 
 
-![image1]()
+![image1](https://5wk0dw.dm.files.1drv.com/y4mDOQ_Aow8T07qO5MeTglwEhC1FGZodPmP_3PEBa6wm4eaDUIDb7DosTOGVGDBxSiVFrVe7xxBuUfn804lAkQthVjHQODZoYhqM3Ahrf5d_h_ZU_ffSnDmqTAIBlKK-TVlq-VY-nDkOd1TZpRWjlqbsnbw9fxoQSiltW1MbXy4eTW9JIkzOmxIoglcZNJzns2ldLzMY0cLK3SDwxoxu85Upw?width=1401&height=1049&cropmode=none)
+
