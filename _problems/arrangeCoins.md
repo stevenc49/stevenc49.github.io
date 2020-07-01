@@ -90,6 +90,28 @@ def arrangeCoins(self, n: int) -> int:
 
 {% endhighlight %}
 
+_________
+
+Another solution that worked is from [Timonthy H Chang](https://www.youtube.com/watch?v=vPvnYNjqSh0)
+
+
+{% highlight python %}
+
+def arrangeCoins(self, n: int) -> int:
+    
+    stairs, coins, i = 0,1,1
+    
+    while coins<=n:
+        
+        stairs +=1
+        i+=1
+        coins+=i
+    
+    return stairs
+
+{% endhighlight %}
+
+
 
 ![image1](https://5wk0dw.dm.files.1drv.com/y4mDOQ_Aow8T07qO5MeTglwEhC1FGZodPmP_3PEBa6wm4eaDUIDb7DosTOGVGDBxSiVFrVe7xxBuUfn804lAkQthVjHQODZoYhqM3Ahrf5d_h_ZU_ffSnDmqTAIBlKK-TVlq-VY-nDkOd1TZpRWjlqbsnbw9fxoQSiltW1MbXy4eTW9JIkzOmxIoglcZNJzns2ldLzMY0cLK3SDwxoxu85Upw?width=1401&height=1049&cropmode=none)
 
