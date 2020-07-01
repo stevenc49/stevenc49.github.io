@@ -37,9 +37,12 @@ It is sorted by category. This list will continually change as your skill level 
 
 #### Binary Search
 
+Need to get way better at identifying and applying these.
+
 - [Search Matrix](/problems/matrixSearch)
 - [Find Min in Sorted Array](/problems/findMinInSortedArray)
 - [Search Rotated Array](/problems/searchRotatedArray)
+- [Arrange Coins](/problems/arrangeCoins)
 
 #### Bit Manipulation
 
