@@ -19,7 +19,7 @@ class Trie:
 
             # traverse down the tree
             ptr = ptr.children[letter]
-        self.endofword = True
+        ptr.endofword = True
 
         
 
