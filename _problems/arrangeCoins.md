@@ -48,6 +48,8 @@ Tried the intuitive solution first but it ran into TLE.
 
 It's actually a binary search question similar to [Search Insert Position](/problems/searchInsertPosition)
 
+There's suppose to be a binary search solution to this but I don't get it. I"m just using the brute force solution.
+
 
 ```
 
@@ -63,6 +65,8 @@ so array would be like:
 
 
 ```
+
+
 
 {% highlight python %}
 
@@ -95,7 +99,15 @@ _________
 Another solution that worked is from [Timonthy H Chang](https://www.youtube.com/watch?v=vPvnYNjqSh0)
 
 
-{% highlight python %}
+{% highlight pyth        stairs, coins, i = 0,1,1
+        
+        while coins<=n:
+            
+            stairs +=1
+            i+=1
+            coins+=i
+        
+        return stairson %}
 
 def arrangeCoins(self, n: int) -> int:
     
