@@ -34,6 +34,8 @@ Solution
 
 Got the wrong answer even though it seems like I've been doing the same in the past. Review it tmr.
 
+Update: make sure to pop left. It makes a difference.
+
 ```
 Your input
 [3,9,20,null,null,15,7]
@@ -58,7 +60,7 @@ def levelOrderBottom(self, root: TreeNode) -> List[List[int]]:
             
             for i in range(level_size):
                 
-                curr = q.pop()
+                curr = q.pop(0)
 
                 if curr:
                 
