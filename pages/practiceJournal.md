@@ -28,6 +28,7 @@ Things you could start doing differently to improve your studying:
 - show some type of visible progress
 - make it easy to create leetcode flashcards
 - make it easy to convert some of these articles into blog articles
+- have flashcards link to jekyll blog
 
 
 ### Jun 30
