@@ -17,6 +17,11 @@ Things you could start doing differently to improve your studying:
 - interactive way to mix running code with flashcards?
 - take pictures of notes and upload them with whiteboard filter
 - turn some problems that you've worked on into blog articles
+- have some sort of version control so you can see your solutions evolve
+- differentiate different types of solutions for the same problem (ie: recursive vs iteration vs xor)
+- time your exercises
+- allow input for space and time complexity
+- how fast can you review all your solutions if you had an interview in a week?
 
 
 ### Jun 30
