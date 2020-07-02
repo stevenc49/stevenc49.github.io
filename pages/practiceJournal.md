@@ -5,6 +5,8 @@ title:  Practice Log
 
 ### Jul 2
 
+I've learned enough to self-correct. Time for retrospective.
+
 Things you could start doing differently to improve your studying:
 
 - build a personal curriculum (graphs, backtracking, binary search, etc)
