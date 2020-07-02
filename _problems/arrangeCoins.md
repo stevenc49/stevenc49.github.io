@@ -99,15 +99,7 @@ _________
 Another solution that worked is from [Timonthy H Chang](https://www.youtube.com/watch?v=vPvnYNjqSh0)
 
 
-{% highlight pyth        stairs, coins, i = 0,1,1
-        
-        while coins<=n:
-            
-            stairs +=1
-            i+=1
-            coins+=i
-        
-        return stairson %}
+{% highlight python %}
 
 def arrangeCoins(self, n: int) -> int:
     
