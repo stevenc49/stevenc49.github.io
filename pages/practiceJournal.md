@@ -22,6 +22,8 @@ Things you could start doing differently to improve your studying:
 - time your exercises
 - allow input for space and time complexity
 - how fast can you review all your solutions if you had an interview in a week?
+- round robin thru each type of category
+- have 2 types of study session: broad or by category
 
 
 ### Jun 30
