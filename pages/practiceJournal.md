@@ -3,6 +3,20 @@ layout: page
 title:  Practice Log
 ---
 
+### Jul 2
+
+Things you could start doing differently to improve your studying:
+
+- build a personal curriculum (graphs, backtracking, binary search, etc)
+- mark similar questions together
+- revisit old problems regularly (whether solved or unsolved)
+- unsolved problems should be visited sooner
+- upvote problems that you want to focus on
+- interactive way to mix running code with flashcards?
+- take pictures of notes and upload them with whiteboard filter
+- turn some problems that you've worked on into blog articles
+
+
 ### Jun 30
 
 I realized I can't even work with Steve and Mayuresh on a project where there is no communication or leadership/accountability. Fuck those guys too.
