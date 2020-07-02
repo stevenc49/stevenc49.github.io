@@ -8,7 +8,7 @@ def arrangeCoins(n):
         mid = l + (h-l)//2
         temp = int(mid*(mid+1)/2)
 
-        print(l, mid, h, temp)
+        print(l, mid, h, temp, [ (x*(x+1)//2) for x in range(l,h)])
 
         if temp == n:
             return mid
