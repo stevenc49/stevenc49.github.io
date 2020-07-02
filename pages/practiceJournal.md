@@ -15,6 +15,8 @@ Things you could start doing differently to improve your studying:
 - unsolved problems should be visited sooner
 - upvote problems that you want to focus on
 - interactive way to mix running code with flashcards?
+	- multiple choice: fill in this "block of code"
+	- make it easy to create leetcode flashcards
 - take pictures of notes and upload them with whiteboard filter
 - turn some problems that you've worked on into blog articles
 - have some sort of version control so you can see your solutions evolve
@@ -25,6 +27,7 @@ Things you could start doing differently to improve your studying:
 - round robin thru each type of category
 - have 2 types of study session: broad or by category
 - show some type of visible progress
+
 
 ### Jun 30
 
