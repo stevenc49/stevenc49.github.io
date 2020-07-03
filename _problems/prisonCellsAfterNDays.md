@@ -89,7 +89,7 @@ Even adding a memo didn't help. N=1 000 000 000 took a while and didnt complete.
 {% highlight python %}
 
 arr = [0,1,0,1,1,0,0,1]
-N=6
+N=1000000000
 
 def prisonAfterNDays(arr, N):
 
