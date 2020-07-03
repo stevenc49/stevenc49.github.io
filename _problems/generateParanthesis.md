@@ -36,28 +36,63 @@ the decision is when to put the open and close braces.
 
 {% highlight python %}
 
-def generateParenthesis(self, n: int) -> List[str]:
+n=3
+
+def generateParenthesis(n):
     
-    def backtrack(outputList, currentString, open, close, max):
-        
+    def backtrack(outputList, currentString, open, close, n):
+
         # base case
-        if len(currentString)==max*2:
-            outputList.append( currentString )
+        if len(currentString)==2*n:
+            outputList.append(currentString)
+            print("output " + currentString)
             return
-        
-        #decisions below
-        if open < max:
-            backtrack( outputList, currentString+"(", open+1, close, max )
-        
+
+        print( currentString )
+
+        # decisions below
+        if open < n:
+            backtrack( outputList, currentString+"(", open+1, close, n )
+
         if close < open:
-            backtrack( outputList, currentString+")", open, close+1, max )
-    
+            backtrack( outputList, currentString+")", open, close+1, n)
+            
     outputList = []
-    backtrack( outputList, "", 0, 0, n)
+    backtrack(  outputList, "", 0, 0, n)
     return outputList
+        
+
+print( generateParenthesis(n) )
     
 
 {% endhighlight %}
 
+
+```
+
+(
+((
+(((
+((()
+((())
+output ((()))
+(()
+(()(
+(()()
+output (()())
+(())
+(())(
+output (())()
+()
+()(
+()((
+()(()
+output ()(())
+()()
+()()(
+output ()()()
+['((()))', '(()())', '(())()', '()(())', '()()()']
+
+```
 
 ![image1]()
