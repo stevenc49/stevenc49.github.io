@@ -1,13 +1,12 @@
 arr = [0,1,0,1,1,0,0,1]
-N=7
-
+N=6
 
 def prisonAfterNDays(arr, N):
 
-    arr2 = [0]*len(arr)
+    def computeNext(arr):
 
-    for i in range(N):
-
+        arr2 = [0]*len(arr)
+        
         for i in range(1, len(arr)-1):
             
             # not xor the middle
@@ -17,8 +16,23 @@ def prisonAfterNDays(arr, N):
             arr2[0], arr2[len(arr)-1] = 0,0
 
         # copy arr2 to arr
-        arr = arr2.copy()
-    
+        return arr2.copy()
+
+
+    memo = {}
+
+    for i in range(N):
+
+        if tuple(arr) not in memo:
+            old_arr = arr
+            new_arr = computeNext(arr)
+
+            memo[tuple(old_arr)] = new_arr
+            arr = new_arr
+        else:
+            arr = memo[tuple(arr)]
+
+    print(memo)
     return arr
 
-print(prisonAfterNDays(arr, N))
+print( prisonAfterNDays(arr, N) )
