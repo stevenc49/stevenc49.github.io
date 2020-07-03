@@ -7,7 +7,9 @@ title:  Practice Log
 
 Another day, another battle to decide whether to continue working on leetcoding or work on business/self improvement.
 
+Today, I attempted the July Challenge "Prison Cells after N days", I got most of it and was able to code up solutions for small cases of N, but was not able to get the optimized solution for N=1 billion.
 
+Eventually, I ran to my 2hr limit and just wrapped it up.
 
 
 ### Jul 2
