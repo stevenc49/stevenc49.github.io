@@ -13,7 +13,7 @@ title:  Bookmarked Sites
 - [Techinical Interview Handbook](https://yangshun.github.io/tech-interview-handbook/best-practice-questions)
 
 - [career advice](https://www.teamblind.com/post/advice-for-younger-folks-WzpcU2oi)
-
+- [Jouney](https://leetcode.com/discuss/interview-experience/716202/amz-google-facebook-offer-reject-reject-my-journey-from-failure-to-offer-at-faang)
 
 Interview Whiteboards
 ------------------------
