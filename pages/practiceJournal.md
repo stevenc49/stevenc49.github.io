@@ -19,6 +19,12 @@ Morning - Solve Daily Challenge
 Afternoon - Work on Business Project?
 Evening - Review old Leetcode problems
 
+___________
+
+When it's time for an upcoming interview:
+- review "Review Problems"
+- create a "algorithm cheat sheet"
+
 
 ### Jul 2
 
