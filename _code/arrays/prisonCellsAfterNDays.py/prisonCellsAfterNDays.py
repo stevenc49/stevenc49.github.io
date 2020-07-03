@@ -1,5 +1,6 @@
 arr = [0,1,0,1,1,0,0,1]
-N=6
+N=1000000000
+# N=7
 
 def prisonAfterNDays(arr, N):
 
@@ -19,20 +20,17 @@ def prisonAfterNDays(arr, N):
         return arr2.copy()
 
 
-    memo = {}
 
-    for i in range(N):
-
-        if tuple(arr) not in memo:
-            old_arr = arr
-            new_arr = computeNext(arr)
-
-            memo[tuple(old_arr)] = new_arr
-            arr = new_arr
-        else:
-            arr = memo[tuple(arr)]
-
-    print(memo)
+    seen = {str(arr): N}
+    while N:
+        seen.setdefault(str(arr), N)
+        N -= 1
+        # arr = [0] + [arr[i - 1] ^ arr[i + 1] ^ 1 for i in range(1, 7)] + [0]
+        arr = computeNext(arr)
+        if str(arr) in seen:
+            N %= seen[str(arr)] - N
+        
     return arr
+
 
 print( prisonAfterNDays(arr, N) )
