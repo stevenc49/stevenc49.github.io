@@ -13,6 +13,12 @@ Eventually, I ran to my 2hr limit and just wrapped it up.
 
 One area where I have gotten better is reading solutions and understanding the idea behind the code. Just need to increase speed now.
 
+___________
+
+Morning - Solve Daily Challenge
+Afternoon - Work on Business Project?
+Evening - Review old Leetcode problems
+
 
 ### Jul 2
 
