@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 89 problems solved.
+There are 90 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Prison cells after n days](/problems/prisonCellsAfterNDays) | 2020-07-03 | Semi-Solved | arrays 
 [Generate Parenthesis](/problems/generateParanthesis) | 2020-07-02 | Attempted | backtracking 
 [Binary Tree Level Order Traversal II](/problems/binaryTreeLevelOrder2) | 2020-07-02 | Not Solved | bfs 
 [Arrange Coins](/problems/arrangeCoins) | 2020-07-01 | Attempted | binary search 
