@@ -3,6 +3,13 @@ layout: page
 title:  Practice Log
 ---
 
+### Jul 3
+
+Another day, another battle to decide whether to continue working on leetcoding or work on business/self improvement.
+
+
+
+
 ### Jul 2
 
 I've learned enough to self-correct. Time for retrospective.
