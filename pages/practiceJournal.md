@@ -30,6 +30,30 @@ Things you could start doing differently to improve your studying:
 - make it easy to convert some of these articles into blog articles
 - have flashcards link to jekyll blog
 
+Instead of making an app, create a study schedule:
+
+- week 1: 
+
+
+
+Make Review Cheat Sheet:
+- Dynamic Programming
+- Backtracking (Permutations, Subsets)
+- Flood Fill
+- Reverse Linked List
+- Merge Intervals
+- Binary Search
+
+Easy
+- BFS / DFS
+- Trees
+	- LCA
+- Hashtables (Two Sum, Isomorphic Strings)
+
+
+1) 
+
+
 
 ### Jun 30
 
