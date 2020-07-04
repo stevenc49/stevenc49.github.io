@@ -13,6 +13,9 @@ Eventually, I ran to my 2hr limit and just wrapped it up.
 
 One area where I have gotten better is reading solutions and understanding the idea behind the code. Just need to increase speed now.
 
+
+[Python Visualizer](http://pythontutor.com/visualize.html#mode=display)
+
 ___________
 
 Morning - Solve Daily Challenge
@@ -24,6 +27,13 @@ ___________
 When it's time for an upcoming interview:
 - review "Review Problems"
 - create a "algorithm cheat sheet"
+
+___________
+
+Focus on communicating / explaining a problem:
+- Answer on Leetcode discussion board
+- Post a blog post
+- Etc
 
 
 ### Jul 2
