@@ -28,7 +28,7 @@ Output: "bb"
 Solution
 ----------
 
-This only works for odd length palindromes so far (ie: ```babad``` and not ```cbbd```)
+This only works for both even and odd palindromes but TLE on "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
 
 {% highlight python %}
 
@@ -47,12 +47,18 @@ class Solution:
             
             while l>=0 and r<len(s):
 
-                print(s[l], s[i], s[r], s[l:r+1])
+                # odd case
+                currPalindrome = s[l:r+1]
+                if isPalindrome(currPalindrome):
+                    if len(currPalindrome)>len(longestPalindrome):
+                        longestPalindrome = currPalindrome
                 
-                if isPalindrome(s[l:r+1]):
-                    if len(s[l:r+1])>len(longestPalindrome):
-                        longestPalindrome = s[l:r+1]
-
+                # even case
+                currPalindrome = s[l:r+2]
+                if isPalindrome(currPalindrome):
+                    if len(currPalindrome)>len(longestPalindrome):
+                        longestPalindrome = currPalindrome
+                
                 l-=1
                 r+=1
         
