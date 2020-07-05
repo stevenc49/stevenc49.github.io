@@ -3,6 +3,16 @@ layout: page
 title:  Practice Log
 ---
 
+### Jul 4
+
+Coded July Leetcode Challange (Ugly Num 2), got it working but TLE for large N.
+Then did longest padlindromic substring, can get it working for odd palindrome but not even.
+
+Sometimes, you just have to work on your coding ability and translating ideas to code.  Even if solution doens't work out.
+
+Focus on getting more practice in. Especially coding pratice.
+
+
 ### Jul 3
 
 Another day, another battle to decide whether to continue working on leetcoding or work on business/self improvement.
