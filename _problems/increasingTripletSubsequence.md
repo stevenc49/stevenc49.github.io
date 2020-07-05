@@ -61,6 +61,6 @@ Initially tried this, but it would fail for ```[2,5,3,4,5]```
 
 Looks like the way to approach this is similiar to the LIS (Longest increasing subsequence) problem.
 
-[A simpler solution involving thresholds](https://leetcode.com/problems/increasing-triplet-subsequence/discuss/78995/Python-Easy-O(n)-Solution)
+[A simpler solution involving thresholds](https://leetcode.com/problems/increasing-triplet-subsequence/discuss/78995/Python-Easy-O(n)-Solution/373508)
 
 ![image1]()
