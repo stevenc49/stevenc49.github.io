@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 91 problems solved.
+There are 92 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Longest Palindromic Substring](/problems/longestPalindromicSubstring) | 2020-07-04 | Attempted |  
 [Ugly Num II](/problems/uglyNum2) | 2020-07-04 | Attempted | math 
 [Prison cells after n days](/problems/prisonCellsAfterNDays) | 2020-07-03 | Semi-Solved | arrays 
 [Generate Parenthesis](/problems/generateParanthesis) | 2020-07-02 | Attempted | backtracking 
