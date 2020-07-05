@@ -8,6 +8,7 @@ There are 92 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Set Matrix Zeros](/problems/setMatrixZeros) | 2020-07-05 |  |  
 [Longest Palindromic Substring](/problems/longestPalindromicSubstring) | 2020-07-05 | Attempted |  
 [Ugly Num II](/problems/uglyNum2) | 2020-07-04 | Attempted | math 
 [Prison cells after n days](/problems/prisonCellsAfterNDays) | 2020-07-03 | Semi-Solved | arrays 
@@ -71,7 +72,6 @@ Problem | Last Modified | Status | Category
 [Add Strings](/problems/addStrings) | 2020-06-01 | Attempted | math 
 [Word Search](/problems/wordSearch) | 2020-06-01 | Attempted | matrix 
 [invert Tree](/problems/invertTree) | 2020-06-01 | Solved | tree 
-[Set Matrix Zeros](/problems/setMatrixZeros) | 2020-05-29 |  |  
 [Max Area of Island](/problems/maxAreaOfIsland) | 2020-05-28 |  |  
 [House Robber 2](/problems/houseRobber2) | 2020-05-27 |  |  
 [Matrix Search](/problems/matrixSearch) | 2020-05-27 |  |  

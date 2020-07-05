@@ -131,4 +131,36 @@ def setZeroes(self, mat: List[List[int]]) -> None:
 
 {% endhighlight %}
 
+_______________
+
+
+Using itertools.product
+
+{% highlight python %}
+
+def setZeroes(self, mat: List[List[int]]) -> None:
+
+    if not mat: return None
+
+    R = len(mat)
+    C = len(mat[0])
+
+    zero_rows = set()
+    zero_cols = set()
+
+    # iterate over matrix once to add row and column that needs to be zeroed (without modifying it in place yet)
+    for i, j in product(range(R), range(C)):
+        if mat[i][j]==0:
+            zero_rows.add(i)
+            zero_cols.add(j)
+
+    # go over second time to actually zero out rows and columns
+    for i, j in product(range(R), range(C)):
+        if i in zero_rows:
+            mat[i][j]=0
+        if j in zero_cols:
+            mat[i][j]=0
+
+{% endhighlight %}
+
 ![image1]()
