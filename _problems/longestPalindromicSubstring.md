@@ -28,7 +28,7 @@ Output: "bb"
 Solution
 ----------
 
-This only works for both even and odd palindromes but TLE on "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+This only works for both even and odd palindromes but TLE on "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb...."
 
 {% highlight python %}
 
