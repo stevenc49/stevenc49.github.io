@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 92 problems solved.
+There are 93 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Increasing Triplet Subsequence](/problems/increasingTripletSubsequence) | 2020-07-05 | Attempted | dp 
 [Set Matrix Zeros](/problems/setMatrixZeros) | 2020-07-05 |  |  
 [Longest Palindromic Substring](/problems/longestPalindromicSubstring) | 2020-07-05 | Attempted |  
 [Ugly Num II](/problems/uglyNum2) | 2020-07-04 | Attempted | math 
