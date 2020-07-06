@@ -4,10 +4,12 @@ title:  Solved - Last Modified
 ---
 
 
-There are 93 problems solved.
+There are 94 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Plus One](/problems/plusOne) | 2020-07-06 | Solved | array, math 
+[Template](/problems/1template copy) | 2020-07-06 | Attempted |  
 [Increasing Triplet Subsequence](/problems/increasingTripletSubsequence) | 2020-07-05 | Attempted | dp 
 [Set Matrix Zeros](/problems/setMatrixZeros) | 2020-07-05 |  |  
 [Longest Palindromic Substring](/problems/longestPalindromicSubstring) | 2020-07-05 | Attempted |  
@@ -55,7 +57,6 @@ Problem | Last Modified | Status | Category
 [Reverse Linked List Iteratively](/problems/reverseLLiterative) | 2020-06-06 | Solved | linked list 
 [Remove Nth Node from End of List](/problems/removeNthNodeFromEndOfList) | 2020-06-06 | Solved | linked list 
 [Queue Reconstruction By Height](/problems/queueReconstructionByHeight) | 2020-06-06 | Attempted | greedy 
-[Plus One](/problems/plusOne) | 2020-06-05 | Solved | array 
 [Intersection of Two Arrays II](/problems/intersectionOfTwoArrays2) | 2020-06-05 | Solved | array 
 [Longest Common Prefix](/problems/longestCommonPrefix) | 2020-06-05 | Solved | string 
 [Jump Game](/problems/jumpGame) | 2020-06-05 | Semi-Solved, Multiple solutions | greedy, dp, backtracking 
