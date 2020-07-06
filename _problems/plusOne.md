@@ -209,4 +209,25 @@ Using ```pow(x,y)```
 
 ```
 
+____________
+
+Another way is to cast it:
+
+{% highlight python %}
+
+print( [str(d) for d in digits] )   # cast every int to string in list ["1", "2", "3"]
+
+str1 = "".join([str(d) for d in digits])     # string join to get "123"
+print( str1 )   
+
+plusOne = int(str1)+1        # cast it to an int and add 1
+print( plusOne )   
+
+
+# back to digit array
+return [int(d) for d in str(plusOne)]      # cast every char in string to an int and return as list
+
+
+{% endhighlight %}
+
 ![image1]()
