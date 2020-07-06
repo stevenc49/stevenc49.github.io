@@ -106,6 +106,10 @@ print(plusOne(digits))
 
 __________________
 
+
+- [stackoverflow about //](https://stackoverflow.com/questions/27946595/how-to-manage-division-of-huge-numbers-in-python)
+- [stackoverflow about pow](https://stackoverflow.com/questions/10282674/difference-between-the-built-in-pow-and-math-pow-for-floats-in-python)
+
 ```
 
 Using ```math.pow(x,y)```
