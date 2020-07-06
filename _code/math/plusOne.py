@@ -7,8 +7,8 @@ def plusOne(digits):
     num = 0
     exp = 0
     for i in reversed(range(len(digits))):
-        print(num, i, exp, digits[i], pow(10, exp), math.floor( digits[i] * pow(10, exp)))
-        num += math.floor( digits[i] * pow(10, exp))
+        print(num, math.pow(10, exp), pow(10, exp), 10**exp)
+        num += math.floor( digits[i] * (10**exp))
         exp+=1
     
 

@@ -68,7 +68,7 @@ ________________
 Another solution by converting to int, adding 1 and converting back to list.
 
 
-For really big numbers, use ```//``` instead of ```/``` and ```pow(x,y)``` instead of ```math.pow(x,y)```.
+For really big numbers, use ```//``` instead of ```/``` and ```pow(x,y)``` or ```x**y``` instead of ```math.pow(x,y)```.
 It makes a difference when N is large.
 
 {% highlight python %}
