@@ -117,10 +117,11 @@ Okay at solving these. Just need to remember pattern.
 
 - [Flood Fill](/problems/floodfill)
 - [Num Islands](/problems/numIslands)
-- Max Area Of Islands
-- Rotten Oranges
+- [Max Area Of Islands](/problems/maxAreaOfIsland)
+- [Rotten Oranges](/problems/rottenOranges)
 - [Surrounded Region](/problems/surroundedRegion)
-- Word Search
+- [Word Search](/problems/wordSearch)
+- [Island Perimeter](/problems/islandPerimeter)
 
 
 #### Graphs (Dijkstra)

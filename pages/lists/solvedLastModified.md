@@ -8,6 +8,7 @@ There are 93 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Island Perimeter](/problems/islandPerimeter) | 2020-07-07 | Solved | matrix 
 [Longest Palindromic Substring](/problems/longestPalindromicSubstring) | 2020-07-07 | Solved |  
 [Increasing Triplet Subsequence](/problems/increasingTripletSubsequence) | 2020-07-07 | Solved | dp 
 [Plus One](/problems/plusOne) | 2020-07-06 | Solved | array, math 
@@ -38,7 +39,6 @@ Problem | Last Modified | Status | Category
 [Network Delay Time](/problems/networkDelayTime) | 2020-06-19 | Attempted | graph, dijkstra 
 [Two Sum](/problems/twoSum) | 2020-06-19 | Solved | array, hashtable 
 [Flood Fill](/problems/floodfill) | 2020-06-19 | Solved | union find 
-[Island Perimeter](/problems/islandPerimeter) | 2020-06-19 | Solved | matrix 
 [Number of Islands](/problems/numIslands) | 2020-06-19 | Solved | union find 
 [Sort Colors](/problems/sortColors) | 2020-06-19 | Attempted | arrays, sorting 
 [Group Isometric Strings](/problems/groupIsomorphicStrings) | 2020-06-18 | Solved | hashmap 

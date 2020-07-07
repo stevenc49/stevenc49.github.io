@@ -61,3 +61,39 @@ class Solution:
 {% endhighlight %}
 
 
+--------------
+
+Using DFS and nonlocal
+
+{% highlight python %}
+
+def islandPerimeter(self, grid: List[List[int]]) -> int:
+    
+    R = len(grid)
+    C = len(grid[0])
+    
+    perimeter=0
+    
+    def dfs(i,j):
+        
+        nonlocal perimeter
+        
+        if i<0 or i>=R or j<0 or j>=C or grid[i][j]==0:     # if border or water, add 1
+            perimeter+=1
+            return
+        
+        if grid[i][j]==1:
+            grid[i][j]=2    # mark as visited
+            dfs(i-1,j)
+            dfs(i+1,j)
+            dfs(i,j-1)
+            dfs(i,j+1)
+    
+    for i in range(R):
+        for j in range(C):
+            if grid[i][j]==1:
+                dfs(i,j)
+    
+    return perimeter
+
+{% endhighlight %}
