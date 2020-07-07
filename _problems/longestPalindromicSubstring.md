@@ -67,5 +67,35 @@ class Solution:
 
 {% endhighlight %}
 
+_______________
+
+{% highlight python %}
+
+def longestPalindrome(self, s: str) -> str:
+    
+    # return the actual palindrome
+    def expandAroundCenter(s, l, r):
+
+        while l>=0 and r<len(s) and s[l]==s[r]:
+            l-=1
+            r+=1
+
+        return s[l+1:r]
+
+
+
+    res = ""
+    for i in range(len(s)):
+        oddPalin = expandAroundCenter(s, i, i)
+        evenPalin = expandAroundCenter(s, i, i+1)
+
+        if len(oddPalin)>len(res):
+            res = oddPalin
+        if len(evenPalin)>len(res):
+            res = evenPalin
+
+    return res
+
+{% endhighlight %}
 
 ![image1]()
