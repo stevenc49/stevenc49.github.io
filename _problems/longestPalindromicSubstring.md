@@ -69,6 +69,9 @@ class Solution:
 
 _______________
 
+Same as approach above (Expand around center) but without the isPalindrome() method. 
+I think that's what is causing it to time out.
+
 {% highlight python %}
 
 def longestPalindrome(self, s: str) -> str:
