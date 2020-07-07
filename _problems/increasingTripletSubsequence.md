@@ -59,8 +59,38 @@ Initially tried this, but it would fail for ```[2,5,3,4,5]```
 
 {% endhighlight %}
 
-Looks like the way to approach this is similiar to the LIS (Longest increasing subsequence) problem.
+_____________
 
 [A simpler solution involving thresholds](https://leetcode.com/problems/increasing-triplet-subsequence/discuss/78995/Python-Easy-O(n)-Solution/373508)
+
+{% highlight python %}
+
+def increasingTriplet(self, nums: List[int]) -> bool:
+    
+    
+    first = float('inf')
+    second = float('inf')
+    third = float('inf')
+
+    for n in nums:
+
+        if n<first:
+            first = n
+        elif n>first and n<second:
+            second = n
+        elif n>second and n<third:
+            third = n
+
+    print(first, second, third)
+
+    return third!=float('inf')
+
+{% endhighlight %}
+______________
+
+
+Looks like the way to approach this is similiar to the LIS (Longest increasing subsequence) problem.
+
+
 
 ![image1]()

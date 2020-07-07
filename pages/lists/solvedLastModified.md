@@ -8,10 +8,10 @@ There are 94 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Increasing Triplet Subsequence](/problems/increasingTripletSubsequence) | 2020-07-06 | Attempted | dp 
 [Longest Palindromic Substring](/problems/longestPalindromicSubstring) | 2020-07-06 | Attempted |  
 [Plus One](/problems/plusOne) | 2020-07-06 | Solved | array, math 
 [Template](/problems/1template copy) | 2020-07-06 | Attempted |  
-[Increasing Triplet Subsequence](/problems/increasingTripletSubsequence) | 2020-07-05 | Attempted | dp 
 [Set Matrix Zeros](/problems/setMatrixZeros) | 2020-07-05 |  |  
 [Ugly Num II](/problems/uglyNum2) | 2020-07-04 | Attempted | math 
 [Prison cells after n days](/problems/prisonCellsAfterNDays) | 2020-07-03 | Semi-Solved | arrays 
