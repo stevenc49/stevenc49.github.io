@@ -4,7 +4,7 @@ title:  Longest Palindromic Substring
 last_solved: 
 category: 
 leetcode_url: 
-status: Attempted
+status: Solved
 ---
 
 Problem

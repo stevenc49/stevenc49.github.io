@@ -4,7 +4,7 @@ title:   Increasing Triplet Subsequence
 last_solved: 2020-07-05
 category: dp
 leetcode_url: https://leetcode.com/problems/increasing-triplet-subsequence
-status: Attempted
+status: Solved
 ---
 
 Problem
