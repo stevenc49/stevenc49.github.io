@@ -3,6 +3,10 @@ layout: page
 title:  Practice Log
 ---
 
+### Jul 8
+
+[Leetcode Patterns](https://medium.com/leetcode-patterns)
+
 ### Jul 4
 
 Coded July Leetcode Challange (Ugly Num 2), got it working but TLE for large N.
