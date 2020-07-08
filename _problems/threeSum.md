@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Three Sum
-last_solved: 
+last_solved: 2020-07-08
 category: array
 leetcode_url: https://leetcode.com/problems/3sum
 status: Not Attempted
