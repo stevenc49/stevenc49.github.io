@@ -6,6 +6,7 @@ title:  Practice Log
 ### Jul 8
 
 [Leetcode Patterns](https://medium.com/leetcode-patterns)
+[Backtracking Standford](https://see.stanford.edu/materials/icspacs106b/H19-RecBacktrackExamples.pdf)
 
 ### Jul 4
 
