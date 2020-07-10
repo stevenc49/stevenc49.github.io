@@ -14,6 +14,7 @@ It is sorted by category. This list will continually change as your skill level 
 - [Intersection of Two Arrays](/problems/intersectionOfTwoArrays2)
 - [Move Zeros](/problems/moveZeros)
 - [Remove Duplicates From Sorted Array](/problems/removeDupsFromSortedArray)
+- [Three Sum](/problems/threeSum)
 
 #### HashTables
 
