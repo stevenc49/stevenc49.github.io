@@ -71,7 +71,7 @@ Explanation:The maximum width existing in the fourth level with the length 8 (6,
 Solution
 ----------
 
-Tried this but it fails on bigger inputs:
+Tried this but it fails on some test cases.
 
 {% highlight python %}
 
