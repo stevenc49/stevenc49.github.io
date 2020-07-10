@@ -7,8 +7,8 @@
 #             if nums[i] + nums[j] + nums[k] == 0:
 #                 ans.append([nums[i], nums[j], nums[k]])
 
-nums = [-1, 0, 1, 2, -1, -4]
-# nums = [0,0,0,0]
+# nums = [-1, 0, 1, 2, -1, -4]
+nums = [0,0,0,0]
 
 
 def threeSum(nums):
@@ -16,14 +16,10 @@ def threeSum(nums):
     nums.sort()
     output = []
 
+    print(nums)
+
     index = 0
     while index<len(nums):
-
-        # if nums[index]==nums[index+1]:
-        #     print(index, nums[index], output)
-        #     index+=1
-
-        # if index>0 and nums[index]==nums[index-1]: continue #[1]
 
         fixed = nums[index]     # -1
         target = fixed*-1       # want to find 1 in rest of array
