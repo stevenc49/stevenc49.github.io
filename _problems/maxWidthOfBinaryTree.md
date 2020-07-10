@@ -4,7 +4,7 @@ title:  Max Width of Binary Tree
 last_solved: 2020-07-09
 category: trees
 leetcode_url: https://leetcode.com/problems/maximum-width-of-binary-tree
-status: Attempted
+status: Solved
 ---
 
 Problem
