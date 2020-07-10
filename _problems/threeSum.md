@@ -88,12 +88,16 @@ def threeSum(nums):
 {% endhighlight %}
 
 It will pass the first case:
+```
 [-4, -1, -1, 0, 1, 2]
 [[-1, -1, 2], [-1, 0, 1]]
+```
 
 But will create a duplicate set on:
+```
 [0, 0, 0, 0]
 [[0, 0, 0], [0, 0, 0]]
+```
 
 __________
 
