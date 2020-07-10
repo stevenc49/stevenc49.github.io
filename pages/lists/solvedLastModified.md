@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 94 problems solved.
+There are 95 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Max Width of Binary Tree](/problems/maxWidthOfBinaryTree) | 2020-07-09 | Attempted | trees 
 [Three Sum](/problems/threeSum) | 2020-07-09 | Attempted | array 
 [Island Perimeter](/problems/islandPerimeter) | 2020-07-07 | Solved | matrix 
 [Longest Palindromic Substring](/problems/longestPalindromicSubstring) | 2020-07-07 | Solved |  
