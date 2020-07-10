@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 95 problems solved.
+There are 96 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Flatten a Multilevel Doubly Linked List](/problems/flattenMultilevelDoublyLinkedList) | 2020-07-10 | Attempted | linked list 
 [Max Width of Binary Tree](/problems/maxWidthOfBinaryTree) | 2020-07-10 | Solved | trees 
 [Three Sum](/problems/threeSum) | 2020-07-09 | Attempted | array 
 [Island Perimeter](/problems/islandPerimeter) | 2020-07-07 | Solved | matrix 
