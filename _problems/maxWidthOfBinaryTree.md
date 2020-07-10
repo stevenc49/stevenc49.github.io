@@ -124,17 +124,30 @@ The one works. Check the difference.
 {% highlight python %}
 
 def widthOfBinaryTree(self, root: TreeNode) -> int:
-    if not root: return 0 #edge case 
-    ans = 0
-    queue = [(root, 0)]
-    while queue: 
-        ans = max(ans, queue[-1][1] - queue[0][1] + 1)
-        temp = []
-        for node, i in queue: 
-            if node.left: temp.append((node.left, 2*i))
-            if node.right: temp.append((node.right, 2*i+1))
-        queue = temp
-    return ans 
+    
+    q = [(root, 0)]
+    maxWidth = 0
+    
+    while q:
+
+        new_lvl = []
+        lvl_size = len(q)
+                    
+        for _ in range(lvl_size):
+            
+            maxWidth = max(maxWidth, q[-1][1]-q[0][1]+1 )
+            
+            node, num = q.pop(0)
+            # new_lvl.append( (node, num) )
+        
+            if node.left:
+                new_lvl.append( (node.left, 2*num) )
+            if node.right:
+                new_lvl.append( (node.right, 2*num+1))
+        
+        q = new_lvl     # need to "reset" the nums so the left most is zero again
+    
+    return maxWidth
 
 {% endhighlight %}
 
