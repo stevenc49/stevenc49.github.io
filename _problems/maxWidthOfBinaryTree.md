@@ -119,7 +119,7 @@ stdout
 
 __________
 
-The one works:
+The one works. Check the difference.
 
 {% highlight python %}
 
