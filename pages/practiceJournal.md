@@ -3,6 +3,14 @@ layout: page
 title:  Practice Log
 ---
 
+
+### Jul 9
+
+Okay, it's been a couple days where I've taken a break from the daily challenge and gone to "think of a business idea" but now I'm back. Both are painful to do but are necessary. I can use one to motivate myself to do the other when I get sick of one of them.
+
+The leetcoding one should be my 40hr per week job where 20% is used to do my side hustle (business).
+
+
 ### Jul 8
 
 [Leetcode Patterns](https://medium.com/leetcode-patterns)
