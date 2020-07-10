@@ -8,6 +8,7 @@ There are 96 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Reverse Linked List Iteratively](/problems/reverseLLiterative) | 2020-07-10 | Solved | linked list 
 [Flatten a Multilevel Doubly Linked List](/problems/flattenMultilevelDoublyLinkedList) | 2020-07-10 | Attempted | linked list 
 [Max Width of Binary Tree](/problems/maxWidthOfBinaryTree) | 2020-07-10 | Solved | trees 
 [Three Sum](/problems/threeSum) | 2020-07-09 | Attempted | array 
@@ -56,7 +57,6 @@ Problem | Last Modified | Status | Category
 [Search in Rotated Sorted Array](/problems/searchRotatedArray) | 2020-06-08 | Attempted | binary search 
 [Coin Change 2](/problems/coinChange2) | 2020-06-07 | Not Solved | dp 
 [First Unque Char in String](/problems/firstNonRepeatingChar) | 2020-06-07 | Solved | string 
-[Reverse Linked List Iteratively](/problems/reverseLLiterative) | 2020-06-06 | Solved | linked list 
 [Remove Nth Node from End of List](/problems/removeNthNodeFromEndOfList) | 2020-06-06 | Solved | linked list 
 [Queue Reconstruction By Height](/problems/queueReconstructionByHeight) | 2020-06-06 | Attempted | greedy 
 [Intersection of Two Arrays II](/problems/intersectionOfTwoArrays2) | 2020-06-05 | Solved | array 
