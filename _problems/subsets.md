@@ -127,12 +127,12 @@ def subsets4(nums):
 
     output = []
 
-    def helper(start, tmp, output):
+    def helper(start, currentSubset, output):
         # output += [tmp]
-        output.append(tmp)
+        output.append(currentSubset)
         for i in range(start, len(nums)):
-            print( (i+1, tmp+[nums[i]]) )
-            helper( i+1, tmp+[nums[i]], output )
+            print( (i+1, currentSubset+[nums[i]]) )
+            helper( i+1, currentSubset+[nums[i]], output )
     
     helper(0, [], output)
 
