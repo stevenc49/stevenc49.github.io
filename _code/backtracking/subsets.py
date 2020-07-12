@@ -78,22 +78,6 @@ def subsets3(nums):
     return ans
 
 
-def subsets5(nums):
-
-    def helper(start, currentSubset, allSubsets):
-
-        output.append( currentSubset.copy() )
-
-        for i in range(start, len(nums) ):
-
-            currentSubset.append( nums[i] )
-            helper(i+1, currentSubset, output)
-            currentSubset.pop()
-        
-    output = []
-    helper(0, [], output)
-    return output
-
 
 
 '''
@@ -114,6 +98,29 @@ def subsets4(nums):
     helper(0, [], output)
 
     return output
+
+
+def subsets5(nums):
+
+    def helper(start, currentSubset, allSubsets):
+
+        output.append( currentSubset.copy() )
+
+        for i in range(start, len(nums) ):
+
+            currentSubset.append( nums[i] )
+            print(i+1, currentSubset)
+            helper(i+1, currentSubset, output)
+            currentSubset.pop()
+        
+    output = []
+    helper(0, [], output)
+    return output
+
+
+'''
+    https://medium.com/leetcode-patterns/leetcode-pattern-3-backtracking-5d9e5a03dc26
+'''
 
 
 # print(subsets2(nums))

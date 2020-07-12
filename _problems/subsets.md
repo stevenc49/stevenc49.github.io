@@ -152,3 +152,8 @@ The output is like this:
 [[], [1], [1, 2], [1, 2, 3], [1, 3], [2], [2, 3], [3]]
 [[], [1], [1, 2], [1, 2, 3], [1, 3], [2], [2, 3], [3]]
 ```
+
+____________
+
+
+![image1](https://miro.medium.com/max/1050/1*ddhF2JWfmEl8yLwjx5vt7Q.jpeg)
