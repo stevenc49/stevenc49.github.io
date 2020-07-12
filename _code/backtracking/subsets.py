@@ -77,6 +77,26 @@ def subsets3(nums):
     backtrack([], ans, nums, 0)
     return ans
 
+
+'''
+    recursion without backtracking from timonthy chang
+    https://www.youtube.com/watch?v=Mi_C_CMW7vQ
+'''
+def subsets4(nums):
+
+    output = []
+
+    def helper(start, tmp, output):
+        output += [tmp]
+        for i in range(start, len(nums)):
+            helper( i+1, tmp+[nums[i]], output )
+    
+    helper(0, [], output)
+
+    return output
+
+
 # print(subsets2(nums))
 # print()
 print(subsets3(nums))
+print(subsets4(nums))
