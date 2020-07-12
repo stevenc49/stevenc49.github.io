@@ -10,6 +10,10 @@ Okay, it's been a couple days where I've taken a break from the daily challenge 
 
 The leetcoding one should be my 40hr per week job where 20% is used to do my side hustle (business).
 
+### Jul 11
+
+[Recursive backtracking](https://medium.com/leetcode-patterns/leetcode-pattern-3-backtracking-5d9e5a03dc26)
+
 
 ### Jul 8
 
