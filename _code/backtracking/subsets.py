@@ -78,6 +78,24 @@ def subsets3(nums):
     return ans
 
 
+def subsets5(nums):
+
+    def helper(index, currentSubset, allSubsets):
+
+        output.append( currentSubset.copy() )
+
+        for i in range(index, len(nums) ):
+
+            currentSubset.append( nums[i] )
+            helper(i+1, currentSubset, output)
+            currentSubset.pop()
+        
+    output = []
+    helper(0, [], output)
+    return output
+
+
+
 '''
     recursion without backtracking from timonthy chang
     https://www.youtube.com/watch?v=Mi_C_CMW7vQ
@@ -87,8 +105,10 @@ def subsets4(nums):
     output = []
 
     def helper(start, tmp, output):
-        output += [tmp]
+        # output += [tmp]
+        output.append(tmp)
         for i in range(start, len(nums)):
+            print( (i+1, tmp+[nums[i]]) )
             helper( i+1, tmp+[nums[i]], output )
     
     helper(0, [], output)
@@ -98,5 +118,6 @@ def subsets4(nums):
 
 # print(subsets2(nums))
 # print()
-print(subsets3(nums))
+# print(subsets3(nums))
 print(subsets4(nums))
+print(subsets5(nums))
