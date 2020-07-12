@@ -91,3 +91,64 @@ printing the currentSubset at each iteration looks like this:
 ![image1](https://miro.medium.com/max/1400/1*xrjS6JIZ5f7wFCNBDPrr0g.png)
 
 ![image1](https://miro.medium.com/max/1400/1*_s5iiwdZXbg1OFWO9YDjng@2x.jpeg)
+
+
+
+______________
+
+
+Compare these two solutions:
+
+{% highlight python %}
+
+def subsets5(nums):
+
+    def helper(start, currentSubset, allSubsets):
+
+        output.append( currentSubset.copy() )
+
+        for i in range(start, len(nums) ):
+
+            currentSubset.append( nums[i] )
+            helper(i+1, currentSubset, output)
+            currentSubset.pop()
+        
+    output = []
+    helper(0, [], output)
+    return output
+
+
+
+'''
+    recursion without backtracking from timonthy chang
+    https://www.youtube.com/watch?v=Mi_C_CMW7vQ
+'''
+def subsets4(nums):
+
+    output = []
+
+    def helper(start, tmp, output):
+        # output += [tmp]
+        output.append(tmp)
+        for i in range(start, len(nums)):
+            print( (i+1, tmp+[nums[i]]) )
+            helper( i+1, tmp+[nums[i]], output )
+    
+    helper(0, [], output)
+
+    return output
+
+{% endhighlight %}
+
+The output is like this:
+```
+(1, [1])
+(2, [1, 2])
+(3, [1, 2, 3])
+(3, [1, 3])
+(2, [2])
+(3, [2, 3])
+(3, [3])
+[[], [1], [1, 2], [1, 2, 3], [1, 3], [2], [2, 3], [3]]
+[[], [1], [1, 2], [1, 2, 3], [1, 3], [2], [2, 3], [3]]
+```

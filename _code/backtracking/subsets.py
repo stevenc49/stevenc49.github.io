@@ -80,11 +80,11 @@ def subsets3(nums):
 
 def subsets5(nums):
 
-    def helper(index, currentSubset, allSubsets):
+    def helper(start, currentSubset, allSubsets):
 
         output.append( currentSubset.copy() )
 
-        for i in range(index, len(nums) ):
+        for i in range(start, len(nums) ):
 
             currentSubset.append( nums[i] )
             helper(i+1, currentSubset, output)
