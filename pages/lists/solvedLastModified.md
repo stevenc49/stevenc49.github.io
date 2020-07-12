@@ -8,6 +8,7 @@ There are 96 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Subsets](/problems/subsets) | 2020-07-11 | Solved | recursion, backtracking 
 [Reverse Linked List Iteratively](/problems/reverseLLiterative) | 2020-07-10 | Solved | linked list 
 [Flatten a Multilevel Doubly Linked List](/problems/flattenMultilevelDoublyLinkedList) | 2020-07-10 | Attempted | linked list 
 [Max Width of Binary Tree](/problems/maxWidthOfBinaryTree) | 2020-07-10 | Solved | trees 
@@ -23,7 +24,6 @@ Problem | Last Modified | Status | Category
 [Binary Tree Level Order Traversal II](/problems/binaryTreeLevelOrder2) | 2020-07-02 | Not Solved | bfs 
 [Arrange Coins](/problems/arrangeCoins) | 2020-07-01 | Attempted | binary search 
 [Implement Trie](/problems/implementATrie) | 2020-06-30 | Attempted | Attempted 
-[Subsets](/problems/subsets) | 2020-06-29 | Solved | recursion, backtracking 
 [Permutations](/problems/permutations) | 2020-06-29 | Solved | recursion, backtracking 
 [Unique Paths](/problems/uniquePaths) | 2020-06-29 | Solved | dp 
 [Coin Change](/problems/coinChange) | 2020-06-29 | Solved | dp [bottom up] 
