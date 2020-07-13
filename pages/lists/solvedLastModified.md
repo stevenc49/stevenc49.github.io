@@ -4,11 +4,12 @@ title:  Solved - Last Modified
 ---
 
 
-There are 96 problems solved.
+There are 97 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
-[Subsets](/problems/subsets) | 2020-07-11 | Solved | recursion, backtracking 
+[Group Anagrams](/problems/groupAnagrams) | 2020-07-13 | Solved | hashmap 
+[Subsets](/problems/subsets) | 2020-07-12 | Solved | recursion, backtracking 
 [Reverse Linked List Iteratively](/problems/reverseLLiterative) | 2020-07-10 | Solved | linked list 
 [Flatten a Multilevel Doubly Linked List](/problems/flattenMultilevelDoublyLinkedList) | 2020-07-10 | Attempted | linked list 
 [Max Width of Binary Tree](/problems/maxWidthOfBinaryTree) | 2020-07-10 | Solved | trees 
