@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 97 problems solved.
+There are 98 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Reverse Bits](/problems/reverseBits) | 2020-07-13 | Solved | Bits 
 [Group Anagrams](/problems/groupAnagrams) | 2020-07-13 | Solved | hashmap 
 [Subsets](/problems/subsets) | 2020-07-12 | Solved | recursion, backtracking 
 [Reverse Linked List Iteratively](/problems/reverseLLiterative) | 2020-07-10 | Solved | linked list 
