@@ -10,6 +10,11 @@ Okay, it's been a couple days where I've taken a break from the daily challenge 
 
 The leetcoding one should be my 40hr per week job where 20% is used to do my side hustle (business).
 
+
+### Jul 15
+
+Thinking about moving some Leetcode Gym jekyll articles over to Anki for studying.
+
 ### Jul 11
 
 [Recursive backtracking](https://medium.com/leetcode-patterns/leetcode-pattern-3-backtracking-5d9e5a03dc26)
