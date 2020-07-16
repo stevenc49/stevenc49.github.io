@@ -120,7 +120,7 @@ def spiralMatrix1(matrix):
     end_col = len(matrix[0])
 
     output = []
-    while start_row<end_row and start_col<end_col:  
+    while start_row<end_row and start_col<end_col:      # also note the 'or' changed to an 'and'
         # right
         for i in range(start_col, end_col):
             output.append( matrix[start_row][i] )
