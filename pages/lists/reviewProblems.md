@@ -49,6 +49,8 @@ Need to get way better at identifying and applying these.
 
 - [Missing Number](/problems/missingNumber)
 - [Single Number](/problems/singleNumber)
+- [Reverse Bits](/problems/reverseBits)
+- [Power(x,n)](/problems/powx-n)
 
 #### Interval
 

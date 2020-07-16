@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 98 problems solved.
+There are 99 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Pow(x, n)](/problems/powx-n) | 2020-07-16 | Attempted | bit manipulation 
 [Subsets](/problems/subsets) | 2020-07-13 | Solved | recursion, backtracking 
 [Reverse Bits](/problems/reverseBits) | 2020-07-13 | Solved | Bits 
 [Group Anagrams](/problems/groupAnagrams) | 2020-07-13 | Solved | hashmap 
