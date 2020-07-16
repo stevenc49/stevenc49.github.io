@@ -87,7 +87,7 @@ Need to get way better at identifying and applying these.
 
 - [Rotate Image](/problems/rotateImage)
 - [Validate Sudoku](/problems/validateSudoku)
-
+- [Spiral Matrix](/problems/spiralMatrix)
 
 
 #### Dynamic Programming
