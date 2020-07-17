@@ -10,6 +10,11 @@ Okay, it's been a couple days where I've taken a break from the daily challenge 
 
 The leetcoding one should be my 40hr per week job where 20% is used to do my side hustle (business).
 
+### Jul 17
+
+Aside from playing around with Anki, I've started just reviewing some of the problems that I've done in the past and it's a nice refreshing feeling. It lets me know that I'm actually improving.
+
+
 
 ### Jul 15
 
