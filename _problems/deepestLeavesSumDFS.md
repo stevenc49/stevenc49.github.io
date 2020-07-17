@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Deepest Leaves Sum (DFS)
-last_solved: 2020-06-25
+last_solved: 2020-07-17
 category: trees
 leetcode_url: https://leetcode.com/problems/deepest-leaves-sum/
 status: Solved
