@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Coin Change
-last_solved: 
+last_solved: 2020-07-17
 category: dp [bottom up]
 leetcode_url: https://leetcode.com/problems/coin-change
 status: Solved
@@ -76,4 +76,26 @@ def coinChange(self, coins: List[int], amount: int) -> int:
 	return -1 if dp[amount]==float('inf') else dp[amount]
 
 {% endhighlight %}
+
+
+____________
+
+{% highlight python %}
+
+def coinChange2(coins, amount):
+
+        dp = [0] + [float('inf')]*amount
+
+        for i in range(1, amount+1):
+            for c in coins:
+                    dp[i] = min( dp[i], dp[i-c]+1)
+
+
+        print(dp)
+        return dp[-1] if dp[-1]!=float('inf') else -1
+
+{% endhighlight %}
+
+
+![image1](https://5wig4g.dm.files.1drv.com/y4mboD94pR7HKG8_TUT5aIpOrHQ-N26HFp9PZXq-66IZ7Ox1CUYeorQptNRSuO2o3ZjETMuZEz6t4j0Y73fZcZrMJEH3W2DcLsJiW90FBkuO3aSyXUvYga9a4DcaMCNBEPWAdfCbSGWnviU_-G3xQj07tQavrS13DNLmVIdT6n_xJNcgLw53mY59fz7eNjLmidmB_vH8dP9JVnF0BeJaU3O9w?width=2785&height=1072&cropmode=none)
 

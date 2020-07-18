@@ -18,5 +18,19 @@ def coinChange(coins, amount):
 
 
 
+def coinChange2(coins, amount):
 
-print(coinChange(coins, amount))
+        dp = [0] + [float('inf')]*amount
+
+        for i in range(1, amount+1):
+            for c in coins:
+                    dp[i] = min( dp[i], dp[i-c]+1)
+
+
+        print(dp)
+        return dp[-1] if dp[-1]!=float('inf') else -1
+
+        
+
+
+print(coinChange2(coins, amount))
