@@ -8,6 +8,7 @@ There are 101 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Coin Change](/problems/coinChange) | 2020-07-17 | Solved | dp [bottom up] 
 [Deepest Leaves Sum (DFS)](/problems/deepestLeavesSumDFS) | 2020-07-17 | Solved | trees 
 [Top Frequent K Elements](/problems/topFrequentKElements) | 2020-07-17 | Attempted | heap 
 [Spiral Matrix](/problems/spiralMatrix) | 2020-07-16 | Attempted | matrix 
@@ -32,7 +33,6 @@ Problem | Last Modified | Status | Category
 [Implement Trie](/problems/implementATrie) | 2020-06-30 | Attempted | Attempted 
 [Permutations](/problems/permutations) | 2020-06-29 | Solved | recursion, backtracking 
 [Unique Paths](/problems/uniquePaths) | 2020-06-29 | Solved | dp 
-[Coin Change](/problems/coinChange) | 2020-06-29 | Solved | dp [bottom up] 
 [Perfect Squares](/problems/perfectSquaresa) | 2020-06-29 | Semi-Solved | dp [bottom up] 
 [Reconstruct Iternary](/problems/reconstructIternary) | 2020-06-28 | Not Solved | dfs, graph 
 [Merge Sorted Linked List (Iterative)](/problems/mergeSortedLLiter) | 2020-06-26 | Solved | linked list 
