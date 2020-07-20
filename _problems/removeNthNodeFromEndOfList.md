@@ -56,5 +56,35 @@ def removeNthFromEnd(self, head: ListNode, n: int) -> ListNode:
 
 {% endhighlight %}
 
+______________
+
+With dummy node
+
+{% highlight python %}
+
+def removeNthFromEnd(self, head: ListNode, n: int) -> ListNode:
+
+    dummy = ListNode(0)
+    dummy.next = head
+    
+    slow, fast = dummy, dummy
+    
+    # advance fast pointer so gap between slow and fast are n apart
+    for _ in range(n+1):
+        fast = fast.next
+    
+    
+    # advance both pointers, maintain gap
+    while fast:
+        slow = slow.next
+        fast = fast.next
+    
+
+    # remove the nth node
+    slow.next = slow.next.next
+    
+    return dummy.next
+
+{% endhighlight %}
 
 ![image1]()
