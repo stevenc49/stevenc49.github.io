@@ -10,6 +10,11 @@ I should start solving a bunch of linked list problems one after the other. Kind
 
 Also, should start publishing to leetcodegym.substack.com
 
+Btw, it seems like I am the owner of both substacks:
+https://bootstrapersjourney.substack.com/publish/settings
+https://leetcodegym.substack.com/publish/settings
+
+
 
 ### Jul 19
 
