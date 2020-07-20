@@ -58,8 +58,9 @@ Need to get way better at identifying and applying these.
 
 ### Linked List
 - Merge Sorted Lists
-- Remove Nth Node from End of List
-- Reverse Linked List
+- [Remove Nth Node from End of List](/problems/removeNthNodeFromEndOfList)
+- [Remove Linked List Elements](/problems/removeLinkedListElements)
+- [Reverse Linked List](/problems/reverseLLiterative)
 - Cycle Detection
     - [Linked List Cycle I](/problems/llcycle)
     - [Linked List Cycle II](/problems/llcycle2)
@@ -71,7 +72,7 @@ Need to get way better at identifying and applying these.
 
 - [Deepest Leaves Sum BFS](/problems/deepestLeavesSumBFS)
 - [Deepest Leaves Sum DFS](/problems/deepestLeavesSumDFS)
-- Validate BST
+- [Validate BST](/problems/validateBST)
 - LCA Binary Tree (No parent pointers)
 - Easy Tree Problems
     - Max Depth

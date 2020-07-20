@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 101 problems solved.
+There are 102 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Remove Linked List Elements](/problems/removeLinkedListElements) | 2020-07-20 | Attempted | linkedlist 
 [Coin Change](/problems/coinChange) | 2020-07-17 | Solved | dp [bottom up] 
 [Deepest Leaves Sum (DFS)](/problems/deepestLeavesSumDFS) | 2020-07-17 | Solved | trees 
 [Top Frequent K Elements](/problems/topFrequentKElements) | 2020-07-17 | Attempted | heap 
