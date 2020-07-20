@@ -57,7 +57,10 @@ Need to get way better at identifying and applying these.
 - [Merge Interval](/problems/mergeIntervals)
 
 ### Linked List
-- Merge Sorted Lists
+
+Need to practice these. Keep messing up on edge cases. Learn when to use techniques like dummy nodes and prev pointers.
+
+- [Merge Sorted Lists](/problems/mergeSortedLLiter)
 - [Remove Nth Node from End of List](/problems/removeNthNodeFromEndOfList)
 - [Remove Linked List Elements](/problems/removeLinkedListElements)
 - [Reverse Linked List](/problems/reverseLLiterative)
