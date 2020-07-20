@@ -3,8 +3,15 @@ layout: page
 title:  Practice Log
 ---
 
+### Jul 20
 
-### Jul 9
+Wasn't able to solve the Remove Linked List Elements problem, even though it was an easy problem.
+I should start solving a bunch of linked list problems one after the other. Kinda like how I gotten "comfortable" with tree problems.
+
+Also, should start publishing to leetcodegym.substack.com
+
+
+### Jul 19
 
 Okay, it's been a couple days where I've taken a break from the daily challenge and gone to "think of a business idea" but now I'm back. Both are painful to do but are necessary. I can use one to motivate myself to do the other when I get sick of one of them.
 
