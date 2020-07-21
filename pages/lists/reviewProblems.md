@@ -116,7 +116,7 @@ Really need to work on these
 
 - [Permutation](/problems/permutations)
 - [Subsets](/problems/subsets)
-
+- [Generate Parenthesis](/problems/generateParanthesis)
 
 #### Flood Fill
 
