@@ -39,13 +39,14 @@ def removeElements(self, head: ListNode, val: int) -> ListNode:
     
     while curr:
     
-        if curr.val==val:
-            prev.next = curr.next
-        else:
-            prev = curr
-        curr = curr.next
-            
+        if curr.val==val:           # if what happens to curr pointer
+            prev.next = curr.next   # then what happens to prev pointer
+        else:                       # if what happens to curr pointer
+            prev = curr             # then what happens to prev pointer
+        curr = curr.next            # always move up curr
+        
     return dummy.next
+    
     
     
 {% endhighlight %}
