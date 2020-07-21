@@ -3,6 +3,11 @@ layout: page
 title:  Practice Log
 ---
 
+### Jul 21
+
+[Anxiety During Interviews](https://leetcode.com/discuss/interview-question/746391/my-faang-interview-experience)
+
+
 ### Jul 20
 
 Wasn't able to solve the Remove Linked List Elements problem, even though it was an easy problem.
