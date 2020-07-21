@@ -79,6 +79,8 @@ _____________________
 
 After adding null checks and followed the tips from [Linked List Cycle I](/problems/llcycle)
 
+This one we need to start both slow and fast at head. `fast` cannot be `head.next` because where fast ends needs to be equidistance to the entrance.
+
 {% highlight python %}
 
 def detectCycle(self, head: ListNode) -> ListNode:

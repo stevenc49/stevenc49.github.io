@@ -8,8 +8,10 @@ There are 102 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
-[Remove Nth Node from End of List](/problems/removeNthNodeFromEndOfList) | 2020-07-20 | Solved | linked list 
+[Linked List Cycle II](/problems/llcycle2) | 2020-07-20 | Solved | linked list, cycle detection 
+[Linked List Cycle](/problems/llcycle) | 2020-07-20 | Solved | linked list, cycle detection 
 [Remove Linked List Elements](/problems/removeLinkedListElements) | 2020-07-20 | Attempted | linkedlist 
+[Remove Nth Node from End of List](/problems/removeNthNodeFromEndOfList) | 2020-07-20 | Solved | linked list 
 [Coin Change](/problems/coinChange) | 2020-07-17 | Solved | dp [bottom up] 
 [Deepest Leaves Sum (DFS)](/problems/deepestLeavesSumDFS) | 2020-07-17 | Solved | trees 
 [Top Frequent K Elements](/problems/topFrequentKElements) | 2020-07-17 | Attempted | heap 
@@ -40,8 +42,6 @@ Problem | Last Modified | Status | Category
 [Merge Sorted Linked List (Iterative)](/problems/mergeSortedLLiter) | 2020-06-26 | Solved | linked list 
 [Combination Sum](/problems/combination_sum) | 2020-06-26 | Attempted | permutations 
 [Sum Root to Leaf Numbers](/problems/sumRootToLeaf) | 2020-06-26 | Attempted | trees 
-[Linked List Cycle II](/problems/llcycle2) | 2020-06-25 | Solved | linked list, cycle detection 
-[Linked List Cycle](/problems/llcycle) | 2020-06-25 | Solved | linked list, cycle detection 
 [Find the Duplicate Number](/problems/findTheDuplicateNumber) | 2020-06-25 | Solved | cycle detection 
 [Unique BST](/problems/uniqueBST) | 2020-06-24 | Attempted | dp 
 [Count Complete Tree Nodes](/problems/countCompleteBinaryNodes) | 2020-06-23 | Attempted | trees 
