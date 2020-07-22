@@ -62,4 +62,36 @@ def oddEvenList(self, head: ListNode) -> ListNode:
 {% endhighlight %}
 
 
+________________
+
+
+Explained in [Nick White's video](https://www.youtube.com/watch?v=C_LA6SOwVTM)
+
+- Build even list and odd list seperately
+- Join end of odd list to head of even list
+
+
+{% highlight python %}
+
+def oddEvenList(self, head: ListNode) -> ListNode:
+
+    if not head: return None
+    
+    odd = head
+    even = head.next
+    evenHead = even
+    
+    while even and even.next:
+        
+        odd.next = even.next
+        odd = odd.next
+        
+        even.next = odd.next
+        even = even.next
+    
+    odd.next = evenHead
+    return head
+
+{% endhighlight %}
+
 ![image1]()
