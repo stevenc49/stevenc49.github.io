@@ -32,9 +32,29 @@ It is sorted by category. This list will continually change as your skill level 
 
 
 
+
+#### Trees
+
+- [Deepest Leaves Sum BFS](/problems/deepestLeavesSumBFS)
+- [Deepest Leaves Sum DFS](/problems/deepestLeavesSumDFS)
+- [Validate BST](/problems/validateBST)
+- LCA Binary Tree (No parent pointers)
+- Easy Tree Problems
+    - Max Depth
+    - Is Tree Balanced
+    - Is Same Tree
+    - Is Symmetric Tree?
+    - Is Sub Tree
+    - Invert/Reverse Tree
+
 #### BFS (Trees)
 
 - [Binary Tree Zig Zag](/problems/binaryTreeZigZag)
+
+
+#### DFS (Trees)
+
+- [Binary Tree Zig Zag](/problems/binaryTreeZigZagDfs)
 
 #### Binary Search
 
@@ -71,19 +91,7 @@ Need to practice these. Keep messing up on edge cases. Learn when to use techniq
 - [Flatten Mutlilevel LInked List](/problems/flattenMultilevelDoublyLinkedList)
 
 
-#### Trees
 
-- [Deepest Leaves Sum BFS](/problems/deepestLeavesSumBFS)
-- [Deepest Leaves Sum DFS](/problems/deepestLeavesSumDFS)
-- [Validate BST](/problems/validateBST)
-- LCA Binary Tree (No parent pointers)
-- Easy Tree Problems
-    - Max Depth
-    - Is Tree Balanced
-    - Is Same Tree
-    - Is Symmetric Tree?
-    - Is Sub Tree
-    - Invert/Reverse Tree
 
 
 

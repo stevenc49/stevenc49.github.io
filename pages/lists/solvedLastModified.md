@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 104 problems solved.
+There are 105 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Binary Tree Zig Zag](/problems/binaryTreeZigZagDfs) | 2020-07-22 | Attempted | bfs 
 [Binary Tree Zig Zag](/problems/binaryTreeZigZag) | 2020-07-22 | Solved | bfs 
 [Odd Even Linked List](/problems/oddEvenLinkedList) | 2020-07-21 | Attempted | linked list 
 [Linked List Cycle II](/problems/llcycle2) | 2020-07-20 | Solved | linked list, cycle detection 

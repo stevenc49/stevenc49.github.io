@@ -4,7 +4,7 @@ title:  Binary Tree Zig Zag
 last_solved: 2020-07-22
 category: bfs
 leetcode_url: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
-status: Solved
+status: Attempted
 ---
 
 Problem
@@ -37,37 +37,26 @@ Solution
 
 def zigzagLevelOrder(self, root: TreeNode) -> List[List[int]]:
     
-    if not root: return
+    output = []
     
-    q = [root]
-    ans = []
-    odd = True
-    
-    while q:
+    def dfs(node, level, output):
         
-        level_len = len(q)
-        level = []
+        if not node:
+            return
         
-        for _ in range(level_len):
-        
-            curr = q.pop(0)
-
-            if curr:
+        if len(output) <= level:
+            output += [[]]
             
-                level.append(curr.val)
-
-                if curr.left:
-                    q.append(curr.left)
-                if curr.right:
-                    q.append(curr.right)
+        dfs(node.left, level+1, output)
+        dfs(node.right, level+1, output)
         
-        if odd:
-            ans.append(level)
+        if level%2==0:
+            output[level].append(node.val)
         else:
-            ans.append(reversed(level))
-        odd = not odd
+            output[level].insert(0, node.val)
     
-    return ans
+    dfs(root, 0, output)
+    return output
         
 {% endhighlight %}
 
