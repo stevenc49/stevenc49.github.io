@@ -29,7 +29,7 @@ Output: 2->3->6->7->1->5->4->NULL
 Solution
 ----------
 
-Initially tried this but it's in an endless loop
+Initially tried this but it's in an endless loop. It's tough to write concise and bugfree linked list solutions.
 
 {% highlight python %}
 
