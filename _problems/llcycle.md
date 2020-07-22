@@ -122,4 +122,27 @@ def hasCycle(self, head: ListNode) -> bool:
 
 {% endhighlight %}
 
+_____________
+
+{% highlight python %}
+
+def hasCycle(self, head: ListNode) -> bool:
+
+    if not head: return False
+    
+    slow = head
+    fast = head.next
+    
+    while fast and fast.next:
+        
+        if slow is fast:
+            return True
+        
+        slow = slow.next
+        fast = fast.next.next
+        
+    return False
+
+{% endhighlight %}
+
 ![image1]()
