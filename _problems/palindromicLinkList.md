@@ -36,52 +36,37 @@ Note:
 
 {% highlight python %}
 
-
 def isPalindrome(self, head: ListNode) -> bool:
     
-    
-#         def reversed(head):
-        
-#             prev = None
-#             curr = head
-#             next = None
-        
-#             while curr:
-#                 next = curr.next
-#                 curr.next = prev
-#                 prev = curr
-#                 curr = next
-        
-#             return prev
     
     def reversed(head):
         
         prev = None
+        curr = head
         next = None
-        while not head:
-            next = head.next
-            head.next = prev
-            prev = head
-            head = next
+        
+        while curr:
+            next = curr.next
+            curr.next = prev
+            prev = curr
+            curr = next
         
         return prev
     
+    # find mid
     slow = head
     fast = head
     
-    while not fast and not fast.next:
+    while fast and fast.next:
         fast = fast.next.next
         slow = slow.next
-        
+    
+    # reverse second half of list
     slow = reversed(slow)
     fast = head
     
-    # print(slow.val, slow.next)
-    # print(fast.val, fast.next)
-    
-    while not slow:
-        
-        print(slow, fast)
+    # iterate both slow and fast and make sure they're the same
+    while slow:
         
         if slow.val!=fast.val:
             return False
@@ -89,6 +74,8 @@ def isPalindrome(self, head: ListNode) -> bool:
         fast = fast.next
     
     return True
+    
+
 
 {% endhighlight %}
 
