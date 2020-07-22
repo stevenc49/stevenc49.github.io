@@ -34,7 +34,7 @@ It is sorted by category. This list will continually change as your skill level 
 
 #### BFS (Trees)
 
-- BFS
+- [Binary Tree Zig Zag](/problems/binaryTreeZigZag)
 
 #### Binary Search
 
