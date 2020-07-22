@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Binary Tree Zig Zag
+title:  Binary Tree Zig Zag (DFS)
 last_solved: 2020-07-22
 category: bfs
 leetcode_url: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
