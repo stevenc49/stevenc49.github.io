@@ -8,12 +8,12 @@ There are 106 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Linked List Cycle](/problems/llcycle) | 2020-07-22 | Solved | linked list, cycle detection 
 [Palindrome Linked List](/problems/palindromicLinkList) | 2020-07-22 | Attempted | linked lists, palindrome 
 [Binary Tree Zig Zag (DFS)](/problems/binaryTreeZigZagDfs) | 2020-07-22 | Attempted | bfs 
 [Binary Tree Zig Zag](/problems/binaryTreeZigZag) | 2020-07-22 | Solved | bfs 
 [Odd Even Linked List](/problems/oddEvenLinkedList) | 2020-07-21 | Attempted | linked list 
 [Linked List Cycle II](/problems/llcycle2) | 2020-07-20 | Solved | linked list, cycle detection 
-[Linked List Cycle](/problems/llcycle) | 2020-07-20 | Solved | linked list, cycle detection 
 [Remove Linked List Elements](/problems/removeLinkedListElements) | 2020-07-20 | Attempted | linkedlist 
 [Remove Nth Node from End of List](/problems/removeNthNodeFromEndOfList) | 2020-07-20 | Solved | linked list 
 [Coin Change](/problems/coinChange) | 2020-07-17 | Solved | dp [bottom up] 
