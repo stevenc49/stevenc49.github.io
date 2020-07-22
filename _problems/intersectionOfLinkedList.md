@@ -58,6 +58,13 @@ Your code should preferably run in O(n) time and use only O(1) memory.
 Solution
 ----------
 
+- Solution 1: O(MN) solution, iterate thru every node in list A, check to see if it's in list B
+- Solution 2: Use hashmap and store reference
+- Solution 3: This is a trick to do it in O(n), you just have to know it.
+    - Iterate listA and listB at the same time, when listA ends, move it to listB's head (and vice versa)
+    - Where they meet is the intersection
+
+
 {% highlight python %}
 
 {% endhighlight %}
