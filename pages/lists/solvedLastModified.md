@@ -8,6 +8,7 @@ There are 106 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Intersection of Two Arrays II](/problems/intersectionOfTwoArrays2) | 2020-07-22 | Solved | array 
 [Linked List Cycle](/problems/llcycle) | 2020-07-22 | Solved | linked list, cycle detection 
 [Palindrome Linked List](/problems/palindromicLinkList) | 2020-07-22 | Attempted | linked lists, palindrome 
 [Binary Tree Zig Zag (DFS)](/problems/binaryTreeZigZagDfs) | 2020-07-22 | Attempted | bfs 
@@ -69,7 +70,6 @@ Problem | Last Modified | Status | Category
 [Coin Change 2](/problems/coinChange2) | 2020-06-07 | Not Solved | dp 
 [First Unque Char in String](/problems/firstNonRepeatingChar) | 2020-06-07 | Solved | string 
 [Queue Reconstruction By Height](/problems/queueReconstructionByHeight) | 2020-06-06 | Attempted | greedy 
-[Intersection of Two Arrays II](/problems/intersectionOfTwoArrays2) | 2020-06-05 | Solved | array 
 [Longest Common Prefix](/problems/longestCommonPrefix) | 2020-06-05 | Solved | string 
 [Jump Game](/problems/jumpGame) | 2020-06-05 | Semi-Solved, Multiple solutions | greedy, dp, backtracking 
 [Rotate Array](/problems/rotateArray) | 2020-06-04 | Semi-Solved, Multiple solutions | array 

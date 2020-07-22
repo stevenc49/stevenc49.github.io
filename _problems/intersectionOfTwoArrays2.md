@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Intersection of Two Arrays II
-last_solved: 2020-06-05
+last_solved: 2020-07-22
 category: array
 leetcode_url: https://leetcode.com/problems/intersection-of-two-arrays-ii
 status: Solved
