@@ -84,13 +84,13 @@ def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> ListNode:
         if headA.next is None and headB.next is None:
             return None
         
-        # iterate A
+        # transverse A
         if headA.next:
             headA = headA.next
         else:
             headA = listBhead
         
-        # iterate B
+        # transverse B
         if headB.next:
             headB = headB.next
         else:
