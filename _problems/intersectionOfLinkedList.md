@@ -63,9 +63,40 @@ Solution
 - Solution 3: This is a trick to do it in O(n), you just have to know it.
     - Iterate listA and listB at the same time, when listA ends, move it to listB's head (and vice versa)
     - Where they meet is the intersection
-
+- Solution 4: Find length difference
+    - Iterate Both list and get lengths
+    - Find the difference between the lengths
+    - The intersection is at the length difference
 
 {% highlight python %}
+
+# Solution 3: Iterate and move to alternate list when at the end
+def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> ListNode:
+    
+    if not headA or not headB: return None
+    
+    listAhead = headA
+    listBhead = headB
+    
+    while headA is not headB:
+        
+        # if there's no cycles, both pointers will eventually get to each other's end of list
+        if headA.next is None and headB.next is None:
+            return None
+        
+        # iterate A
+        if headA.next:
+            headA = headA.next
+        else:
+            headA = listBhead
+        
+        # iterate B
+        if headB.next:
+            headB = headB.next
+        else:
+            headB = listAhead
+    
+    return headA
 
 {% endhighlight %}
 
