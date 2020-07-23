@@ -17,16 +17,14 @@ The maximum depth is the number of nodes along the longest path from the root no
 
 Nary-Tree input serialization is represented in their level order traversal, each group of children is separated by the null value (See examples).
 
- 
-
 Example 1:
-
-![image1](https://assets.leetcode.com/uploads/2018/10/12/narytreeexample.png)
 
 Input: root = [1,null,3,2,4,null,5,6]
 Output: 3
 
 ```
+
+![image1](https://assets.leetcode.com/uploads/2018/10/12/narytreeexample.png)
 
 Solution
 ----------
