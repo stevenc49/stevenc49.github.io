@@ -4,10 +4,12 @@ title:  Solved - Last Modified
 ---
 
 
-There are 109 problems solved.
+There are 111 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Binary Search](/problems/binarySearch) | 2020-07-23 | Attempted | binary search 
+[Word Ladder](/problems/wordLadder) | 2020-07-23 | Attempted | bfs 
 [Maximum Depth of N-ary Tree](/problems/maxDepthOfNaryTree) | 2020-07-23 | Solved | trees 
 [Single Number III](/problems/singleNumber3) | 2020-07-23 | Attempted | bit manipulation 
 [Remove Nth Node from End of List](/problems/removeNthNodeFromEndOfList) | 2020-07-22 | Solved | linked list 
