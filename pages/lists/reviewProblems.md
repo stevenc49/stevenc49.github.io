@@ -59,6 +59,7 @@ It is sorted by category. This list will continually change as your skill level 
 #### Binary Search
 
 Need to get way better at identifying and applying these.
+[Leetcode List](https://leetcode.com/tag/binary-search/)
 
 - [Search Matrix](/problems/matrixSearch)
 - [Find Min in Sorted Array](/problems/findMinInSortedArray)
