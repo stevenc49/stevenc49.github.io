@@ -25,4 +25,4 @@ def binarySearch(left, right, arr, target):
     return -1
 
 
-print(binarySearch(0, len(arr), arr, 4))
+print(binarySearch(0, len(arr)-1, arr, 4))

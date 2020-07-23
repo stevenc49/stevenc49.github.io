@@ -1,5 +1,6 @@
 # arr = [1,2,3,4,5,6,7,8,9,10]
-arr = [1,2,3,4,5]
+arr = [-1,0,3,5,9,12]
+
 
 
 def binSearch(low, high, arr, target):
@@ -26,6 +27,6 @@ def binSearch(low, high, arr, target):
 
     return -1
 
-res = binSearch(0, len(arr), arr, 4)
+res = binSearch(0, len(arr), arr, 13)
 print(res)
 
