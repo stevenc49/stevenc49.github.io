@@ -49,43 +49,68 @@ Explanation: The endWord "cog" is not in wordList, therefore no possible transfo
 Solution
 ----------
 
+I did not solve this myself yet. Just got it from solutions tab and tried to analyse it.
+
 {% highlight python %}
 
-
-    def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
+def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
+    
+        # {'*og': ['dog', 'log', 'cog'],
+        #  '*ot': ['hot', 'dot', 'lot'],
+        #  'c*g': ['cog'],
+        #  'co*': ['cog'],
+        #  'd*g': ['dog'],
+        #  'd*t': ['dot'],
+        #  'do*': ['dot', 'dog'],
+        #  'h*t': ['hot'],
+        #  'ho*': ['hot'],
+        #  'l*g': ['log'],
+        #  'l*t': ['lot'],
+        #  'lo*': ['lot', 'log']})
+    
+    
+    if endWord not in wordList or not endWord or not beginWord or not wordList:
+        return 0
+    
+    L = len(beginWord)
+    
+    # make adjacency list
+    all_combo_dict = defaultdict(list)
+    for word in wordList:
+        for i in range(L):
+            # key is the generic word
+            # value is a list of words which have the same intermediate generic word
+            all_combo_dict[word[:i] + "*" + word[i+1:]].append(word)
+    
+    #pp.pprint(all_combo_dict)
+    
+    # Queue for BFS
+    queue = collections.deque([(beginWord, 1)])     # (word, level)
+    
+    # Visited to make sure we don't repeat processing same word.
+    visited = {beginWord: True}
+    
+    while queue:
+        current_word, level = queue.popleft()
         
-        # preprocess first
-# defaultdict(<class 'list'>,
-#             {'c*': ['cog'],
-#              'c*g': ['cog'],
-#              'c*og': ['cog'],
-#              'd*': ['dot', 'dog'],
-#              'd*g': ['dog'],
-#              'd*og': ['dog'],
-#              'd*ot': ['dot'],
-#              'd*t': ['dot'],
-#              'h*': ['hot'],
-#              'h*ot': ['hot'],
-#              'h*t': ['hot'],
-#              'l*': ['lot', 'log'],
-#              'l*g': ['log'],
-#              'l*og': ['log'],
-#              'l*ot': ['lot'],
-#              'l*t': ['lot']}
+        for i in range(L):
+            
+            # intermediate words for current word
+            intermediate_word = current_word[:i] + "*" + current_word[i+1:]
+            
+            # next states are all the words which share the same intermediate state
+            for word in all_combo_dict[intermediate_word]:
+                
+                if word==endWord:
+                    return level+1
+                
+                if word not in visited:
+                    visited[word] = True
+                    queue.append((word, level+1) )
+            
+        all_combo_dict[intermediate_word] = []
         
-        
-        
-        L = len(beginWord)
-        
-        # make adjacency list
-        all_combo_dict = defaultdict(list)
-        for word in wordList:
-            for i in range(L):
-                # key is the generic word
-                # value is a list of words which have the same intermediate generic word
-                all_combo_dict[word[:1] + "*" + word[i+1:]].append(word)
-        
-        pp.pprint(all_combo_dict)
+    return 0
 
 {% endhighlight %}
 
