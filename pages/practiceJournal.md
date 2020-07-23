@@ -3,11 +3,17 @@ layout: page
 title:  Practice Log
 ---
 
-### Jul 22
+### Jul 23
 
 I was able to solve Max Depth of Nary Tree by myself today on my first try. I remembered the solution from max depth of binary tree and just modified it from 2 left and right children to iterate thru all children.
 
 Understanding the concept and being able to modify the code is what I needed to do.
+
+
+### Jul 22
+
+I did a few linked list problems but even though I was able to do those at an earlier point in time, I still write buggy code. Been trying to do a few more. Learned a few techniques like dummy nodes and prev pointers.
+
 
 ### Jul 21
 
