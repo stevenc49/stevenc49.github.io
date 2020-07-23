@@ -9,6 +9,9 @@ I was able to solve Max Depth of Nary Tree by myself today on my first try. I re
 
 Understanding the concept and being able to modify the code is what I needed to do.
 
+Kevin Naughton Jr.
+[Getting Laid Off](https://www.youtube.com/watch?v=tAQ-s90eaKQ)
+[Dealing With Failure](https://www.youtube.com/watch?v=sWfTIQ2wX_0)
 
 ### Jul 22
 
