@@ -8,6 +8,7 @@ There are 107 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Remove Nth Node from End of List](/problems/removeNthNodeFromEndOfList) | 2020-07-22 | Solved | linked list 
 [Intersection of Two Linked Lists](/problems/intersectionOfLinkedList) | 2020-07-22 | Attempted | linked list 
 [Intersection of Two Arrays II](/problems/intersectionOfTwoArrays2) | 2020-07-22 | Solved | array 
 [Linked List Cycle](/problems/llcycle) | 2020-07-22 | Solved | linked list, cycle detection 
@@ -17,7 +18,6 @@ Problem | Last Modified | Status | Category
 [Odd Even Linked List](/problems/oddEvenLinkedList) | 2020-07-21 | Attempted | linked list 
 [Linked List Cycle II](/problems/llcycle2) | 2020-07-20 | Solved | linked list, cycle detection 
 [Remove Linked List Elements](/problems/removeLinkedListElements) | 2020-07-20 | Attempted | linkedlist 
-[Remove Nth Node from End of List](/problems/removeNthNodeFromEndOfList) | 2020-07-20 | Solved | linked list 
 [Coin Change](/problems/coinChange) | 2020-07-17 | Solved | dp [bottom up] 
 [Deepest Leaves Sum (DFS)](/problems/deepestLeavesSumDFS) | 2020-07-17 | Solved | trees 
 [Top Frequent K Elements](/problems/topFrequentKElements) | 2020-07-17 | Attempted | heap 

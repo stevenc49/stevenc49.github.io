@@ -58,7 +58,7 @@ def removeNthFromEnd(self, head: ListNode, n: int) -> ListNode:
 
 ______________
 
-With dummy node
+With dummy node. Dummy node helps with edge case where you want to remove the first element.
 
 {% highlight python %}
 
