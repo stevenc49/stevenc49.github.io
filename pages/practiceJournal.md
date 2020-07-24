@@ -3,6 +3,10 @@ layout: page
 title:  Practice Log
 ---
 
+### Jul 24
+
+[Amazon Behaviroual Interview](https://www.1point3acres.com/bbs/thread-307462-1-1.html)
+
 ### Jul 23
 
 I was able to solve Max Depth of Nary Tree by myself today on my first try. I remembered the solution from max depth of binary tree and just modified it from 2 left and right children to iterate thru all children.
