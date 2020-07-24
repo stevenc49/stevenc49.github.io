@@ -36,7 +36,6 @@ Solution
 Binary search, where if the (current value)^2 is greater than x, than it can't be in second half.
 
 - [Terrible Whiteboard](https://www.youtube.com/watch?v=VYtEKhxKd1Q&feature=emb_logo)
-- [Discussion](https://github.com/nirmalnishant645/LeetCode/blob/master/0069-Sqrt(x).py)
 
 My first attempt with memory limit exceeded.
 
