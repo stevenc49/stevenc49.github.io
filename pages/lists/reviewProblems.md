@@ -146,6 +146,7 @@ Okay at solving these. Just need to remember pattern.
 
 Just learning these. Do more of these problems to find patterns.
 
+- [All Paths Fro Source to Target](/problems/allPathsFromSourceToTarget)
 - Cheapest Flights
 - Network Delay Times
 - Reconstruct Iteranary

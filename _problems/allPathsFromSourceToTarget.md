@@ -63,7 +63,7 @@ def allPathsSourceTarget(self, graph: List[List[int]]) -> List[List[int]]:
     
     output = []
     
-    def dfs(node, path, outut):    # node is current Node 0,1,2,3
+    def dfs(node, path, output):    # node is current Node 0,1,2,3
         
         # base condition
         if node==len(graph)-1:
