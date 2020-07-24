@@ -59,12 +59,24 @@ My BFS
 
 {% highlight python %}
 
-        # build adj list
-        adjlist = defaultdict(list)
-        for v, e in enumerate(graph):
-            adjlist[v] = e
+def allPathsSourceTarget(self, graph: List[List[int]]) -> List[List[int]]:
+    
+    output = []
+    
+    def dfs(node, path, outut):    # node is current Node 0,1,2,3
+        
+        # base condition
+        if node==len(graph)-1:
+            output.append(path)
+        
+        else:
             
-        print(adjlist)
+            # recurse dfs on all children/neighbours
+            for neighbour in graph[node]:   
+                dfs(neighbour, path + [neighbour], output)
+    
+    dfs(0, [0], output)
+    return output
 
 {% endhighlight %}       
         
