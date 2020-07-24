@@ -8,7 +8,7 @@ There are 114 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
-[Guess Number Higher or Lower](/problems/guessNumberhigherOrLower) | 2020-07-24 | Attempted |  
+[Guess Number Higher or Lower](/problems/guessNumberHigherOrLower) | 2020-07-24 | Attempted |  
 [Sqrt(x)](/problems/sqrtx) | 2020-07-24 | Attempted | Binary Search 
 [All Paths from Source To Target](/problems/allPathsFromSourceToTarget) | 2020-07-24 | Attempted | graph, bfs, dfs 
 [Binary Search](/problems/binarySearch) | 2020-07-23 | Attempted | binary search 
