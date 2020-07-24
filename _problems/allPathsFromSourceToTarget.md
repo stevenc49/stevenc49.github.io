@@ -54,7 +54,7 @@ def allPathsSourceTarget(self, graph: List[List[int]]) -> List[List[int]]:
 {% endhighlight %}
 
 
-My BFS
+My Attempt at DFS
 -------------
 
 {% highlight python %}
