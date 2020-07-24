@@ -101,6 +101,38 @@ def allPathsSourceTarget(self, graph: List[List[int]]) -> List[List[int]]:
     return output
 
 {% endhighlight %}       
+
+______________-
+
+BFS SOlution
+
+
+{% highlight python %}
+
+    def allPathsSourceTarget(self, graph: List[List[int]]) -> List[List[int]]:
         
+        q = [[0]]
+        
+        output = []
+        
+        end = len(graph)-1
+        
+        while q:
+            
+            curr = q.pop(0)
+            
+            # base condition
+            if curr[-1]==end:
+                output.append(curr)
+            
+            else:
+                
+                for neighbour in graph[curr[-1]]:
+                    q.append(curr + [neighbour])
+            
+        return output
+
+
+{% endhighlight %}     
 
 ![image1]()
