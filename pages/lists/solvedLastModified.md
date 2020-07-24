@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 112 problems solved.
+There are 113 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Sqrt(x)](/problems/sqrtx) | 2020-07-24 | Attempted | Binary Search 
 [All Paths from Source To Target](/problems/allPathsFromSourceToTarget) | 2020-07-24 | Attempted | graph, bfs, dfs 
 [Binary Search](/problems/binarySearch) | 2020-07-23 | Attempted | binary search 
 [Word Ladder](/problems/wordLadder) | 2020-07-23 | Attempted | bfs 
