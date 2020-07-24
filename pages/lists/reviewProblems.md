@@ -61,6 +61,9 @@ It is sorted by category. This list will continually change as your skill level 
 Need to get way better at identifying and applying these.
 [Leetcode List](https://leetcode.com/tag/binary-search/)
 
+- [Binary Search](/problems/binarySearch)
+- [Guess Number Higher or Lower](/problems/guessNumberHigherOrLower)
+
 - [Search Matrix](/problems/matrixSearch)
 - [Find Min in Sorted Array](/problems/findMinInSortedArray)
 - [Search Rotated Array](/problems/searchRotatedArray)
