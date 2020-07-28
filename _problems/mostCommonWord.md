@@ -39,15 +39,24 @@ Solution
 
 def mostCommonWord(self, paragraph: str, banned: List[str]) -> str:
     
-    tokens = paragraph.split()
+#         # tokens = paragraph.split()
+#         tokens re.split(', | .', paragraph)
+#         print(tokens)
     
-    words = []
-    for word in tokens:
-        # words.append( word.lower().strip(',') )
-        words.append( re.sub('[^A-Za-z0-9]+', '', word.lower()) )
+#         words = []
+#         for word in tokens:
+#             # words.append( word.lower().strip(',') )
+#             words.append( re.sub('[^A-Za-z0-9]+', '', word.lower()) )
     
-    print(words)
+#         print(words)
     
+    #1). replace the punctuations with spaces,
+    #      and put all letters in lower case
+    normalized_str = ''.join([c.lower() if c.isalnum() else ' ' for c in paragraph])
+
+    #2). split the string into words
+    words = normalized_str.split()
+
     c = Counter(words)
     print(c)
     
