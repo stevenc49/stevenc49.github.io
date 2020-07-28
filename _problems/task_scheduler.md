@@ -2,7 +2,7 @@
 layout: page
 title:  Task Scheduler
 last_solved: 
-category: heap
+category: heap, greedy
 leetcode_url: https://leetcode.com/problems/task-scheduler/
 status: Attempted
 ---
