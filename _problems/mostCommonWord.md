@@ -65,12 +65,17 @@ def mostCommonWord(self, paragraph: str, banned: List[str]) -> str:
         if k in banned:
             c[k] = 0
     
-    # turn counter into a list
-    c = [(-v,k) for k,v in c.items()]
-    print(c)
+    #4). return the word with the highest frequency
+    # https://stackoverflow.com/questions/18595686/how-does-operator-itemgetter-and-sort-work-in-python
+    return max(c.items(), key=operator.itemgetter(1))[0]
     
-    heapq.heapify(c)
-    return heapq.heappop(c)[1]
+    
+#         # turn counter into a list
+#         c = [(-v,k) for k,v in c.items()]
+#         print(c)
+    
+#         heapq.heapify(c)
+#         return heapq.heappop(c)[1]
 
 {% endhighlight %}
 
