@@ -2,7 +2,7 @@
 layout: page
 title:  Most Common Word
 last_solved: 
-category: 
+category: heap
 leetcode_url: https://leetcode.com/problems/most-common-word
 status: Attempted
 ---
