@@ -6,6 +6,7 @@ title:  Practice Log
 ### Jul 24
 
 [Amazon Behaviroual Interview](https://www.1point3acres.com/bbs/thread-307462-1-1.html)
+[space repetition advice](https://leetcode.com/discuss/interview-experience/426561/amazon-sde2-jul-2019-reject-lesson-learned-to-never-fail-again)
 
 ### Jul 23
 
