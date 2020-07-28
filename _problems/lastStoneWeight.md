@@ -2,7 +2,7 @@
 layout: page
 title:  Last Stone Weight
 last_solved: 
-category: 
+category: heap
 leetcode_url: https://leetcode.com/problems/last-stone-weight
 status: Attempted
 ---

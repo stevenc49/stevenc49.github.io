@@ -8,7 +8,7 @@ There are 117 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
-[Last Stone Weight](/problems/lastStoneWeight) | 2020-07-28 | Attempted |  
+[Last Stone Weight](/problems/lastStoneWeight) | 2020-07-28 | Attempted | heap 
 [Task Scheduler](/problems/task_scheduler) | 2020-07-28 | Attempted | heap, greedy 
 [Most Common Word](/problems/mostCommonWord) | 2020-07-28 | Attempted |  
 [Find Min in Sorted Array](/problems/findMinInSortedArray) | 2020-07-27 | Attempted |  
