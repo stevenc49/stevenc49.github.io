@@ -4,10 +4,12 @@ title:  Solved - Last Modified
 ---
 
 
-There are 114 problems solved.
+There are 116 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Template](/problems/mostCommonWord) | 2020-07-28 | Attempted |  
+[Task Scheduler](/problems/task_scheduler) | 2020-07-28 | Attempted | heap 
 [Find Min in Sorted Array](/problems/findMinInSortedArray) | 2020-07-27 | Attempted |  
 [Guess Number Higher or Lower](/problems/guessNumberHigherOrLower) | 2020-07-24 | Attempted |  
 [Sqrt(x)](/problems/sqrtx) | 2020-07-24 | Attempted | Binary Search 
