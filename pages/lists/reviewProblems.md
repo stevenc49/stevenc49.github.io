@@ -26,8 +26,8 @@ It is sorted by category. This list will continually change as your skill level 
 
 Whenever problem asks for kth largest or kth smallest. Think heap.
 
-- [Kth Largest Element in an Array](/problems/kthlargestElmeentInAnArray)
-- [Kth Largest Element in a Stream](/problems/kthlargestElmeentInAStream)
+- [Kth Largest Element in an Array](/problems/kthlargestElementInAnArray)
+- [Kth Largest Element in a Stream](/problems/kthlargestElementInAStream)
 
 #### Strings
 
