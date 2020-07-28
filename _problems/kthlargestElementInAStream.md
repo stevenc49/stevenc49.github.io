@@ -31,6 +31,8 @@ kthLargest.add(4);   // returns 8
 Solution
 ----------
 
+Sorting Solution = nlogn
+
 {% highlight python %}
 
 class KthLargest:
@@ -45,10 +47,7 @@ class KthLargest:
         
         self.nums.append(val)
         
-        # we don't need to use heap, a simple sort is good enough
-#         self.nums = [-abs(x) for x in self.nums]      
-#         heapq.heapify(self.nums)
-        
+        # sort
         self.nums = sorted(self.nums, reverse=True)
         
         return self.nums[self.k-1]
@@ -58,6 +57,8 @@ class KthLargest:
 
 __________-
 
+
+use heap -> log(n) for insertion and removal, o(1) for peeking at root
 
 {% highlight python %}
 
