@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Template
+title:  Most Common Word
 last_solved: 
 category: 
 leetcode_url: https://leetcode.com/problems/most-common-word
