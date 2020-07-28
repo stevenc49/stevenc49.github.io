@@ -56,4 +56,38 @@ class KthLargest:
 {% endhighlight %}
 
 
+__________-
+
+
+{% highlight python %}
+
+class KthLargest:
+    
+    def __init__(self, k: int, nums: List[int]):
+        
+        self.k = k
+        # self.nums = nums
+        self.nums = heapq.nlargest(self.k, nums)[::-1]
+        
+
+    def add(self, val: int) -> int:
+        
+        # push new element onto heap
+        heapq.heappush(self.nums, val)
+    
+        # print(self.nums)
+        
+        # if length exceeds k, pop off the smallest (make room for a larger one)
+        if len(self.nums)>self.k:
+            heapq.heappop(self.nums)
+               
+
+        # print(self.nums)
+        # print()
+                
+        return self.nums[0]     # kth largest element is sitting at root (min of non evicted elements)
+
+
+{% endhighlight %}
+
 ![image1]()
