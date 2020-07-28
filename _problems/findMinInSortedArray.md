@@ -1,6 +1,10 @@
 ---
 layout: page
 title:  Find Min in Sorted Array
+last_solved: 2020-07-27
+category: 
+leetcode_url: 
+status: Attempted
 ---
 
 

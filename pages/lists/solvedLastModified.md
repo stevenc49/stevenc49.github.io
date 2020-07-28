@@ -8,6 +8,7 @@ There are 114 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Find Min in Sorted Array](/problems/findMinInSortedArray) | 2020-07-27 | Attempted |  
 [Guess Number Higher or Lower](/problems/guessNumberHigherOrLower) | 2020-07-24 | Attempted |  
 [Sqrt(x)](/problems/sqrtx) | 2020-07-24 | Attempted | Binary Search 
 [All Paths from Source To Target](/problems/allPathsFromSourceToTarget) | 2020-07-24 | Attempted | graph, bfs, dfs 
@@ -103,7 +104,6 @@ Problem | Last Modified | Status | Category
 [Missing Number](/problems/missingNumber) | 2020-05-17 |  |  
 [Contains Duplicates](/problems/containsDuplicates) | 2020-05-17 |  |  
 [Climbing Stairs](/problems/climbingStairs) | 2020-05-16 |  |  
-[Find Min in Sorted Array](/problems/findMinInSortedArray) | 2020-05-16 |  |  
 [Count Ones (In Array)](/problems/countOnesInArray) | 2020-05-14 |  |  
 [Num Ones](/problems/numOnes) | 2020-05-14 |  |  
 [Longest Substring without Repeating Characters](/problems/longestSubstringWithoutRepeatingChars) | 2020-05-14 |  |  
