@@ -2,7 +2,7 @@
 layout: page
 title:  Binary Tree Level Order Traversal
 last_solved: 2020-07-28
-category: bfs
+category: bfs, dfs
 leetcode_url: https://leetcode.com/problems/binary-tree-level-order-traversal
 status: Solved
 ---
