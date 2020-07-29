@@ -58,7 +58,7 @@ Whenever problem asks for kth largest or kth smallest. Think heap.
 #### BFS (Trees)
 
 - [Binary Tree Zig Zag](/problems/binaryTreeZigZag)
-- [Cousins in Binary Tree](/problems/couinsInBinaryTree)
+- [Cousins in Binary Tree](/problems/cousinsInBinaryTree)
 
 #### DFS (Trees)
 
