@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 125 problems solved.
+There are 126 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Find First and Last Position of Element in Sorted Array](/problems/searchForARange) | 2020-07-29 | Attempted | binary search 
 [Find Peak Element](/problems/findPeakElement) | 2020-07-29 | Attempted | binary search 
 [First Bad Version](/problems/firstBadVersion) | 2020-07-29 | Attempted | binary search 
 [Merge Sorted Array](/problems/mergeSortedArray) | 2020-07-29 | Attempted |  
