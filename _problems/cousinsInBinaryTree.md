@@ -93,6 +93,3 @@ def isCousins(self, root: TreeNode, x: int, y: int) -> bool:
     return False
 
 {% endhighlight %}
-
-
-![image1](https://assets.leetcode.com/uploads/2019/02/12/q1248-02.png)
