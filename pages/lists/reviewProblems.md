@@ -28,6 +28,7 @@ Whenever problem asks for kth largest or kth smallest. Think heap.
 
 - [Kth Largest Element in an Array](/problems/kthlargestElementInAnArray)
 - [Kth Largest Element in a Stream](/problems/kthlargestElementInAStream)
+- [Top Frequent K Elements](/problems/topFrequentKElements)
 
 #### Strings
 
