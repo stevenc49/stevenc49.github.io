@@ -3,6 +3,11 @@ layout: page
 title:  Practice Log
 ---
 
+### Jul 28
+
+[Julia Zines](https://wizardzines.com/)
+[Leetcode Behaviroal Interview](https://leetcode.com/explore/interview/)
+
 ### Jul 24
 
 [Amazon Behaviroual Interview](https://www.1point3acres.com/bbs/thread-307462-1-1.html)
