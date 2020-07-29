@@ -8,8 +8,9 @@ There are 121 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Binary Tree Level Order Traversal](/problems/binaryTreeLevelOrder) | 2020-07-29 | Solved | bfs 
+[Validate BST](/problems/validateBST) | 2020-07-29 |  |  
 [Cousins in Binary Tree](/problems/cousinsInBinaryTree) | 2020-07-28 | Attempted |  
-[Binary Tree Level Order Traversal](/problems/binaryTreeLevelOrder) | 2020-07-28 | Solved | bfs 
 [Most Common Word](/problems/mostCommonWord) | 2020-07-28 | Attempted | heap 
 [Kth Largest Element in a Stream](/problems/kthlargestElementInAStream) | 2020-07-28 | Attempted | heap 
 [Kth Largest Element in an Array](/problems/kthlargestElementInAnArray) | 2020-07-28 | Attempted | heap 
@@ -114,7 +115,6 @@ Problem | Last Modified | Status | Category
 [Count Ones (In Array)](/problems/countOnesInArray) | 2020-05-14 |  |  
 [Num Ones](/problems/numOnes) | 2020-05-14 |  |  
 [Longest Substring without Repeating Characters](/problems/longestSubstringWithoutRepeatingChars) | 2020-05-14 |  |  
-[Validate BST](/problems/validateBST) | 2020-05-12 |  |  
 [Is Same Tree?](/problems/isSameTree) | 2020-05-12 |  |  
 [Print K distance from Root](/problems/printKdistanceFromRoot) | 2020-05-11 |  |  
 [Serialize & Deserialize Tree](/problems/serializeTree) | 2020-05-11 |  |  

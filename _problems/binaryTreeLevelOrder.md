@@ -82,7 +82,7 @@ DFS
             if not node:
                 return
             
-            if len(output) <= level:
+            if len(output) <= level:    # create new inner list if level doesn't exist [[], []], so you can do `output[level]=xxx' later
                 output += [[]]      # or output.append([])
             
             dfs(node.left, level+1, output)

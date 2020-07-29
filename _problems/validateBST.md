@@ -26,23 +26,23 @@ class TreeNode:
 
 
 
-def validateBST(root):
+def isValidBST(self, root):
 
     if not root:
         return True
 
     # check BST conditions for current node
     validBST = True
-
-    if root.left and not root.left.val < root.val:
+    
+    if root.left and root.left.val >= root.val:
+        validBST = False
+        
+    if root.right and root.right.val <= root.val:
         validBST = False
     
-    if root.right and not root.right.val > root.val:
-        validBST = False
-
-    leftRes = validateBST(root.left)
-    rightRes = validateBST(root.right)
-
+    leftRes = self.isValidBST(root.left)
+    rightRes = self.isValidBST(root.right)
+    
     return validBST and leftRes and rightRes
 
 # #        5
