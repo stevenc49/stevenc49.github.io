@@ -8,9 +8,9 @@ There are 121 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Cousins in Binary Tree](/problems/cousinsInBinaryTree) | 2020-07-29 | Solved | bfs, dfs 
 [Binary Tree Level Order Traversal](/problems/binaryTreeLevelOrder) | 2020-07-29 | Solved | bfs, dfs 
 [Validate BST](/problems/validateBST) | 2020-07-29 | Solved | dfs 
-[Cousins in Binary Tree](/problems/cousinsInBinaryTree) | 2020-07-28 | Attempted |  
 [Most Common Word](/problems/mostCommonWord) | 2020-07-28 | Attempted | heap 
 [Kth Largest Element in a Stream](/problems/kthlargestElementInAStream) | 2020-07-28 | Attempted | heap 
 [Kth Largest Element in an Array](/problems/kthlargestElementInAnArray) | 2020-07-28 | Attempted | heap 
