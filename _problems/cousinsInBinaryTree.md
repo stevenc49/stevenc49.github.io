@@ -100,6 +100,8 @@ DFS
 
 [How does this work with self](https://leetcode.com/problems/cousins-in-binary-tree/discuss/741717/Python-beats-98-(easy-to-understand)-with-explanation)
 
+Note: use `self.xxx` instead of `nonlocal`
+
 {% highlight python %}
 
 def isCousins(self, root: TreeNode, x: int, y: int) -> bool:
