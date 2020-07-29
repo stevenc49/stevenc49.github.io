@@ -39,6 +39,10 @@ Solution
 Warning:
 - if you have `<=` in `while left<=right` but left and right assignments do not converge to mid, then you will have infinite loop
 
+
+This is the second form of binary search in the explore section.
+
+
 {% highlight python %}
 
 def findPeakElement(self, nums: List[int]) -> int:
