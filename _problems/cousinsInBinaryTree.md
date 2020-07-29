@@ -2,7 +2,7 @@
 layout: page
 title:  Cousins in Binary Tree
 last_solved: 
-category: bfs, dfs
+category: bfs/dfs
 leetcode_url: https://leetcode.com/problems/cousins-in-binary-tree
 status: Solved
 ---
