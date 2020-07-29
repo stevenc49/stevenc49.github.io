@@ -115,13 +115,13 @@ def isCousins(self, root: TreeNode, x: int, y: int) -> bool:
         elif node.val == y:
             self.y_level = level
             self.y_parent = parent
-        
+
         dfs(node.left, level+1, node)
         dfs(node.right, level+1, node)
-        
-    
-    dfs(0, root, None)
-    
-    print(self.x_level, self.y_level)
+
+
+    dfs(root, 0, None)
+
+    return self.x_level==self.y_level and self.x_parent!=self.y_parent
 
 {% endhighlight %}
