@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 123 problems solved.
+There are 124 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[First Bad Version](/problems/firstBadVersion) | 2020-07-29 | Attempted | binary search 
 [Merge Sorted Array](/problems/mergeSortedArray) | 2020-07-29 | Attempted |  
 [Convert Sorted Array to Binary Search Tree](/problems/convertSortedArrayToBST) | 2020-07-29 | Attempted |  
 [Binary Tree Level Order Traversal](/problems/binaryTreeLevelOrder) | 2020-07-29 | Solved | bfs/dfs 
