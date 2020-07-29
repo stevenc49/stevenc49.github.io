@@ -83,7 +83,7 @@ DFS
                 return
             
             if len(output) <= level:
-                output += [[]]
+                output += [[]]      # or output.append([])
             
             dfs(node.left, level+1, output)
             dfs(node.right, level+1, output)
