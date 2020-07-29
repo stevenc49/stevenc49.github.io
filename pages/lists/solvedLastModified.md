@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 124 problems solved.
+There are 125 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Find Peak Element](/problems/findPeakElement) | 2020-07-29 | Attempted | binary search 
 [First Bad Version](/problems/firstBadVersion) | 2020-07-29 | Attempted | binary search 
 [Merge Sorted Array](/problems/mergeSortedArray) | 2020-07-29 | Attempted |  
 [Convert Sorted Array to Binary Search Tree](/problems/convertSortedArrayToBST) | 2020-07-29 | Attempted |  
