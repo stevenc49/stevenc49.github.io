@@ -72,6 +72,7 @@ Need to get way better at identifying and applying these.
 
 - [Binary Search](/problems/binarySearch)
 - [Guess Number Higher or Lower](/problems/guessNumberHigherOrLower)
+- [Find First and Last Position of Element in Sorted Array](/problems/searchForARange)
 
 - [Search Matrix](/problems/matrixSearch)
 - [Find Min in Sorted Array](/problems/findMinInSortedArray)
