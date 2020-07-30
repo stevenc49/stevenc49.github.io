@@ -3,6 +3,21 @@ layout: page
 title:  Practice Log
 ---
 
+### Jul 30
+
+I've been falling off the behind on my practice. In the last few days, I've solved many problems and practiced many types of problems inlcuding:
+- various types of binary searches problems
+- dfs technique in level order problems
+- heap based problems (kth most frequent elements)
+
+I think taking a step back from doing new problems and reviewing older problems that you've attempted is good once in a while. There are a couple of study habits that I've found effective while studying algos:
+
+- need to dedicate at least a few hours per day every day
+- don't spend too long on a problem if you can't figure it out
+- space repetition, review all types of problems occasionally
+
+
+
 ### Jul 28
 
 [Julia Zines](https://wizardzines.com/)
