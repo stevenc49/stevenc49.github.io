@@ -16,6 +16,12 @@ I think taking a step back from doing new problems and reviewing older problems 
 - don't spend too long on a problem if you can't figure it out
 - space repetition, review all types of problems occasionally
 
+This falls within the "Principles of Life" that I've been building up slowly throughout the past couple years:
+
+- Do not worry about your stock portfolio, just buy and hold
+- Do not waste time on Telus work, just use that time on getting better at leetcode
+- Use other time to get better at cooking/chinese/fitness/photography/business/etc?
+
 
 
 ### Jul 28
