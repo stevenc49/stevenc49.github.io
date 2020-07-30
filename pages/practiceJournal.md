@@ -19,7 +19,7 @@ I think taking a step back from doing new problems and reviewing older problems 
 This falls within the "Principles of Life" that I've been building up slowly throughout the past couple years:
 
 - Do not worry about your stock portfolio, just buy and hold
-- Do not waste time on Telus work, just use that time on getting better at leetcode
+- Do not waste time on Telus work, just use that time on getting better at leetcode. But do not stress out over not working for Big4.
 - Use other time to get better at cooking/chinese/fitness/photography/business/etc?
 
 
