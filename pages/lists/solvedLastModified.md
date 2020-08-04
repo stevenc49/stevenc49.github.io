@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 127 problems solved.
+There are 128 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Isomorphic Strings](/problems/isomorphicStrings) | 2020-08-04 | Solved | hashmap 
 [Water with Most Water](/problems/waterWithMostWater) | 2020-08-04 | Solved | array, 2ptr 
 [Sort Colors](/problems/sortColors) | 2020-08-04 | Solved | arrays, sorting 
 [Power of Four](/problems/powerOfFour) | 2020-08-04 | Attempted | bit manipulation 

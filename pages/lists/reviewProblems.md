@@ -20,7 +20,7 @@ It is sorted by category. This list will continually change as your skill level 
 
 - [Two Sum](/problems/twoSum)
 - [Group Isomorphic Strings](/problems/groupIsomorphicStrings)
-
+- [Isomorphic Strings](/problems/isomorphicStrings)
 
 #### Heap
 
