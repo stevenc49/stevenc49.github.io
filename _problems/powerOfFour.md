@@ -2,7 +2,7 @@
 layout: page
 title:  Power of Four
 last_solved: 
-category: 
+category: bit manipulation
 leetcode_url: https://leetcode.com/problems/power-of-four/
 status: Attempted
 ---
