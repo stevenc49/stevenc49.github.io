@@ -8,10 +8,10 @@ There are 128 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Power of Four](/problems/powerOfFour) | 2020-08-04 | Solved | bit manipulation 
 [Isomorphic Strings](/problems/isomorphicStrings) | 2020-08-04 | Solved | hashmap 
 [Water with Most Water](/problems/waterWithMostWater) | 2020-08-04 | Solved | array, 2ptr 
 [Sort Colors](/problems/sortColors) | 2020-08-04 | Solved | arrays, sorting 
-[Power of Four](/problems/powerOfFour) | 2020-08-04 | Attempted | bit manipulation 
 [Find First and Last Position of Element in Sorted Array](/problems/searchForARange) | 2020-07-29 | Attempted | binary search 
 [Find Peak Element](/problems/findPeakElement) | 2020-07-29 | Attempted | binary search 
 [First Bad Version](/problems/firstBadVersion) | 2020-07-29 | Attempted | binary search 
