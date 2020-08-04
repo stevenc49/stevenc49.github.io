@@ -8,6 +8,7 @@ There are 127 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Sort Colors](/problems/sortColors) | 2020-08-04 | Solved | arrays, sorting 
 [Power of Four](/problems/powerOfFour) | 2020-08-04 | Attempted | bit manipulation 
 [Find First and Last Position of Element in Sorted Array](/problems/searchForARange) | 2020-07-29 | Attempted | binary search 
 [Find Peak Element](/problems/findPeakElement) | 2020-07-29 | Attempted | binary search 
@@ -79,7 +80,6 @@ Problem | Last Modified | Status | Category
 [Two Sum](/problems/twoSum) | 2020-06-19 | Solved | array, hashtable 
 [Flood Fill](/problems/floodfill) | 2020-06-19 | Solved | union find 
 [Number of Islands](/problems/numIslands) | 2020-06-19 | Solved | union find 
-[Sort Colors](/problems/sortColors) | 2020-06-19 | Attempted | arrays, sorting 
 [Group Isometric Strings](/problems/groupIsomorphicStrings) | 2020-06-18 | Solved | hashmap 
 [Surrounded Region](/problems/surroundedRegion) | 2020-06-17 | Attempted | union find 
 [House Robber](/problems/houseRobber) | 2020-06-16 | Solved | dp 

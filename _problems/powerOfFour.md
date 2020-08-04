@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Power of Four
-last_solved: 
+last_solved: 2020-08-04
 category: bit manipulation
 leetcode_url: https://leetcode.com/problems/power-of-four/
 status: Attempted
