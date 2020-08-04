@@ -8,6 +8,7 @@ There are 128 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Two Sum](/problems/twoSum) | 2020-08-04 | Solved | array, hashtable 
 [Power of Four](/problems/powerOfFour) | 2020-08-04 | Solved | bit manipulation 
 [Isomorphic Strings](/problems/isomorphicStrings) | 2020-08-04 | Solved | hashmap 
 [Water with Most Water](/problems/waterWithMostWater) | 2020-08-04 | Solved | array, 2ptr 
@@ -79,7 +80,6 @@ Problem | Last Modified | Status | Category
 [Single Number II](/problems/singleNumberii) | 2020-06-22 | Attempted | bit manipulation 
 [Cheapest Flight Within K Stops](/problems/cheapestFlight) | 2020-06-21 | Attempted | graph, dijkstra 
 [Network Delay Time](/problems/networkDelayTime) | 2020-06-19 | Attempted | graph, dijkstra 
-[Two Sum](/problems/twoSum) | 2020-06-19 | Solved | array, hashtable 
 [Flood Fill](/problems/floodfill) | 2020-06-19 | Solved | union find 
 [Number of Islands](/problems/numIslands) | 2020-06-19 | Solved | union find 
 [Group Isometric Strings](/problems/groupIsomorphicStrings) | 2020-06-18 | Solved | hashmap 

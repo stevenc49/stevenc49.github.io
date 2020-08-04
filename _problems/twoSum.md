@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Two Sum
-last_solved: 2020-06-01
+last_solved: 2020-08-04
 category: array, hashtable
 leetcode_url: https://https://leetcode.com/problems/two-sum
 status: Solved
