@@ -8,6 +8,7 @@ There are 127 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Water with Most Water](/problems/waterWithMostWater) | 2020-08-04 | Solved | array, 2ptr 
 [Sort Colors](/problems/sortColors) | 2020-08-04 | Solved | arrays, sorting 
 [Power of Four](/problems/powerOfFour) | 2020-08-04 | Attempted | bit manipulation 
 [Find First and Last Position of Element in Sorted Array](/problems/searchForARange) | 2020-07-29 | Attempted | binary search 
@@ -99,7 +100,6 @@ Problem | Last Modified | Status | Category
 [Two City Scheduling](/problems/twoCityScheduling) | 2020-06-04 | Attempted | greedy 
 [Remove Duplicate from Sorted Array](/problems/removeDupFromSortedArray) | 2020-06-03 | Solved | array, 2ptr 
 [Merge Intervals](/problems/mergeIntervals) | 2020-06-03 | Attempted | intervals 
-[Water with Most Water](/problems/waterWithMostWater) | 2020-06-03 | Solved | array, 2ptr 
 [Move Zeros](/problems/moveZeros) | 2020-06-02 | Solved | array 
 [Buy and Sell Stock 2](/problems/buyAndSellStock copy) | 2020-06-02 | Solved | array 
 [Buy and Sell Stock](/problems/buyAndSellStock) | 2020-06-02 | Solved | array 

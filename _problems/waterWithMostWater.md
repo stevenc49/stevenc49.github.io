@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Water with Most Water
-last_solved: 2020-05-27
+last_solved: 2020-08-04
 category: array, 2ptr
 leetcode_url: https://leetcode.com/problems/container-with-most-water/
 status: Solved
@@ -48,4 +48,33 @@ def maxArea(height):
 
 {% endhighlight %}
 
+
+__________________-
+
+
+
+{% highlight python %}
+
+def maxArea(self, height: List[int]) -> int:
+    
+    s = 0
+    e = len(height)-1
+    
+    maxArea = 0
+    
+    while s<e:
+        
+        area = (e-s) * min(height[s], height[e])
+        
+        if area>maxArea:
+            maxArea = area
+        
+        if height[s]>height[e]:
+            e-=1
+        else:
+            s+=1
+        
+    return maxArea
+
+{% endhighlight %}
 
