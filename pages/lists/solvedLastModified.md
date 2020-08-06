@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 128 problems solved.
+There are 129 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Find all Duplicates in Array](/problems/findAllDupsInArray) | 2020-08-06 | Attempted | array 
 [Two Sum](/problems/twoSum) | 2020-08-04 | Solved | array, hashtable 
 [Power of Four](/problems/powerOfFour) | 2020-08-04 | Solved | bit manipulation 
 [Isomorphic Strings](/problems/isomorphicStrings) | 2020-08-04 | Solved | hashmap 
