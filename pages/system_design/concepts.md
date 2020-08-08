@@ -14,7 +14,7 @@ other system design resources
 - https://github.com/donnemartin/system-design-primer
 
 [back of the envelope calculations](https://www.reddit.com/r/cscareerquestions/comments/6c3x0h/for_system_design_interview_questions_are_back_of/)
-
+[back of the envelope](https://itsallbinary.com/system-design-back-of-envelop-calculations-for-storage-size-bandwidth-traffic-etc-estimates/)
 
 ___________________
 
