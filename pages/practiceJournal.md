@@ -16,7 +16,14 @@ ______________
 Strategy for interview prep:
 - review leetcode questions on jekyll
 - hackerrank interview prep
-- educative.io - coding patterns
+- educative.io - groking coding patterns
+
+System
+- educative.io - groking system design
+
+Behavior
+- educative.io - groking behavior
+
 
 You can even use educative.io to teach for passive income:
 https://www.educative.io/authors
