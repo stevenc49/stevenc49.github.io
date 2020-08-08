@@ -18,6 +18,8 @@ just search for all "groking"
 get 1 month subscription and download using [scraper](https://anotherdev.xyz/educative-io-course-downloader/)
 - [downloader](https://github.com/shihabmridha/educative.io-downloader)
 
+[top educative courses](https://medium.com/double-pointer/top-courses-on-educative-io-aa8179682a2d)
+
 
 try hackerrank as well
 - interview prep kit
