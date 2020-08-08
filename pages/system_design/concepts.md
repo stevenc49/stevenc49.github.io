@@ -13,3 +13,9 @@ title:  System Design - Concepts
     - Like 'link cleanup service' in link shortener
     
 - Map-Reduce
+    - once you start sharding your DB and SQL queries don't work
+    - distributed data processing
+
+- Platform Layer
+    - an interface for other microservices to interact with a 3rd party
+    
