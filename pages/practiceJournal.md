@@ -18,6 +18,8 @@ Strategy for interview prep:
 - hackerrank interview prep
 - educative.io - coding patterns
 
+You can even use educative.io to teach for passive income:
+https://www.educative.io/authors
 
 
 ### Aug 7
