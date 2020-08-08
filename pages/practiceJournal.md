@@ -10,7 +10,7 @@ educative.io
 
 just search for all "groking"
 
-[grokking system design interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70&list=PL73KFetZlkJSZ9vTDSJ1swZhe6CIYkqTL)
+
 [groking coding interview patterns](https://www.educative.io/courses/grokking-the-coding-interview)
 [groking dynamic programming](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
 [grok behavior interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
@@ -21,12 +21,20 @@ get 1 month subscription and download using [scraper](https://anotherdev.xyz/edu
 [top educative courses](https://medium.com/double-pointer/top-courses-on-educative-io-aa8179682a2d)
 
 
+
+
 try hackerrank as well
 - interview prep kit
 - tries
 - topological sort -> educative.io has one too
 
 nick white has 300 problems solved as of dec 2019
+
+
+other system design resources
+----------
+- reddit udacity architecture course
+- [grokking system design interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70&list=PL73KFetZlkJSZ9vTDSJ1swZhe6CIYkqTL)
 
 
 
