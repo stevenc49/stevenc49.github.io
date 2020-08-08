@@ -35,6 +35,9 @@ other system design resources
 ----------
 - reddit udacity architecture course
 - [grokking system design interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70&list=PL73KFetZlkJSZ9vTDSJ1swZhe6CIYkqTL)
+- https://github.com/donnemartin/system-design-primer
+
+[back of the envelope calculations](https://www.reddit.com/r/cscareerquestions/comments/6c3x0h/for_system_design_interview_questions_are_back_of/)
 
 
 

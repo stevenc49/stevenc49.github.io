@@ -17,6 +17,11 @@ Lists
 - [Review Problems](pages/lists/reviewProblems)
 - [Bookmarked Sites](/pages/bookmarkedSites)
 
+System Design
+--------------
+
+- [System Design](pages/system_design)
+
 
 To start:
 ``` bundle exec jekyll serve ```
