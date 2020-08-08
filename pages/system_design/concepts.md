@@ -21,6 +21,7 @@ ___________________
 
 
 [architecting systems for scale](https://lethain.com/introduction-to-architecting-systems-for-scale/)
+[github - system design premier](https://github.com/donnemartin/system-design-primer#system-design-topics-start-here)
 
 - Message Queues (RabbitMQ and kafka)
     - buffer where producers add expensive workload tasks
