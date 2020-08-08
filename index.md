@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-Lists
+Coding
 ------------
 - [Solved](pages/lists/solved.html)
 - [Solved - Last Modified](pages/lists/solvedLastModified.html)
