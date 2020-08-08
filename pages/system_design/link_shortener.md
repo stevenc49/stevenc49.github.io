@@ -40,10 +40,14 @@ title:  System Design - link shortener
     - get/set operations
     - supports richer data types including string, hash, list
 
+- a content distribution network (CDN) is a type of load balancer/cache
+
 
 
 9. load balancers
 ----------------
+
+
 
 - add LB at 3 layers
     - between users and app servers
@@ -51,6 +55,11 @@ title:  System Design - link shortener
     - between servers and cache servers
 
 - round robin approach to distribute incoming requests
+
+- algorithms
+    - round robin
+    - ip hash
+    - least connections/response time/bandwidth
 
 
 
@@ -69,4 +78,6 @@ Approaches
 
 otehr requirements that needs to be considered
 - 
+
+
 
