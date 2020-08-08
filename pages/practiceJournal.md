@@ -5,7 +5,12 @@ title:  Practice Log
 
 ### Aug 7
 
-[system design interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70&list=PL73KFetZlkJSZ9vTDSJ1swZhe6CIYkqTL)
+educative.io
+----------------
+
+[grokking system design interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70&list=PL73KFetZlkJSZ9vTDSJ1swZhe6CIYkqTL)
+[groking coding interview patterns](https://www.educative.io/courses/grokking-the-coding-interview)
+[groking dynamic programming](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
 
 ### Jul 30
 
