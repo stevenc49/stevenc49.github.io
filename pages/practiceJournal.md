@@ -3,6 +3,10 @@ layout: page
 title:  Practice Log
 ---
 
+### Aug 7
+
+[system design interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70&list=PL73KFetZlkJSZ9vTDSJ1swZhe6CIYkqTL)
+
 ### Jul 30
 
 I've been falling off the behind on my practice. In the last few days, I've solved many problems and practiced many types of problems inlcuding:
