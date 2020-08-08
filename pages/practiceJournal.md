@@ -34,6 +34,8 @@ nick white has 300 problems solved as of dec 2019
 other system design resources
 ----------
 - [reddit udacity architecture course](https://www.youtube.com/watch?v=pjNTgULVVf4&list=PLVi1LmRuKQ0NINQfjKLVen7J2lZFL35wP)
+- [harvard scalabilty course](https://www.youtube.com/watch?v=-W9F__D3oY4)
+
 - [grokking system design interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70&list=PL73KFetZlkJSZ9vTDSJ1swZhe6CIYkqTL)
 - https://github.com/donnemartin/system-design-primer
 
