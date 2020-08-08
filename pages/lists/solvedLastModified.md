@@ -8,6 +8,8 @@ There are 129 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[BFS](/problems/bfs) | 2020-08-08 |  |  
+[Subsets](/problems/subsets) | 2020-08-08 | Solved | recursion, backtracking 
 [Find all Duplicates in Array](/problems/findAllDupsInArray) | 2020-08-06 | Attempted | array 
 [Two Sum](/problems/twoSum) | 2020-08-04 | Solved | array, hashtable 
 [Power of Four](/problems/powerOfFour) | 2020-08-04 | Solved | bit manipulation 
@@ -50,7 +52,6 @@ Problem | Last Modified | Status | Category
 [Top Frequent K Elements](/problems/topFrequentKElements) | 2020-07-17 | Attempted | heap 
 [Spiral Matrix](/problems/spiralMatrix) | 2020-07-16 | Attempted | matrix 
 [Pow(x, n)](/problems/powx-n) | 2020-07-16 | Attempted | bit manipulation 
-[Subsets](/problems/subsets) | 2020-07-13 | Solved | recursion, backtracking 
 [Reverse Bits](/problems/reverseBits) | 2020-07-13 | Solved | Bits 
 [Group Anagrams](/problems/groupAnagrams) | 2020-07-13 | Solved | hashmap 
 [Reverse Linked List Iteratively](/problems/reverseLLiterative) | 2020-07-10 | Solved | linked list 
@@ -129,7 +130,6 @@ Problem | Last Modified | Status | Category
 [Deepest Leaves Sum (BFS)](/problems/deepestLeavesSumBFS) | 2020-05-11 |  |  
 [Is Tree Balanced?](/problems/isTreeBalanced) | 2020-05-11 |  |  
 [Is Tree Symmetric?](/problems/symmetricTree) | 2020-05-11 |  |  
-[BFS](/problems/bfs) | 2020-05-11 |  |  
 [Is Sub Tree?](/problems/isSubtree) | 2020-05-11 |  |  
 [Max Depth of Tree](/problems/maxDepth) | 2020-05-11 |  |  
 [Merge Sorted Linked List (Recursive)](/problems/mergeSortedLLrecur) | 2020-05-11 |  |  

@@ -3,7 +3,8 @@ layout: page
 title:  BFS
 ---
 
-
+Time complexity is O(N)
+Space complexity is O(W) where W is the max number of nodes on any level.
 
 
 {% highlight python %}
