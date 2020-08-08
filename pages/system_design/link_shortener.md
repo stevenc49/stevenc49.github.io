@@ -21,6 +21,11 @@ title:  System Design - link shortener
 8. caching
 ------------
 
+- app level cache
+- CDN
+- cache invalidation
+- cache evictin polices
+
 - to reduce DB load, can check cache before hitting the DB
 - can precompute frequently used data and store in cache
 
@@ -40,7 +45,6 @@ title:  System Design - link shortener
     - get/set operations
     - supports richer data types including string, hash, list
 
-- a content distribution network (CDN) is a type of load balancer/cache
 
 
 
