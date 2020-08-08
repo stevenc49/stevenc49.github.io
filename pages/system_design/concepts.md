@@ -18,4 +18,16 @@ title:  System Design - Concepts
 
 - Platform Layer
     - an interface for other microservices to interact with a 3rd party
-    
+
+
+
+
+- long polling vs websockets vs server-sent events
+    - ajax polling
+        - many http reqs and responses
+    - http long-polling (hanging GET)
+        - client expects the server to not respond immediately
+    - web-sockets
+        - full deplex communication over tcp connection
+    - server sent events
+
