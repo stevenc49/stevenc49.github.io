@@ -164,3 +164,48 @@ ______________
 ![image1](https://5wlqpa.dm.files.1drv.com/y4mWw6FM6vfQ2uGgQLZVTXK03b2a4oZzG94ARUypRFP8T48s5todh08mGzzH5CVx79cVUGI-lKe00r0vgEJt0PlTTYmYze-M_EXdkfEaUTggaMMsCwXXKXHUC3ko0ITL_jl14nHjNEXlI5I3kh3AnD98MerAvWU3GuICbnIDQETihjZo-F86GzUuLYTn-2Q-ZoddrY1zu3b6rchFalBW9mJEQ?width=2425&height=1523&cropmode=none)
 ![image1](https://5wjpha.dm.files.1drv.com/y4mECUr_-JYl8Sn_JLbFcKa5QKYMklb32Cht5rZj3MsoCjcLrnWDDaxHqFCOwIh2VD5UT5xoy2xcKKpoMAvYe4-kH0xVw8vdaEkGRva0OF1WdfmvoPifSLQLOK4RAGPO72WQifQ87qsF8APOnzvPA3M5LAhp7wvYU8X7f__vZO7Oae4ZVj0dARrF8fms6KVQ__ect74q1YyqECYIjJci7DQkQ?width=2041&height=1334&cropmode=none)
 
+
+
+
+_______________
+
+
+Another way is the BFS approach from [educative](https://www.educative.io/courses/grokking-the-coding-interview/gx2OqlvEnWG)
+
+
+
+
+```
+
+Given set: [1, 5, 3]
+
+Start with an empty set: [[]]
+Add the first number (1) to all the existing subsets to create new subsets: [[], [1]];
+Add the second number (5) to all the existing subsets: [[], [1], [5], [1,5]];
+Add the third number (3) to all the existing subsets: [[], [1], [5], [1,5], [3], [1,3], [5,3], [1,5,3]].
+
+```
+
+
+{% highlight python %}
+
+def find_subsets(nums):
+  subsets = []
+  # start by adding the empty subset
+  subsets.append([])
+  for currentNumber in nums:
+    # we will take all existing subsets and insert the current number in them to create new subsets
+    n = len(subsets)
+    for i in range(n):
+      # create a new subset from the existing subset and insert the current element to it
+      set = list(subsets[i])
+      set.append(currentNumber)
+      subsets.append(set)
+
+  return subsets
+
+{% endhighlight %}
+
+
+Time and space complexity is O(2^n) because we will have 2^n items
+
