@@ -15,6 +15,18 @@ just search for all "groking"
 [groking dynamic programming](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
 [grok behavior interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
 
+get 1 month subscription and download using [scraper](https://anotherdev.xyz/educative-io-course-downloader/)
+- [downloader](https://github.com/shihabmridha/educative.io-downloader)
+
+
+try hackerrank as well
+- interview prep kit
+- tries
+- topological sort -> educative.io has one too
+
+nick white has 300 problems solved as of dec 2019
+
+
 
 
 ### Jul 30
