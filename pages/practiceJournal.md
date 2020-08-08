@@ -11,6 +11,14 @@ I just learned that there's another more intuitive way to do the subset/permutat
 
 It's much more about how you articulate the problem than knowing the problem. Recording yourself should help with this.
 
+______________
+
+Strategy for interview prep:
+- review leetcode questions on jekyll
+- hackerrank interview prep
+- educative.io - coding patterns
+
+
 
 ### Aug 7
 
