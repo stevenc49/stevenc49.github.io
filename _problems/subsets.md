@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Subsets
+title:  Subsets (Backtracking)
 last_solved: 2020-06-22
 category: recursion, backtracking
 leetcode_url: https://leetcode.com/problems/subsets/

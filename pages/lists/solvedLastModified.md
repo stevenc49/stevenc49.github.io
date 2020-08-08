@@ -8,9 +8,9 @@ There are 130 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Subsets (Backtracking)](/problems/subsets) | 2020-08-08 | Solved | recursion, backtracking 
 [Subsets (BFS)](/problems/subsetsBFS) | 2020-08-08 | Solved | BFS 
 [BFS](/problems/bfs) | 2020-08-08 |  |  
-[Subsets](/problems/subsets) | 2020-08-08 | Solved | recursion, backtracking 
 [Find all Duplicates in Array](/problems/findAllDupsInArray) | 2020-08-06 | Attempted | array 
 [Two Sum](/problems/twoSum) | 2020-08-04 | Solved | array, hashtable 
 [Power of Four](/problems/powerOfFour) | 2020-08-04 | Solved | bit manipulation 
