@@ -1,6 +1,10 @@
 ---
 layout: page
 title:  BFS
+last_solved: 2020-08-08
+category: bfs
+leetcode_url: 
+status: Solved
 ---
 
 Time complexity is O(N)
