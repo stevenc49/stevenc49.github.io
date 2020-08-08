@@ -20,7 +20,7 @@ Lists
 System Design
 --------------
 
-- [System Design](pages/system_design)
+- [System Design](pages/system_design/link_shortener)
 
 
 To start:
