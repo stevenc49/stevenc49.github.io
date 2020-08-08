@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 129 problems solved.
+There are 130 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Subsets (BFS)](/problems/subsetsBFS) | 2020-08-08 | Solved | BFS 
 [BFS](/problems/bfs) | 2020-08-08 |  |  
 [Subsets](/problems/subsets) | 2020-08-08 | Solved | recursion, backtracking 
 [Find all Duplicates in Array](/problems/findAllDupsInArray) | 2020-08-06 | Attempted | array 
