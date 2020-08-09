@@ -32,6 +32,9 @@ Solution
 1) Push all elements into a minHeap.
 2) Pop them out and create a new linked list.
 
+time is O(n*logk) where n=total number of elements in k list
+space is O(n) to hold all elements in minHeap
+
 {% highlight python %}
 
 def mergeKLists(self, lists):
