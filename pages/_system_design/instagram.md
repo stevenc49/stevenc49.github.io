@@ -36,7 +36,7 @@ avg photo size = 200KB
 
 
 5. high level design
-    - image hosting system needs to parts
+    - image hosting system needs two parts
     - object storage for storing photos
     - DB for storing image metadta
 
