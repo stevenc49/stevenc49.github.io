@@ -33,6 +33,8 @@ Solution
 2) Pop them out and create a new linked list.
 
 time is O(n*logk) where n=total number of elements in k list
+- because each insert into minheap is logk, and we do it n times for each element
+
 space is O(n) to hold all elements in minHeap
 
 {% highlight python %}
