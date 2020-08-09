@@ -50,7 +50,7 @@ def findKthLargest(self, nums: List[int], k: int) -> int:
         print(min_heap)
         print()
         
-    return heapq.heappop(min_heap)
+    return heapq.heappop(min_heap)  # can also do `return min_heap[0]`
 
 {% endhighlight %}
 
