@@ -10,7 +10,7 @@ status: Attempted
 Problem
 -------
 
-```a
+```
 
 
 ```
