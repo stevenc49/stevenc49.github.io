@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  Subsets (BFS)
+title:  Subsets (Cascading)
 last_solved: 2020-06-22
-category: BFS
+category: cascading
 leetcode_url: https://leetcode.com/problems/subsets/
 status: Solved
 ---
