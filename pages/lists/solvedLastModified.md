@@ -4,13 +4,17 @@ title:  Solved - Last Modified
 ---
 
 
-There are 130 problems solved.
+There are 133 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Kth Largest Element in an Array](/problems/kthlargestElementInAnArray) | 2020-08-09 | Attempted | heap 
+[Merge K Sorted Linked Lists](/problems/mergeKSortedLinkedLists) | 2020-08-09 | Solved | heap 
+[Path Sum](/problems/pathSum) | 2020-08-09 | Attempted |  
+[Permutations (Cascading)](/problems/permutationsCascading) | 2020-08-09 | Solved | cascading 
+[Subsets (Cascading)](/problems/subsetsCascading) | 2020-08-09 | Solved | cascading 
 [BFS](/problems/bfs) | 2020-08-08 | Solved | bfs 
 [Subsets (Backtracking)](/problems/subsets) | 2020-08-08 | Solved | recursion, backtracking 
-[Subsets (BFS)](/problems/subsetsBFS) | 2020-08-08 | Solved | BFS 
 [Find all Duplicates in Array](/problems/findAllDupsInArray) | 2020-08-06 | Attempted | array 
 [Two Sum](/problems/twoSum) | 2020-08-04 | Solved | array, hashtable 
 [Power of Four](/problems/powerOfFour) | 2020-08-04 | Solved | bit manipulation 
@@ -27,7 +31,6 @@ Problem | Last Modified | Status | Category
 [Validate BST](/problems/validateBST) | 2020-07-29 | Solved | dfs 
 [Most Common Word](/problems/mostCommonWord) | 2020-07-28 | Attempted | heap 
 [Kth Largest Element in a Stream](/problems/kthlargestElementInAStream) | 2020-07-28 | Attempted | heap 
-[Kth Largest Element in an Array](/problems/kthlargestElementInAnArray) | 2020-07-28 | Attempted | heap 
 [Last Stone Weight](/problems/lastStoneWeight) | 2020-07-28 | Attempted | heap 
 [Task Scheduler](/problems/task_scheduler) | 2020-07-28 | Attempted | heap, greedy 
 [Find Min in Sorted Array](/problems/findMinInSortedArray) | 2020-07-27 | Attempted |  
