@@ -3,6 +3,12 @@ layout: page
 title:  Practice Log
 ---
 
+### Aug 9
+
+Educative.io is good for knowing which problems to work on and sometimes have decent explanatinos.
+Just use educative.io as a list to get thru and feel free to use the explaination in conjunction with youtube to understand the problem.
+
+
 ### Aug 8
 
 I just learned that there's another more intuitive way to do the subset/permutation problem without backtracking
