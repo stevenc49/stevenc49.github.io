@@ -66,3 +66,4 @@ Good leetcode grouped problems (from user wh0ami/whoami):
 Dynamic Programming Links
 ------------
 - [dynamic programming patterns](https://leetcode.com/discuss/interview-question/778035/dynamic-programming-patterns)
+- [list of dp problems](https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns)
