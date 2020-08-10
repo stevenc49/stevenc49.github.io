@@ -11,9 +11,10 @@ title:  Bookmarked Sites
 
 - [grokking system design]()
 - [Techinical Interview Handbook](https://yangshun.github.io/tech-interview-handbook/best-practice-questions)
-
+- [amazon prep](https://www.amazon.jobs/en/landing_pages/software-development-topics)
 - [career advice](https://www.teamblind.com/post/advice-for-younger-folks-WzpcU2oi)
 - [Jouney](https://leetcode.com/discuss/interview-experience/716202/amz-google-facebook-offer-reject-reject-my-journey-from-failure-to-offer-at-faang)
+
 
 Interview Whiteboards
 ------------------------
@@ -24,6 +25,7 @@ Interview Whiteboards
 
 Other worthwile leetcode sites
 - [github book](https://github.com/liyin2015/Algorithms-and-Coding-Interviews)
+
 
 Leetcode post for writing concise Python code:
 - https://leetcode.com/discuss/general-discussion/459791/Special-data-structures-in-Python
@@ -37,6 +39,9 @@ Behaviour Interview
 ---------------------
 [Amazon LP](https://medium.com/@scarletinked/are-you-the-leader-were-looking-for-interviewing-at-amazon-8301d787815d)
 [Behaviour Interview](https://www.youtube.com/c/DanCroitor/videos) -> youtube-dl and listen to mp3
+
+
+
 
 
 Youtubers
@@ -68,3 +73,5 @@ Dynamic Programming Links
 - [dynamic programming patterns](https://leetcode.com/discuss/interview-question/778035/dynamic-programming-patterns)
 - [list of dp problems](https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns)
 - [algo monster](https://algo.monster/problems/dynamic_programming_intro)
+
+
