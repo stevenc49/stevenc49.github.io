@@ -29,7 +29,7 @@ System
 
 Behavior
 - educative.io - groking behavior
-- [jackson gabbard](https://www.youtube.com/watch?v=PJKYqLP6MRE)
+
 
 You can even use educative.io to teach for passive income:
 https://www.educative.io/authors

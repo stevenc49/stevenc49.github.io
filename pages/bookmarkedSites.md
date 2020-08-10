@@ -55,9 +55,14 @@ Mock Interviews
 
 
 
-Good leetcode grouped problems (from user wh0ami):
+Good leetcode grouped problems (from user wh0ami/whoami):
 - [Graphs](https://leetcode.com/discuss/general-discussion/655708/graph-problems-for-beginners-practice-problems-and-sample-solutions)
 - [Sliding Windows](https://leetcode.com/discuss/general-discussion/657507/sliding-window-for-beginners-problems-template-sample-solutions)
 - [DP](https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions)
 - [Greedy](https://leetcode.com/discuss/general-discussion/669996/greedy-for-beginners-problems-sample-solutions)
 - [Binary Search](https://leetcode.com/discuss/general-discussion/691825/binary-search-for-beginners-problems-patterns-sample-solutions)
+
+
+Dynamic Programming Links
+------------
+- [dynamic programming patterns](https://leetcode.com/discuss/interview-question/778035/dynamic-programming-patterns)
