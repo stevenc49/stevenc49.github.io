@@ -25,7 +25,7 @@ sql resources
 - [summary of sql qustions on leetcode](https://byrony.github.io/summary-of-sql-questions-on-leetcode.html)
 - [What I realized after solving 100 leetcode SQL questions…](https://towardsdatascience.com/sql-questions-summary-df90bfe4c9c)
 - [hackerrank](https://www.hackerrank.com/domains/sql)
-
+- [advanced sql q&a](https://www.programmerinterview.com/database-sql/advanced-sql-interview-questions-and-answers/)
 
 __________
 
