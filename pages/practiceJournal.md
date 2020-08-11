@@ -3,6 +3,25 @@ layout: page
 title:  Practice Log
 ---
 
+### Aug 11
+
+Interviews
+- Amazon - Missy is contact, need to complete coding assessment
+- Facebook - Shone is contact, need to complete 1 hr phone screen with data engineer
+
+1 hr on coder pad
+25 min questions on sql, 5 max
+25 min questions on coding, 5 max
+5 min for Q's
+
+the bar is 3-4 questions on each one, it gets progressively harder
+
+best way is to hit up leetcode and hackerrank and practice those on medium
+if you can do 3-4 of them in 25 min, you're ready
+
+
+
+
 ### Aug 9
 
 Educative.io is good for knowing which problems to work on and sometimes have decent explanatinos.
