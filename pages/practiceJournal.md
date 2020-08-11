@@ -26,6 +26,17 @@ sql resources
 - [What I realized after solving 100 leetcode SQL questions…](https://towardsdatascience.com/sql-questions-summary-df90bfe4c9c)
 - [hackerrank](https://www.hackerrank.com/domains/sql)
 
+
+__________
+
+[facebook recruiting link](https://www.facebookrecruiting.com/portal/home)
+[fb data engineer prep](https://www.facebook.com/careers/DE-prep-initial)
+- material in /home/steve/tmp/facebook_interview_prep
+
+
+
+
+
 ### Aug 9
 
 Educative.io is good for knowing which problems to work on and sometimes have decent explanatinos.
