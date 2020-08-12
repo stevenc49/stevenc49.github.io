@@ -8,7 +8,7 @@ There are 135 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
-[Employees Earning More Than Their Managers](/problems/sql_employees_earning_more_than_managers) | 2020-08-11 | solved |  
+[Employees Earning More Than Their Managers](/problems/sql_employees_earning_more_than_managers) | 2020-08-11 | solved | sql 
 [combine 2 tables](/problems/sql_combine2tables) | 2020-08-11 | solved | sql 
 [Kth Largest Element in an Array](/problems/kthlargestElementInAnArray) | 2020-08-09 | Attempted | heap 
 [Merge K Sorted Linked Lists](/problems/mergeKSortedLinkedLists) | 2020-08-09 | Solved | heap 

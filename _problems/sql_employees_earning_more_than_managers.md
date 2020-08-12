@@ -2,7 +2,7 @@
 layout: page
 title:  Employees Earning More Than Their Managers
 last_solved: 
-category: 
+category: sql
 leetcode_url: https://leetcode.com/problems/employees-earning-more-than-their-managers
 status: solved
 ---
