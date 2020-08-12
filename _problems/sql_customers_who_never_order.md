@@ -46,9 +46,10 @@ Using the above tables as example, return the following:
 Solution
 ----------
 
+method 1: not in - subquery
+
 {% highlight sql %}
 
-# not in solution (sub query)
 select name as 'Customers'
 from Customers
 where id not in 
@@ -59,5 +60,18 @@ where id not in
 
 {% endhighlight %}
 
+___________
+
+left join and filter nulls
+
+{% highlight sql %}
+
+select c.name as 'Customers'
+from Customers c left join Orders o
+on c.id=o.customerid
+where o.customerid is null
+
+
+{% endhighlight %}
 
 ![image1]()
