@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Template
+title:  SQL Template
 last_solved: 
 category: 
 leetcode_url: 
