@@ -4,7 +4,7 @@ title:  combine 2 tables
 last_solved: 
 category: sql
 leetcode_url: https://leetcode.com/problems/combine-two-tables/
-status: Attempted
+status: solved
 ---
 
 Problem
