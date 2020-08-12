@@ -4,10 +4,12 @@ title:  Solved - Last Modified
 ---
 
 
-There are 136 problems solved.
+There are 138 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Template](/problems/sql_1template) | 2020-08-11 | Attempted |  
+[department highest salary](/problems/sql_department_highest_salary) | 2020-08-11 | solved | sql 
 [customers who never order](/problems/sql_customers_who_never_order) | 2020-08-11 | solved | sql 
 [Employees Earning More Than Their Managers](/problems/sql_employees_earning_more_than_managers) | 2020-08-11 | solved | sql 
 [combine 2 tables](/problems/sql_combine2tables) | 2020-08-11 | solved | sql 
