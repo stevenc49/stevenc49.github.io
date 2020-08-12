@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 133 problems solved.
+There are 134 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[combine 2 tables](/problems/leetcode_sql) | 2020-08-11 | Attempted | sql 
 [Kth Largest Element in an Array](/problems/kthlargestElementInAnArray) | 2020-08-09 | Attempted | heap 
 [Merge K Sorted Linked Lists](/problems/mergeKSortedLinkedLists) | 2020-08-09 | Solved | heap 
 [Path Sum](/problems/pathSum) | 2020-08-09 | Attempted |  
