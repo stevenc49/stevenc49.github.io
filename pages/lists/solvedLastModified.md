@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 135 problems solved.
+There are 136 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[customers who never order](/problems/sql_customers_who_never_order) | 2020-08-11 | solved | sql 
 [Employees Earning More Than Their Managers](/problems/sql_employees_earning_more_than_managers) | 2020-08-11 | solved | sql 
 [combine 2 tables](/problems/sql_combine2tables) | 2020-08-11 | solved | sql 
 [Kth Largest Element in an Array](/problems/kthlargestElementInAnArray) | 2020-08-09 | Attempted | heap 
