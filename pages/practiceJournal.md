@@ -22,6 +22,8 @@ if you can do 3-4 of them in 25 min, you're ready
 __________-
 
 sql resources
+
+- [coderpad.io sandbox](https://coderpad.io/launch-sandbox)
 - [summary of sql qustions on leetcode](https://byrony.github.io/summary-of-sql-questions-on-leetcode.html)
 - [What I realized after solving 100 leetcode SQL questions…](https://towardsdatascience.com/sql-questions-summary-df90bfe4c9c)
 - [hackerrank](https://www.hackerrank.com/domains/sql)
