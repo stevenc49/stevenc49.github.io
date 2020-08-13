@@ -5,7 +5,8 @@ title:  Practice Log
 
 ### Aug 13
 
-[my youtube channel](https://studio.youtube.com/channel)
+[my youtube channel](https://www.youtube.com/channel/UC_2uIVR51P4EuccbJOJvcQA/videos)
+[youtube studio dashboard](https://studio.youtube.com/channel)
 
 
 ### Aug 11
