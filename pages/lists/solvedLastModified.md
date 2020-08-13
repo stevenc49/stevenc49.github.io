@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 138 problems solved.
+There are 139 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Search in Rotated Sorted Array](/problems/searchInRotatedSortedArray) | 2020-08-13 | Attempted | binary search 
 [Find Min in Sorted Array](/problems/findMinInSortedArray) | 2020-08-13 | Attempted | binary search 
 [Search Insert Position](/problems/searchInsertPosition) | 2020-08-13 | Solved | binary search 
 [First Bad Version](/problems/firstBadVersion) | 2020-08-13 | Attempted | binary search 

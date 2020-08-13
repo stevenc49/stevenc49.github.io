@@ -76,6 +76,7 @@ Need to get way better at identifying and applying these.
 
 - [Search Matrix](/problems/matrixSearch)
 - [Find Min in Sorted Array](/problems/findMinInSortedArray)
+- [Search in rotated array](/problems/)
 - [Search Rotated Array](/problems/searchRotatedArray)
 - [Arrange Coins](/problems/arrangeCoins)
 
