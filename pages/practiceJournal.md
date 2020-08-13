@@ -3,6 +3,11 @@ layout: page
 title:  Practice Log
 ---
 
+### Aug 13
+
+[my youtube channel](https://studio.youtube.com/channel)
+
+
 ### Aug 11
 
 Interviews
