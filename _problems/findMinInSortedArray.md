@@ -2,12 +2,35 @@
 layout: page
 title:  Find Min in Sorted Array
 last_solved: 2020-07-27
-category: 
-leetcode_url: 
+category: binary search
+leetcode_url: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
 status: Attempted
 ---
 
+Problem
+-------
 
+```
+Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.
+
+(i.e.,  [0,1,2,4,5,6,7] might become  [4,5,6,7,0,1,2]).
+
+Find the minimum element.
+
+You may assume no duplicate exists in the array.
+
+Example 1:
+
+Input: [3,4,5,1,2] 
+Output: 1
+Example 2:
+
+Input: [4,5
+
+```
+
+Solution
+----------
 
 Try a more concise solution:
 
@@ -83,3 +106,29 @@ print(findMin(arr))
 {% endhighlight %}
 
 
+____________-
+
+
+Using the [powerful binary search template](https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems)
+
+{% highlight python %}
+
+def findMin(self, nums: List[int]) -> int:
+
+    left, right = 0, len(nums)-1
+    
+    while left<right:
+        
+        mid = (left+right)//2
+        
+        if nums[mid]<nums[right]:
+            
+            right = mid
+        
+        else:
+            
+            left = mid+1
+            
+    return nums[left]
+
+{% endhighlight %}

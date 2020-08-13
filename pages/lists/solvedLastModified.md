@@ -8,6 +8,7 @@ There are 138 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Find Min in Sorted Array](/problems/findMinInSortedArray) | 2020-08-13 | Attempted | binary search 
 [Search Insert Position](/problems/searchInsertPosition) | 2020-08-13 | Solved | binary search 
 [First Bad Version](/problems/firstBadVersion) | 2020-08-13 | Attempted | binary search 
 [SQL Template](/problems/sql_1template) | 2020-08-11 | Attempted |  
@@ -39,7 +40,6 @@ Problem | Last Modified | Status | Category
 [Kth Largest Element in a Stream](/problems/kthlargestElementInAStream) | 2020-07-28 | Attempted | heap 
 [Last Stone Weight](/problems/lastStoneWeight) | 2020-07-28 | Attempted | heap 
 [Task Scheduler](/problems/task_scheduler) | 2020-07-28 | Attempted | heap, greedy 
-[Find Min in Sorted Array](/problems/findMinInSortedArray) | 2020-07-27 | Attempted |  
 [Guess Number Higher or Lower](/problems/guessNumberHigherOrLower) | 2020-07-24 | Attempted |  
 [Sqrt(x)](/problems/sqrtx) | 2020-07-24 | Attempted | Binary Search 
 [All Paths from Source To Target](/problems/allPathsFromSourceToTarget) | 2020-07-24 | Attempted | graph, bfs, dfs 
