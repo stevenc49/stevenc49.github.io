@@ -50,8 +50,31 @@ print deepestLeavesSum(root)
 
 {% endhighlight %}
 
+_______________
 
 
+{% highlight python %}
 
+def deepestLeavesSum(self, root: TreeNode) -> int:
+    
+    lookup = defaultdict(int)
+    
+    def dfs(node, level):
+        
+        if not node:
+            return
+        
+        lookup[level] = lookup[level]+node.val
+        
+        dfs(node.left, level+1)
+        dfs(node.right, level+1)
+        
+    dfs(root, 0)
+    
+    print(lookup)
+    
+    return lookup[max(lookup)]
+
+{% endhighlight %}
 
 ![image1]()

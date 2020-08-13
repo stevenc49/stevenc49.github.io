@@ -8,6 +8,7 @@ There are 139 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Deepest Leaves Sum (DFS)](/problems/deepestLeavesSumDFS) | 2020-08-13 | Solved | trees 
 [Permutations](/problems/permutations) | 2020-08-13 | Solved | recursion, backtracking 
 [Search in Rotated Sorted Array](/problems/searchInRotatedSortedArray) | 2020-08-13 | Attempted | binary search 
 [Find Min in Sorted Array](/problems/findMinInSortedArray) | 2020-08-13 | Attempted | binary search 
@@ -60,7 +61,6 @@ Problem | Last Modified | Status | Category
 [Linked List Cycle II](/problems/llcycle2) | 2020-07-20 | Solved | linked list, cycle detection 
 [Remove Linked List Elements](/problems/removeLinkedListElements) | 2020-07-20 | Attempted | linkedlist 
 [Coin Change](/problems/coinChange) | 2020-07-17 | Solved | dp [bottom up] 
-[Deepest Leaves Sum (DFS)](/problems/deepestLeavesSumDFS) | 2020-07-17 | Solved | trees 
 [Top Frequent K Elements](/problems/topFrequentKElements) | 2020-07-17 | Attempted | heap 
 [Spiral Matrix](/problems/spiralMatrix) | 2020-07-16 | Attempted | matrix 
 [Pow(x, n)](/problems/powx-n) | 2020-07-16 | Attempted | bit manipulation 
