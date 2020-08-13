@@ -8,6 +8,7 @@ There are 138 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Search Insert Position](/problems/searchInsertPosition) | 2020-08-13 | Solved | binary search 
 [First Bad Version](/problems/firstBadVersion) | 2020-08-13 | Attempted | binary search 
 [SQL Template](/problems/sql_1template) | 2020-08-11 | Attempted |  
 [department highest salary](/problems/sql_department_highest_salary) | 2020-08-11 | solved | sql 
@@ -100,7 +101,6 @@ Problem | Last Modified | Status | Category
 [Rotate Image](/problems/rotateImage) | 2020-06-11 | Solved | matrix 
 [Rotate Matrix](/problems/rotateMatrix) | 2020-06-10 | Solved | Matrix 
 [Validate Sudoku](/problems/validateSudoku) | 2020-06-10 | Solved | matrix 
-[Search Insert Position](/problems/searchInsertPosition) | 2020-06-10 | Solved | binary search 
 [Is Subsequence](/problems/isSubSequence) | 2020-06-09 | Attempted | strings, 2ptr 
 [Search in Rotated Sorted Array](/problems/searchRotatedArray) | 2020-06-08 | Attempted | binary search 
 [Coin Change 2](/problems/coinChange2) | 2020-06-07 | Not Solved | dp 
