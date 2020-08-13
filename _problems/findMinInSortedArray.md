@@ -121,7 +121,7 @@ def findMin(self, nums: List[int]) -> int:
         
         mid = (left+right)//2
         
-        if nums[mid]<nums[right]:
+        if nums[mid]<nums[right]:   # this is the condition that we want to satisfy w.r.t. mid
             
             right = mid
         
