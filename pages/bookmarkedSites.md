@@ -69,6 +69,7 @@ Good leetcode grouped problems (from user wh0ami/whoami):
 - [Greedy](https://leetcode.com/discuss/general-discussion/669996/greedy-for-beginners-problems-sample-solutions)
 - [Binary Search](https://leetcode.com/discuss/general-discussion/691825/binary-search-for-beginners-problems-patterns-sample-solutions)
 - [Binary Search ZhiJun_liao](https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems)
+- [Binary Search 101](https://leetcode.com/problems/binary-search/discuss/423162/Binary-Search-101-The-Ultimate-Binary-Search-Handbook)
 
 
 Dynamic Programming Links
