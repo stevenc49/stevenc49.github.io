@@ -163,28 +163,25 @@ _________
 
 {% highlight python %}
 
-def permute2(nums):
-
-    def backtrack(currentList, allPermutations, nums):
-
+def permute(self, nums: List[int]) -> List[List[int]]:
+    
+    def backtrack(index, currentList, nums, output):
+        
+        # base case
         if len(currentList)==len(nums):
-            allPermutations.append(currentList.copy())
+            output.append( currentList.copy() )
         else:
+            
             for i in range(len(nums)):
-
+                
                 if nums[i] not in currentList:
-
-                    currentList.append(nums[i])
-                    print(currentList)
-
-                    backtrack(currentList, allPermutations, nums)
+                    currentList.append( nums[i] )
+                    backtrack( index+1, currentList, nums, output )
                     currentList.pop()
-                    print(currentList)
-
-
-    allPermutations = []
-    backtrack([], allPermutations, nums)
-    return allPermutations
+    
+    output = []
+    backtrack(0, [], nums, output)
+    return output
 
 {% endhighlight %}
 

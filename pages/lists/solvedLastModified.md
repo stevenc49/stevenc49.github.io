@@ -8,6 +8,7 @@ There are 139 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Permutations](/problems/permutations) | 2020-08-13 | Solved | recursion, backtracking 
 [Search in Rotated Sorted Array](/problems/searchInRotatedSortedArray) | 2020-08-13 | Attempted | binary search 
 [Find Min in Sorted Array](/problems/findMinInSortedArray) | 2020-08-13 | Attempted | binary search 
 [Search Insert Position](/problems/searchInsertPosition) | 2020-08-13 | Solved | binary search 
@@ -80,7 +81,6 @@ Problem | Last Modified | Status | Category
 [Binary Tree Level Order Traversal II](/problems/binaryTreeLevelOrder2) | 2020-07-02 | Not Solved | bfs 
 [Arrange Coins](/problems/arrangeCoins) | 2020-07-01 | Attempted | binary search 
 [Implement Trie](/problems/implementATrie) | 2020-06-30 | Attempted | Attempted 
-[Permutations](/problems/permutations) | 2020-06-29 | Solved | recursion, backtracking 
 [Unique Paths](/problems/uniquePaths) | 2020-06-29 | Solved | dp 
 [Perfect Squares](/problems/perfectSquaresa) | 2020-06-29 | Semi-Solved | dp [bottom up] 
 [Reconstruct Iternary](/problems/reconstructIternary) | 2020-06-28 | Not Solved | dfs, graph 
