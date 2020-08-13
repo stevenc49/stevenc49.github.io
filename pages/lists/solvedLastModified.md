@@ -8,6 +8,7 @@ There are 138 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[First Bad Version](/problems/firstBadVersion) | 2020-08-13 | Attempted | binary search 
 [SQL Template](/problems/sql_1template) | 2020-08-11 | Attempted |  
 [department highest salary](/problems/sql_department_highest_salary) | 2020-08-11 | solved | sql 
 [customers who never order](/problems/sql_customers_who_never_order) | 2020-08-11 | solved | sql 
@@ -28,7 +29,6 @@ Problem | Last Modified | Status | Category
 [Sort Colors](/problems/sortColors) | 2020-08-04 | Solved | arrays, sorting 
 [Find First and Last Position of Element in Sorted Array](/problems/searchForARange) | 2020-07-29 | Attempted | binary search 
 [Find Peak Element](/problems/findPeakElement) | 2020-07-29 | Attempted | binary search 
-[First Bad Version](/problems/firstBadVersion) | 2020-07-29 | Attempted | binary search 
 [Merge Sorted Array](/problems/mergeSortedArray) | 2020-07-29 | Attempted |  
 [Convert Sorted Array to Binary Search Tree](/problems/convertSortedArrayToBST) | 2020-07-29 | Attempted |  
 [Binary Tree Level Order Traversal](/problems/binaryTreeLevelOrder) | 2020-07-29 | Solved | bfs/dfs 
