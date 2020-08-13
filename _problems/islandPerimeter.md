@@ -97,3 +97,44 @@ def islandPerimeter(self, grid: List[List[int]]) -> int:
     return perimeter
 
 {% endhighlight %}
+
+
+______________
+
+
+using `self.variable` instead of nonlocal
+
+{% highlight python %}
+
+    def islandPerimeter(self, grid: List[List[int]]) -> int:
+        
+        R = len(grid)
+        C = len(grid[0])
+        
+        self.perimeter = 0
+        
+        def dfs(i,j):
+            
+            
+            # if out of bounds, add 1 to perimeter
+            if i<0 or i>=R or j<0 or j>=C or grid[i][j]==0:
+                self.perimeter+=1
+                return
+            
+            # recurse
+            if grid[i][j]==1:
+                grid[i][j] = 2  # mark visited
+                dfs(i-1,j)
+                dfs(i+1,j)
+                dfs(i,j-1)
+                dfs(i,j+1)
+            
+        for i in range(R):
+            for j in range(C):
+                
+                if grid[i][j]==1:
+                    dfs(i,j)
+                    
+        return self.perimeter
+
+{% endhighlight %}

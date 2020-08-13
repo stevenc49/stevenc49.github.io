@@ -8,6 +8,7 @@ There are 139 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Island Perimeter](/problems/islandPerimeter) | 2020-08-13 | Solved | matrix 
 [Deepest Leaves Sum (DFS)](/problems/deepestLeavesSumDFS) | 2020-08-13 | Solved | trees 
 [Permutations](/problems/permutations) | 2020-08-13 | Solved | recursion, backtracking 
 [Search in Rotated Sorted Array](/problems/searchInRotatedSortedArray) | 2020-08-13 | Attempted | binary search 
@@ -70,7 +71,6 @@ Problem | Last Modified | Status | Category
 [Flatten a Multilevel Doubly Linked List](/problems/flattenMultilevelDoublyLinkedList) | 2020-07-10 | Attempted | linked list 
 [Max Width of Binary Tree](/problems/maxWidthOfBinaryTree) | 2020-07-10 | Solved | trees 
 [Three Sum](/problems/threeSum) | 2020-07-09 | Attempted | array 
-[Island Perimeter](/problems/islandPerimeter) | 2020-07-07 | Solved | matrix 
 [Longest Palindromic Substring](/problems/longestPalindromicSubstring) | 2020-07-07 | Solved |  
 [Increasing Triplet Subsequence](/problems/increasingTripletSubsequence) | 2020-07-07 | Solved | dp 
 [Plus One](/problems/plusOne) | 2020-07-06 | Solved | array, math 
