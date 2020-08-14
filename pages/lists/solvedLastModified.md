@@ -8,7 +8,7 @@ There are 140 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
-[Reverse Vowels Of a String](/problems/reverseVowelsFromAString) | 2020-08-14 | Attempted | string 
+[Reverse Vowels Of a String](/problems/reverseVowelsFromAString) | 2020-08-14 | Solved | string 
 [Island Perimeter](/problems/islandPerimeter) | 2020-08-13 | Solved | matrix 
 [Deepest Leaves Sum (DFS)](/problems/deepestLeavesSumDFS) | 2020-08-13 | Solved | trees 
 [Permutations](/problems/permutations) | 2020-08-13 | Solved | recursion, backtracking 

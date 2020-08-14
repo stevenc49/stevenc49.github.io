@@ -4,7 +4,7 @@ title:  Reverse Vowels Of a String
 last_solved: 
 category: string
 leetcode_url: https://leetcode.com/problems/reverse-vowels-of-a-string/submissions/
-status: Attempted
+status: Solved
 ---
 
 Problem
