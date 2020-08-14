@@ -8,6 +8,7 @@ There are 140 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Is Tree Symmetric?](/problems/isSymmetricTree) | 2020-08-14 |  |  
 [Buy and Sell Stock 2](/problems/buyAndSellStock2) | 2020-08-14 | Solved | array 
 [Reverse Vowels Of a String](/problems/reverseVowelsFromAString) | 2020-08-14 | Solved | string 
 [Island Perimeter](/problems/islandPerimeter) | 2020-08-13 | Solved | matrix 
@@ -140,7 +141,6 @@ Problem | Last Modified | Status | Category
 [Serialize & Deserialize Tree](/problems/serializeTree) | 2020-05-11 |  |  
 [Deepest Leaves Sum (BFS)](/problems/deepestLeavesSumBFS) | 2020-05-11 |  |  
 [Is Tree Balanced?](/problems/isTreeBalanced) | 2020-05-11 |  |  
-[Is Tree Symmetric?](/problems/symmetricTree) | 2020-05-11 |  |  
 [Is Sub Tree?](/problems/isSubtree) | 2020-05-11 |  |  
 [Max Depth of Tree](/problems/maxDepth) | 2020-05-11 |  |  
 [Merge Sorted Linked List (Recursive)](/problems/mergeSortedLLrecur) | 2020-05-11 |  |  

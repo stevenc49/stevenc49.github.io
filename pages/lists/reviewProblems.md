@@ -48,14 +48,14 @@ Whenever problem asks for kth largest or kth smallest. Think heap.
 - [Deepest Leaves Sum BFS](/problems/deepestLeavesSumBFS)
 - [Deepest Leaves Sum DFS](/problems/deepestLeavesSumDFS)
 - [Validate BST](/problems/validateBST)
-- LCA Binary Tree (No parent pointers)
+- [LCA Binary Tree (No parent pointers)](/problems/lcaBinaryTree)
 - Easy Tree Problems
-    - Max Depth
-    - Is Tree Balanced
-    - Is Same Tree
-    - Is Symmetric Tree?
-    - Is Sub Tree
-    - Invert/Reverse Tree
+    - [Max Depth](/problems/maxDepth)
+    - [Is Tree Balanced](/problems/isTreeBalanced)
+    - [Is Same Tree](/problems/isSameTree)
+    - [Is Symmetric Tree?](/problems/isSymmetricTree)
+    - [Is Sub Tree](/problems/isSubTree)
+    - [Invert/Reverse Tree](/problems/invertTree)
 
 #### BFS (Trees)
 
