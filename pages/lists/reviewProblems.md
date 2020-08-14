@@ -54,7 +54,7 @@ Whenever problem asks for kth largest or kth smallest. Think heap.
     - [Is Tree Balanced](/problems/isTreeBalanced)
     - [Is Same Tree](/problems/isSameTree)
     - [Is Symmetric Tree?](/problems/isSymmetricTree)
-    - [Is Sub Tree](/problems/isSubTree)
+    - [Is Sub Tree](/problems/isSubtree)
     - [Invert/Reverse Tree](/problems/invertTree)
 
 #### BFS (Trees)
