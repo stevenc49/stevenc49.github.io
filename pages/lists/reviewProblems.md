@@ -34,6 +34,7 @@ Whenever problem asks for kth largest or kth smallest. Think heap.
 
 - [Longest Common Prefix](/problems/longestCommonPrefix)
 - [Longest Substring without Repeating Characters](/problems/longestSubstringWithoutRepeatingChars)
+- [Reverse Vowels from a String](/problems/reverseVowelsFromAString)
 
 #### Math
 
