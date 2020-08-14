@@ -3,6 +3,12 @@ layout: page
 title:  Practice Log
 ---
 
+### Aug 14
+
+[back2backswe course](https://backtobackswe.com/pricing?utm_source=facebook&utm_medium=cpm&utm_campaign=23844860978500459&utm_content=23844860982700459&fbclid=IwAR3YvZ76JBQ2Mg_By8XxRbNMPH-wfkFOSMFs3dVSQTCi9Rpj7jgKVou3eTY)
+
+
+
 ### Aug 13
 
 [my youtube channel](https://www.youtube.com/channel/UC_2uIVR51P4EuccbJOJvcQA/videos)
