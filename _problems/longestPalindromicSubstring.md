@@ -2,7 +2,7 @@
 layout: page
 title:  Longest Palindromic Substring
 last_solved: 
-category: 
+category: string, palindrome
 leetcode_url: 
 status: Solved
 ---

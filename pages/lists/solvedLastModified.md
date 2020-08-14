@@ -8,6 +8,8 @@ There are 140 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Longest Palindromic Substring](/problems/longestPalindromicSubstring) | 2020-08-14 | Solved | string, palindrome 
+[Is Subsequence](/problems/isSubSequence) | 2020-08-14 | Attempted | strings, 2ptr 
 [Is Tree Symmetric?](/problems/isSymmetricTree) | 2020-08-14 |  |  
 [Buy and Sell Stock 2](/problems/buyAndSellStock2) | 2020-08-14 | Solved | array 
 [Reverse Vowels Of a String](/problems/reverseVowelsFromAString) | 2020-08-14 | Solved | string 
@@ -74,7 +76,6 @@ Problem | Last Modified | Status | Category
 [Flatten a Multilevel Doubly Linked List](/problems/flattenMultilevelDoublyLinkedList) | 2020-07-10 | Attempted | linked list 
 [Max Width of Binary Tree](/problems/maxWidthOfBinaryTree) | 2020-07-10 | Solved | trees 
 [Three Sum](/problems/threeSum) | 2020-07-09 | Attempted | array 
-[Longest Palindromic Substring](/problems/longestPalindromicSubstring) | 2020-07-07 | Solved |  
 [Increasing Triplet Subsequence](/problems/increasingTripletSubsequence) | 2020-07-07 | Solved | dp 
 [Plus One](/problems/plusOne) | 2020-07-06 | Solved | array, math 
 [Set Matrix Zeros](/problems/setMatrixZeros) | 2020-07-05 |  |  
@@ -105,7 +106,6 @@ Problem | Last Modified | Status | Category
 [Rotate Image](/problems/rotateImage) | 2020-06-11 | Solved | matrix 
 [Rotate Matrix](/problems/rotateMatrix) | 2020-06-10 | Solved | Matrix 
 [Validate Sudoku](/problems/validateSudoku) | 2020-06-10 | Solved | matrix 
-[Is Subsequence](/problems/isSubSequence) | 2020-06-09 | Attempted | strings, 2ptr 
 [Search in Rotated Sorted Array](/problems/searchRotatedArray) | 2020-06-08 | Attempted | binary search 
 [Coin Change 2](/problems/coinChange2) | 2020-06-07 | Not Solved | dp 
 [First Unque Char in String](/problems/firstNonRepeatingChar) | 2020-06-07 | Solved | string 

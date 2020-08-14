@@ -18,8 +18,6 @@ A subsequence of a string is a new string which is formed from the original stri
 Follow up:
 If there are lots of incoming S, say S1, S2, ... , Sk where k >= 1B, and you want to check one by one to see if T has its subsequence. In this scenario, how would you change your code?
 
-Credits:
-Special thanks to @pbrother for adding this problem and creating all test cases.
 
  
 
