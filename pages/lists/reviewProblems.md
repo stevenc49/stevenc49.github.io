@@ -131,17 +131,21 @@ Can only solve these if seen before
 - Perfect Squares
 - [Unique BST](/problems/uniqueBST)
 - Easy
-    - Buy and Sell stocks I and II
-    - House Robber I and II
-    - max subarray
-    - max product subarray
+    - [Buy and sell stock i](/problems/buyAndSellStock)
+    - [Buy and sell stock 2](/problems/buyAndSellStock2)
+    - [House robber 1](/problems/houseRobber)
+    - [House robber 12](/problems/houseRobber2)
+    - [max subarray](/problems/maxSubarray)
+    - [max product subarray](/problems/maxProductSubarray)
 
 #### Recursion / Backtracking
 
-Really need to work on these
+Solvable with backtracking template. Need to articulate them better.
 
 - [Permutation](/problems/permutations)
+- [Permutation (cascading)](/problems/permutationsCascading)
 - [Subsets](/problems/subsets)
+- [Subsets (cascading)](/problems/subsetsCascading)
 - [Generate Parenthesis](/problems/generateParanthesis)
 
 #### Flood Fill

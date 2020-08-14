@@ -8,6 +8,7 @@ There are 140 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Buy and Sell Stock 2](/problems/buyAndSellStock2) | 2020-08-14 | Solved | array 
 [Reverse Vowels Of a String](/problems/reverseVowelsFromAString) | 2020-08-14 | Solved | string 
 [Island Perimeter](/problems/islandPerimeter) | 2020-08-13 | Solved | matrix 
 [Deepest Leaves Sum (DFS)](/problems/deepestLeavesSumDFS) | 2020-08-13 | Solved | trees 
@@ -115,7 +116,6 @@ Problem | Last Modified | Status | Category
 [Remove Duplicate from Sorted Array](/problems/removeDupFromSortedArray) | 2020-06-03 | Solved | array, 2ptr 
 [Merge Intervals](/problems/mergeIntervals) | 2020-06-03 | Attempted | intervals 
 [Move Zeros](/problems/moveZeros) | 2020-06-02 | Solved | array 
-[Buy and Sell Stock 2](/problems/buyAndSellStock copy) | 2020-06-02 | Solved | array 
 [Buy and Sell Stock](/problems/buyAndSellStock) | 2020-06-02 | Solved | array 
 [Single Number](/problems/singleNumber) | 2020-06-02 | Solved | array, bit manipulation 
 [Reverse Integer](/problems/reverseInteger) | 2020-06-02 | Solved | math 
