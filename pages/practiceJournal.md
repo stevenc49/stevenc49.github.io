@@ -8,6 +8,11 @@ title:  Practice Log
 [back2backswe course](https://backtobackswe.com/pricing?utm_source=facebook&utm_medium=cpm&utm_campaign=23844860978500459&utm_content=23844860982700459&fbclid=IwAR3YvZ76JBQ2Mg_By8XxRbNMPH-wfkFOSMFs3dVSQTCi9Rpj7jgKVou3eTY)
 
 
+Worked on:
+- top k frequent elements
+- k most frequent elements
+- move zeros
+- reverse vowels of a string
 
 ### Aug 13
 
