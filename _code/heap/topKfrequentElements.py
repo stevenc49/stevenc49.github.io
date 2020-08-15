@@ -35,3 +35,61 @@ def topKFrequent2(nums, k):
 
 
 print(topKFrequent2(nums, 2))
+
+
+____________
+
+
+{% highlight python %}
+
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+
+#         [a,a,a,b,b,b,c]
+        
+#         {
+#             k:v
+#             a:3
+#             b:3
+#             c:1
+#         }
+        
+#         map.keys()=[a,b,c]
+#         map.values()=[3,3,1]
+        
+#         map.items()
+        
+        minHeap=[]
+        c = Counter(nums)
+        
+        for n in c.values():
+            
+            heapq.heappush(minHeap, n)
+            
+            if len(minHeap)>k:
+                heapq.heappop(minHeap)
+        
+        # minHeap = [3,3]
+        
+#         {
+#             k:v
+#             a:3
+#             b:3
+#             c:1
+#         }
+        
+    
+        out = []        
+        # for k,v in c.items():
+        #     for freq in minHeap:
+        #         if freq==v:
+        #             out.append(k)
+        #             break
+
+        for k,v in c.items():
+            if v in minHeap:
+                out.append(k)
+        
+        return out
+
+
+{% endhighlight %}
