@@ -13,7 +13,7 @@ It is sorted by category. This list will continually change as your skill level 
 - [Water with Most Water](/problems/waterWithMostWater)
 - [Intersection of Two Arrays](/problems/intersectionOfTwoArrays2)
 - [Move Zeros](/problems/moveZeros)
-- [Remove Duplicates From Sorted Array](/problems/removeDupsFromSortedArray)
+- [Remove Duplicates From Sorted Array](/problems/removeDupFromSortedArray)
 - [Three Sum](/problems/threeSum)
 
 #### HashTables
