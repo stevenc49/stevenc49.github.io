@@ -72,4 +72,27 @@ print(topKFrequent2(nums, 2))
 {% endhighlight %}
 
 
+____________
+
+
+def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+    
+    minHeap=[]
+    c = Counter(nums)
+    
+    for n in c.values():
+        
+        heapq.heappush(minHeap, n)
+        
+        if len(minHeap)>k:
+            heapq.heappop(minHeap)
+    
+
+    out = []        
+    for k,v in c.items():
+        if v in minHeap:
+            out.append(k)
+    
+    return out
+
 ![image1]()
