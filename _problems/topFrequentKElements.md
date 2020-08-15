@@ -75,6 +75,9 @@ print(topKFrequent2(nums, 2))
 ____________
 
 
+
+{% highlight python %}
+
 def topKFrequent(self, nums: List[int], k: int) -> List[int]:
     
     minHeap=[]
@@ -94,5 +97,7 @@ def topKFrequent(self, nums: List[int], k: int) -> List[int]:
             out.append(k)
     
     return out
+
+{% endhighlight %}
 
 ![image1]()

@@ -28,6 +28,9 @@ Solution
 - Move nonZeros to front (oveeride)
 - fill the rest of the array with zeros
 
+
+Override and replace the rest with zeros
+
 {% highlight python %}
 
 def moveZeroes(self, nums: List[int]) -> None:
@@ -55,5 +58,33 @@ def moveZeroes(self, nums: List[int]) -> None:
 
 {% endhighlight %}
 
+
+_________
+
+
+
+{% highlight python %}
+
+def moveZeroes(self, nums: List[int]) -> None:
+    
+    z = None
+    for i in range(len(nums)):
+        
+        if nums[i]==0 and z is None:
+            z = i
+
+        elif nums[i]!=0 and z is None:
+            
+            continue
+            
+        elif nums[i]!=0:
+            
+            tmp = nums[i]
+            nums[i]=nums[z]
+            nums[z]=tmp
+        
+            z+=1
+
+{% endhighlight %}
 
 ![image1]()

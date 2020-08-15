@@ -8,6 +8,7 @@ There are 140 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Move Zeros](/problems/moveZeros) | 2020-08-15 | Solved | array 
 [Top Frequent K Elements](/problems/topFrequentKElements) | 2020-08-14 | Attempted | heap 
 [Longest Palindromic Substring](/problems/longestPalindromicSubstring) | 2020-08-14 | Solved | string, palindrome 
 [Is Subsequence](/problems/isSubSequence) | 2020-08-14 | Attempted | strings, 2ptr 
@@ -116,7 +117,6 @@ Problem | Last Modified | Status | Category
 [Two City Scheduling](/problems/twoCityScheduling) | 2020-06-04 | Attempted | greedy 
 [Remove Duplicate from Sorted Array](/problems/removeDupFromSortedArray) | 2020-06-03 | Solved | array, 2ptr 
 [Merge Intervals](/problems/mergeIntervals) | 2020-06-03 | Attempted | intervals 
-[Move Zeros](/problems/moveZeros) | 2020-06-02 | Solved | array 
 [Buy and Sell Stock](/problems/buyAndSellStock) | 2020-06-02 | Solved | array 
 [Single Number](/problems/singleNumber) | 2020-06-02 | Solved | array, bit manipulation 
 [Reverse Integer](/problems/reverseInteger) | 2020-06-02 | Solved | math 
