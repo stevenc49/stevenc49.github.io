@@ -61,6 +61,10 @@ Mock Interviews
 
 
 
+Facebook questions
+-----------------
+[facebook phone interview questions](https://leetcode.com/discuss/interview-question/790428/facebook-phone-interview-questions)
+
 
 Good leetcode grouped problems (from user wh0ami/whoami):
 - [Graphs](https://leetcode.com/discuss/general-discussion/655708/graph-problems-for-beginners-practice-problems-and-sample-solutions)
