@@ -45,7 +45,7 @@ sql resources
 - [What I realized after solving 100 leetcode SQL questions…](https://towardsdatascience.com/sql-questions-summary-df90bfe4c9c)
 - [hackerrank](https://www.hackerrank.com/domains/sql)
 - [advanced sql q&a](https://www.programmerinterview.com/database-sql/advanced-sql-interview-questions-and-answers/)
-
+- [sql zoo](https://sqlzoo.net/)
 __________
 
 [facebook recruiting link](https://www.facebookrecruiting.com/portal/home)
