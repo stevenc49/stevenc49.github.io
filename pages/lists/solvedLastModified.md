@@ -8,6 +8,7 @@ There are 140 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Merge Intervals](/problems/mergeIntervals) | 2020-08-17 | Attempted | intervals 
 [Move Zeros](/problems/moveZeros) | 2020-08-15 | Solved | array 
 [Top Frequent K Elements](/problems/topFrequentKElements) | 2020-08-14 | Attempted | heap 
 [Longest Palindromic Substring](/problems/longestPalindromicSubstring) | 2020-08-14 | Solved | string, palindrome 
@@ -116,7 +117,6 @@ Problem | Last Modified | Status | Category
 [Rotate Array](/problems/rotateArray) | 2020-06-04 | Semi-Solved, Multiple solutions | array 
 [Two City Scheduling](/problems/twoCityScheduling) | 2020-06-04 | Attempted | greedy 
 [Remove Duplicate from Sorted Array](/problems/removeDupFromSortedArray) | 2020-06-03 | Solved | array, 2ptr 
-[Merge Intervals](/problems/mergeIntervals) | 2020-06-03 | Attempted | intervals 
 [Buy and Sell Stock](/problems/buyAndSellStock) | 2020-06-02 | Solved | array 
 [Single Number](/problems/singleNumber) | 2020-06-02 | Solved | array, bit manipulation 
 [Reverse Integer](/problems/reverseInteger) | 2020-06-02 | Solved | math 

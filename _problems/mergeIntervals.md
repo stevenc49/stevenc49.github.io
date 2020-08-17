@@ -19,6 +19,9 @@ If the prev[1] > curr[0], that means there's a merge and you just replace it wit
 
 Otherwise, just append to the merged output array.
 
+O(n*logn) time (linear time to go thru intervals, sort at beginning takes logn)
+O(n) space
+
 {% highlight python %}
 
 
