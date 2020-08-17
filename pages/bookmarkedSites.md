@@ -66,6 +66,8 @@ Facebook questions
 [facebook phone interview questions](https://leetcode.com/discuss/interview-question/790428/facebook-phone-interview-questions)
 
 
+[Must Do Easy and Medium Problems](https://leetcode.com/discuss/career/449135/How-to-effectively-use-LeetCode-to-prepare-for-interviews)
+
 Good leetcode grouped problems (from user wh0ami/whoami):
 - [Graphs](https://leetcode.com/discuss/general-discussion/655708/graph-problems-for-beginners-practice-problems-and-sample-solutions)
 - [Sliding Windows](https://leetcode.com/discuss/general-discussion/657507/sliding-window-for-beginners-problems-template-sample-solutions)

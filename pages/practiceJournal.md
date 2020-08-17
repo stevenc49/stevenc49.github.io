@@ -3,6 +3,28 @@ layout: page
 title:  Practice Log
 ---
 
+### Aug 17
+
+Topics from groking
+--------------------
+Pattern: Sliding Window
+Pattern: Two Pointers
+Pattern: Fast & Slow pointers
+Pattern: Merge Intervals
+Pattern: Cyclic Sort
+Pattern: In-place Reversal of a LinkedList
+Pattern: Tree Breadth First Search
+Pattern: Tree Depth First Search
+Pattern: Two Heaps
+Pattern: Subsets
+Pattern: Modified Binary Search
+Pattern: Bitwise XOR
+Pattern: Top 'K' Elements
+Pattern: K-way merge
+Pattern : 0/1 Knapsack (Dynamic Programming)
+Pattern: Topological Sort (Graph)
+
+
 ### Aug 14
 
 [back2backswe course](https://backtobackswe.com/pricing?utm_source=facebook&utm_medium=cpm&utm_campaign=23844860978500459&utm_content=23844860982700459&fbclid=IwAR3YvZ76JBQ2Mg_By8XxRbNMPH-wfkFOSMFs3dVSQTCi9Rpj7jgKVou3eTY)
