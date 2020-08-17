@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 140 problems solved.
+There are 141 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Insert Interval](/problems/insertInterval) | 2020-08-17 | Attempted | intervals 
 [Merge Intervals](/problems/mergeIntervals) | 2020-08-17 | Attempted | intervals 
 [Move Zeros](/problems/moveZeros) | 2020-08-15 | Solved | array 
 [Top Frequent K Elements](/problems/topFrequentKElements) | 2020-08-14 | Attempted | heap 
