@@ -37,6 +37,8 @@ Whenever problem asks for kth largest or kth smallest. Think heap.
 - [Reverse Vowels from a String](/problems/reverseVowelsFromAString)
 - [Is Subsequence](/problems/isSubSequence)
 - [Longest Palindromic Substring](/problems/longestPalindromicSubstring)
+- implement strstr
+
 
 #### Math
 
