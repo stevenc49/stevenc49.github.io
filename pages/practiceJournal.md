@@ -3,6 +3,12 @@ layout: page
 title:  Practice Log
 ---
 
+### Aug 18
+
+Got [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) problem on pramp. I saw it before, got the algorithm with help but couldn't write code for it.
+
+
+
 ### Aug 17
 
 Topics from groking
