@@ -2,7 +2,7 @@
 layout: page
 title:  Ransom Note
 last_solved: 
-category: 
+category: string
 leetcode_url: https://leetcode.com/problems/ransom-note
 status: Attempted
 ---
