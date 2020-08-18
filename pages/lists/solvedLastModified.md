@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 141 problems solved.
+There are 142 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Shortest Cell Path](/problems/shortestPathCells) | 2020-08-17 | Attempted |  
 [Insert Interval](/problems/insertInterval) | 2020-08-17 | Attempted | intervals 
 [Merge Intervals](/problems/mergeIntervals) | 2020-08-17 | Attempted | intervals 
 [Move Zeros](/problems/moveZeros) | 2020-08-15 | Solved | array 
