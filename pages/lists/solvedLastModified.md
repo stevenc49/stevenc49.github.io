@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 143 problems solved.
+There are 144 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Ransom Note](/problems/ransomNote) | 2020-08-18 | Attempted |  
 [Implement strstr](/problems/implement_strstr) | 2020-08-18 | Attempted | string 
 [Shortest Cell Path](/problems/shortestPathCells) | 2020-08-18 | Attempted |  
 [Insert Interval](/problems/insertInterval) | 2020-08-17 | Attempted | intervals 
