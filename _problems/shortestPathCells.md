@@ -82,4 +82,30 @@ def shortestCellPath(grid, sr, sc, tr, tc):
 {% endhighlight %}
 
 
+___________
+
+{% highlight python %}
+
+def shortestCellPath(grid, sr, sc, tr, tc):
+  min_distance=[float('inf')] #pass by ref and can be updates at any point
+  traverse([sr,sc],[tr,tc],min_distance,grid,0)
+  return min_distance[0] if min_distance[0]!=float('inf') else -1
+
+def traverse(start,end,Min,grid,depth):
+  [i,j]=start
+  [i1,j1]=end
+  if i<0 or j<0 or i>=len(grid) or j>=len(grid[0]):
+    return
+  if grid[i][j]==0:
+    return
+  if i==i1 and j==j1:
+    Min[0]=min(Min[0],depth)
+    return
+  grid[i][j]=0
+  
+  for  paths in [i+1,j],[i-1,j],[i,j-1],[i,j+1]:
+    traverse(paths,end,Min,grid,depth+1)
+
+{% endhighlight %}
+
 ![image1]()
