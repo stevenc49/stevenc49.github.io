@@ -7,6 +7,8 @@ title:  Practice Log
 
 Got [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) problem on pramp. I saw it before, got the algorithm with help but couldn't write code for it.
 
+[company specific questions list](https://github.com/MysteryVaibhav/leetcode_company_wise_questions)
+
 
 
 ### Aug 17
