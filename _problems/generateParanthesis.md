@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Generate Parenthesis
-last_solved: 2020-06-25
+last_solved: 2020-08-18
 category: backtracking
 leetcode_url: https://leetcode.com/problems/generate-parentheses/
 status: Attempted
