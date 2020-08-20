@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 146 problems solved.
+There are 147 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Reformat Department table](/problems/reformat_department) | 2020-08-20 | Attempted |  
 [Generate Parenthesis](/problems/generateParanthesis) | 2020-08-19 | Attempted | backtracking 
 [nth digit](/problems/nthdigit) | 2020-08-19 | Attempted | math 
 [Product of Array Except Self](/problems/productOfArrayExceptSelf) | 2020-08-19 | Attempted |  
