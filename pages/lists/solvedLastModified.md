@@ -4,10 +4,13 @@ title:  Solved - Last Modified
 ---
 
 
-There are 144 problems solved.
+There are 146 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Generate Parenthesis](/problems/generateParanthesis) | 2020-08-19 | Attempted | backtracking 
+[nth digit](/problems/nthdigit) | 2020-08-19 | Attempted | math 
+[Product of Array Except Self](/problems/productOfArrayExceptSelf) | 2020-08-19 | Attempted |  
 [Shortest Cell Path](/problems/shortestPathCells) | 2020-08-18 | Attempted |  
 [Ransom Note](/problems/ransomNote) | 2020-08-18 | Attempted | string 
 [Implement strstr](/problems/implement_strstr) | 2020-08-18 | Attempted | string 
@@ -87,7 +90,6 @@ Problem | Last Modified | Status | Category
 [Set Matrix Zeros](/problems/setMatrixZeros) | 2020-07-05 |  |  
 [Ugly Num II](/problems/uglyNum2) | 2020-07-04 | Attempted | math 
 [Prison cells after n days](/problems/prisonCellsAfterNDays) | 2020-07-03 | Semi-Solved | arrays 
-[Generate Parenthesis](/problems/generateParanthesis) | 2020-07-02 | Attempted | backtracking 
 [Binary Tree Level Order Traversal II](/problems/binaryTreeLevelOrder2) | 2020-07-02 | Not Solved | bfs 
 [Arrange Coins](/problems/arrangeCoins) | 2020-07-01 | Attempted | binary search 
 [Implement Trie](/problems/implementATrie) | 2020-06-30 | Attempted | Attempted 

@@ -3,6 +3,14 @@ layout: page
 title:  Practice Log
 ---
 
+### Aug 20
+
+Getting very burnt out but my facebook interview phone screen is coming up in 2 weeks.
+
+I'm just going to have to find the build a curriculum and follow thru. Leetcoding is something that I'm not going to enjoy and never will but I will have to do it to continue living a better life. Much like going on a run or exercising.
+
+
+
 ### Aug 18
 
 Got [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) problem on pramp. I saw it before, got the algorithm with help but couldn't write code for it.
