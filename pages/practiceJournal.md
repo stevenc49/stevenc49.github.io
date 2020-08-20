@@ -10,6 +10,8 @@ Getting very burnt out but my facebook interview phone screen is coming up in 2 
 I'm just going to have to find the build a curriculum and follow thru. Leetcoding is something that I'm not going to enjoy and never will but I will have to do it to continue living a better life. Much like going on a run or exercising.
 
 
+Things are getting busier at work. Not caring and doing the minimum has been working and it helps my sanity.
+
 
 ### Aug 18
 
