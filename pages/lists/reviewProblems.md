@@ -151,6 +151,7 @@ Solvable with backtracking template. Need to articulate them better.
 - [Subsets](/problems/subsets)
 - [Subsets (cascading)](/problems/subsetsCascading)
 - [Generate Parenthesis](/problems/generateParanthesis)
+- [Combination Sum](/problems/combination_sum)
 
 #### Flood Fill
 

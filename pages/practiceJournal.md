@@ -12,6 +12,11 @@ I'm just going to have to find the build a curriculum and follow thru. Leetcodin
 
 Things are getting busier at work. Not caring and doing the minimum has been working and it helps my sanity.
 
+As for leetcode and studying for interviews when your interview is coming up.
+=> admit that you wont be able to remember all your problems so just make it a plan to study all the ones that you have reviewed
+=> focus on quantity than quality
+
+
 
 ### Aug 18
 
