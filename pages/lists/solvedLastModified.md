@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 148 problems solved.
+There are 149 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Duplicate Emails](/problems/sql_dupicate_emails) | 2020-08-20 | Attempted | sql 
 [Reformat Department table](/problems/sql_reformat_department) | 2020-08-20 | Attempted | sql 
 [Delete Duplicate Emails](/problems/sql_delete_duplicate_emails) | 2020-08-20 | Attempted | sql 
 [SQL Template](/problems/sql_1template) | 2020-08-20 | Attempted | sql 
