@@ -37,23 +37,23 @@ Use dfs helper to pass down currentSum. Check if leaf node and sumTotal==targetS
 
 {% highlight python %}
 
-def hasPathSum(self, root, sum):
+    def hasPathSum(self, root: TreeNode, sum: int) -> bool:
 
-    if not root:
-        return False
+        def dfs(node, currentSum, targetSum):
 
-    def dfs(node, currentSum, targetSum):
-        
-        # if current node is leaf and sum of all vals == targetSum
-        if node.left is None and node.right is None and currentSum + node.val == targetSum:
-            return True
+            if not node:
+                return False
+            
+            # if current node is leaf and sum of all vals == targetSum
+            if node.left is None and node.right is None and currentSum + node.val == targetSum:
+                return True
 
-        leftRes = dfs(node.left, currentSum + node.val, targetSum)
-        rightRes = dfs(node.right, currentSum + node.val, targetSum)
+            leftRes = dfs(node.left, currentSum + node.val, targetSum)
+            rightRes = dfs(node.right, currentSum + node.val, targetSum)
 
-        return leftRes or rightRes
+            return leftRes or rightRes
 
-    return dfs(root, 0, sum)
+        return dfs(root, 0, sum)
 
 {% endhighlight %}
 

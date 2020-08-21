@@ -8,6 +8,7 @@ There are 152 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Path Sum](/problems/pathSum) | 2020-08-20 | Attempted |  
 [Reorder List](/problems/reorder_list) | 2020-08-20 | Attempted | linked list 
 [Insert into BST](/problems/insertIntoBST) | 2020-08-20 | Attempted | tree 
 [Number Complement](/problems/number_compliment) | 2020-08-20 | Attempted | binary 
@@ -43,7 +44,6 @@ Problem | Last Modified | Status | Category
 [combine 2 tables](/problems/sql_combine2tables) | 2020-08-11 | solved | sql 
 [Kth Largest Element in an Array](/problems/kthlargestElementInAnArray) | 2020-08-09 | Attempted | heap 
 [Merge K Sorted Linked Lists](/problems/mergeKSortedLinkedLists) | 2020-08-09 | Solved | heap 
-[Path Sum](/problems/pathSum) | 2020-08-09 | Attempted |  
 [Permutations (Cascading)](/problems/permutationsCascading) | 2020-08-09 | Solved | cascading 
 [Subsets (Cascading)](/problems/subsetsCascading) | 2020-08-09 | Solved | cascading 
 [BFS](/problems/bfs) | 2020-08-08 | Solved | bfs 
