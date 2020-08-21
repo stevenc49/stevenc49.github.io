@@ -17,6 +17,11 @@ As for leetcode and studying for interviews when your interview is coming up.
 => focus on quantity than quality
 
 
+___________-
+
+
+Today, I'm feeling kinda meh but I've gotten in the zone by doing random questions and SQL problems. Sometimes it's nice to just do random problems and figure it out as you go along without any pressure.
+
 
 ### Aug 18
 
