@@ -55,6 +55,7 @@ Whenever problem asks for kth largest or kth smallest. Think heap.
 - [LCA Binary Tree (No parent pointers)](/problems/lcaBinaryTree)
 - [Path Sum](/problems/pathSum)
 - [Path Sum 2](/problems/pathSum2)
+- [Path Sum 3](/problems/pathSum3)
 - Easy Tree Problems
     - [Max Depth](/problems/maxDepth)
     - [Is Tree Balanced](/problems/isTreeBalanced)
