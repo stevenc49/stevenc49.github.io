@@ -1,9 +1,9 @@
 ---
 layout: page
-title:  Number Complement
+title:  Reorder List
 last_solved: 
-category: binary
-leetcode_url: https://leetcode.com/problems/number-complement
+category: linked list
+leetcode_url: https://leetcode.com/problems/reorder-list/
 status: Attempted
 ---
 
@@ -11,67 +11,106 @@ Problem
 -------
 
 ```
-Given a positive integer num, output its complement number. The complement strategy is to flip the bits of its binary representation.
+Given a singly linked list L: L0→L1→…→Ln-1→Ln,
+reorder it to: L0→Ln→L1→Ln-1→L2→Ln-2→…
 
- 
+You may not modify the values in the list's nodes, only nodes itself may be changed.
 
 Example 1:
 
-Input: num = 5
-Output: 2
-Explanation: The binary representation of 5 is 101 (no leading zero bits), and its complement is 010. So you need to output 2.
+Given 1->2->3->4, reorder it to 1->4->2->3.
 Example 2:
 
-Input: num = 1
-Output: 0
-Explanation: The binary representation of 1 is 1 (no leading zero bits), and its complement is 0. So you need to output 0.
-
+Given 1->2->3->4->5, reorder it to 1->5->2->4->3.
 ```
 
 Solution
 ----------
 
-Using binary string.
 
 {% highlight python %}
 
-    def findComplement(self, num: int) -> int:
+    def reorderList(self, head: ListNode) -> None:
+
+        if not head: return None
         
-        binString = bin(num).replace('0b', '')
+        # 1 2 3 4
+        # 8 7 6 5
+
+        
+        # 1) split list in half
+        prev, slow, fast = None, head, head
+        
+        
+        
+        while fast and fast.next:
             
-        output = ''
-        for c in binString:
+            prev = slow     # prev is "tail" of slow
+            slow = slow.next
+            fast = fast.next.next
+        
+        # print(prev.val, slow.val, fast)
+        
+        # current state
+        # 1 2 3 4
+        #   p s   f
+        
+        
+        prev.next = None
+        
+        l1 = head
+        
+        # 1 2
+        # l p
+        #
+        # 3 4
+        # s f
+        
+        # 2) reverse second list
+        def reverse(head):
             
-            if c=='0':
-                output+='1'
-            else:
-                output+='0'
+            prev, curr, next = None, head, None
+            
+            while curr:
+                next = curr.next
+                curr.next = prev
+                prev = curr
+                curr = next
+            
+            return prev
         
-        return int(output, 2)
-
-{% endhighlight %}
-
-______________
-
-using bit manipulation
-
-{% highlight python %}
-
-    def findComplement(self, num: int) -> int:
-        ## RC ##
-		## APPROACH : BIT MANIPULATION ##
-		## LOGIC ##
-		#	1. 1 xor 1 = 0 and 0 or 1 = 1, from these we can say that XORing with 1 will give its complement bit
-		#	2. so, for 5 ==> 101, bitmask is 111, for 6 ==> 110, bitmask is 111, so bitmask is (length number of 1's)
-		#	3. How do we length of given bit ? we use log function
-		#	4. (ex: for 5), we take 1 and left shift by length obtained from 3, i.e (1000) now, substract 1, it will give (111) ==> bitmask
-		
-        ## TIME COMPLEXICITY : O(1) ## (coz make n= 32)
-		## SPACE COMPLEXICITY : O(1) ##
         
-        n = floor(log2(num)) + 1        # n is a length of num in binary representation
-        bitmask = (1 << n) - 1          # bitmask has the same length as num and contains only ones 1...1
-        return bitmask ^ num
+        l1 = head
+        l2 = reverse(slow)
+        print(l1.val, l2.val)
+        
+        # 1 2
+        # 4 3
+        
+        # 3) time to merge
+        dummy = ListNode(0)
+        curr = dummy
+        
+        while l1 and l2:
+            
+            if l1:
+                curr.next = l1
+                l1 = l1.next
+                curr = curr.next
+            if l2:
+                curr.next = l2
+                l2 = l2.next
+                curr = curr.next
+        
+        if l1:
+            curr.next = l1
+        
+        if l2:
+            curr.next = l2
+        
+        return dummy.next
+        
+
 
 {% endhighlight %}
 
