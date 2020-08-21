@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 154 problems solved.
+There are 155 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Longest Univar Path](/problems/longestUnivaluePath) | 2020-08-20 | Not Solved | tree 
 [Path Sum 3](/problems/pathSum3) | 2020-08-20 | Attempted | tree 
 [Path Sum](/problems/pathSum) | 2020-08-20 | Attempted | tree 
 [Path Sum 2](/problems/pathSum2) | 2020-08-20 | Attempted | tree 
