@@ -23,6 +23,9 @@ ___________-
 Today, I'm feeling kinda meh but I've gotten in the zone by doing random questions and SQL problems. Sometimes it's nice to just do random problems and figure it out as you go along without any pressure. Focus on quantity>quality on these meh days. Keep doing it until you get tired. You got the time, now you just need to keep up the motivation. The interview is partly luck based so you're just increasing your chances.
 
 
+Another thing on can do on my "meh days" is just to randomly pick medium problems and practice them.
+
+
 ### Aug 18
 
 Got [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) problem on pramp. I saw it before, got the algorithm with help but couldn't write code for it.
