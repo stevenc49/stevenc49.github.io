@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 151 problems solved.
+There are 152 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Insert into BST](/problems/insertIntoBST) | 2020-08-20 | Attempted |  
 [Reorder List](/problems/reorder_list) | 2020-08-20 | Attempted | linked list 
 [Number Complement](/problems/number_compliment) | 2020-08-20 | Attempted | binary 
 [Duplicate Emails](/problems/sql_dupicate_emails) | 2020-08-20 | Attempted | sql 
