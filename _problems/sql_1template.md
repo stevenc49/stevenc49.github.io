@@ -2,7 +2,7 @@
 layout: page
 title:  SQL Template
 last_solved: 
-category: 
+category: sql
 leetcode_url: 
 status: Attempted
 ---

@@ -4,11 +4,13 @@ title:  Solved - Last Modified
 ---
 
 
-There are 147 problems solved.
+There are 148 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
-[Reformat Department table](/problems/reformat_department) | 2020-08-20 | Attempted |  
+[Delete Duplicate Emails](/problems/sql_1template copy) | 2020-08-20 | Attempted | sql 
+[SQL Template](/problems/sql_1template) | 2020-08-20 | Attempted | sql 
+[Reformat Department table](/problems/reformat_department) | 2020-08-20 | Attempted | sql 
 [Generate Parenthesis](/problems/generateParanthesis) | 2020-08-19 | Attempted | backtracking 
 [nth digit](/problems/nthdigit) | 2020-08-19 | Attempted | math 
 [Product of Array Except Self](/problems/productOfArrayExceptSelf) | 2020-08-19 | Attempted |  
@@ -31,7 +33,6 @@ Problem | Last Modified | Status | Category
 [Find Min in Sorted Array](/problems/findMinInSortedArray) | 2020-08-13 | Attempted | binary search 
 [Search Insert Position](/problems/searchInsertPosition) | 2020-08-13 | Solved | binary search 
 [First Bad Version](/problems/firstBadVersion) | 2020-08-13 | Attempted | binary search 
-[SQL Template](/problems/sql_1template) | 2020-08-11 | Attempted |  
 [department highest salary](/problems/sql_department_highest_salary) | 2020-08-11 | solved | sql 
 [customers who never order](/problems/sql_customers_who_never_order) | 2020-08-11 | solved | sql 
 [Employees Earning More Than Their Managers](/problems/sql_employees_earning_more_than_managers) | 2020-08-11 | solved | sql 

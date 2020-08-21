@@ -2,7 +2,7 @@
 layout: page
 title:  Reformat Department table
 last_solved: 
-category: 
+category: sql
 leetcode_url: https://leetcode.com/problems/reformat-department-table/
 status: Attempted
 ---
