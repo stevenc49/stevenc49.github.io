@@ -2,7 +2,7 @@
 layout: page
 title:  Path Sum
 last_solved: 
-category: 
+category: tree
 leetcode_url: https://leetcode.com/problems/path-sum
 status: Attempted
 ---

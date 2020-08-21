@@ -53,6 +53,8 @@ Whenever problem asks for kth largest or kth smallest. Think heap.
 - [Deepest Leaves Sum DFS](/problems/deepestLeavesSumDFS)
 - [Validate BST](/problems/validateBST)
 - [LCA Binary Tree (No parent pointers)](/problems/lcaBinaryTree)
+- [Path Sum](/problems/pathSum)
+- [Path Sum 2](/problems/pathSum2)
 - Easy Tree Problems
     - [Max Depth](/problems/maxDepth)
     - [Is Tree Balanced](/problems/isTreeBalanced)

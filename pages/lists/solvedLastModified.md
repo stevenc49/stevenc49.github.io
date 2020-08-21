@@ -8,8 +8,8 @@ There are 153 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Path Sum](/problems/pathSum) | 2020-08-20 | Attempted | tree 
 [Path Sum 2](/problems/pathSum2) | 2020-08-20 | Attempted | tree 
-[Path Sum](/problems/pathSum) | 2020-08-20 | Attempted |  
 [Reorder List](/problems/reorder_list) | 2020-08-20 | Attempted | linked list 
 [Insert into BST](/problems/insertIntoBST) | 2020-08-20 | Attempted | tree 
 [Number Complement](/problems/number_compliment) | 2020-08-20 | Attempted | binary 
