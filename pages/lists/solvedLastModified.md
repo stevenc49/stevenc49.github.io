@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 153 problems solved.
+There are 154 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Path Sum 3](/problems/pathSum3) | 2020-08-20 | Attempted | tree 
 [Path Sum](/problems/pathSum) | 2020-08-20 | Attempted | tree 
 [Path Sum 2](/problems/pathSum2) | 2020-08-20 | Attempted | tree 
 [Reorder List](/problems/reorder_list) | 2020-08-20 | Attempted | linked list 
