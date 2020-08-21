@@ -8,8 +8,8 @@ There are 152 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
-[Insert into BST](/problems/insertIntoBST) | 2020-08-20 | Attempted | tree 
 [Reorder List](/problems/reorder_list) | 2020-08-20 | Attempted | linked list 
+[Insert into BST](/problems/insertIntoBST) | 2020-08-20 | Attempted | tree 
 [Number Complement](/problems/number_compliment) | 2020-08-20 | Attempted | binary 
 [Duplicate Emails](/problems/sql_dupicate_emails) | 2020-08-20 | Attempted | sql 
 [Reformat Department table](/problems/sql_reformat_department) | 2020-08-20 | Attempted | sql 

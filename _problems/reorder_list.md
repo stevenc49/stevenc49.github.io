@@ -27,6 +27,50 @@ Given 1->2->3->4->5, reorder it to 1->5->2->4->3.
 Solution
 ----------
 
+With Stack:
+
+- make a queue(), push all nodes to it
+- pop off left and right side of q, alternating each time
+- as you pop off, rebuild linked list (make sure to set node.next to None)
+
+
+{% highlight python %}
+
+    def reorderList(self, head: ListNode) -> None:
+
+        # push all into list
+        q = deque()
+        while head:
+            q.append(head)
+            head = head.next
+        
+        
+        dummy = ListNode(0)
+        cur = dummy
+        even = False
+        
+        while q:
+            
+            node = q.pop() if even else q.popleft()
+            node.next = None
+            
+            cur.next = node
+            cur = cur.next
+            
+            even ^= True
+        
+        return dummy.next
+
+
+{% endhighlight %}
+
+____________
+
+Without Stack
+
+- split list in half
+- reverse second half
+- merge lists
 
 {% highlight python %}
 
