@@ -2,7 +2,7 @@
 layout: page
 title:  Insert into BST
 last_solved: 
-category: 
+category: tree
 leetcode_url: https://leetcode.com/problems/insert-into-a-binary-search-tree
 status: Attempted
 ---
