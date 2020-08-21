@@ -20,7 +20,7 @@ As for leetcode and studying for interviews when your interview is coming up.
 ___________-
 
 
-Today, I'm feeling kinda meh but I've gotten in the zone by doing random questions and SQL problems. Sometimes it's nice to just do random problems and figure it out as you go along without any pressure. Focus on quantity>quality on these meh days. Keep doing it until you get tired. You got the time, now you just need to keep up the motivation.
+Today, I'm feeling kinda meh but I've gotten in the zone by doing random questions and SQL problems. Sometimes it's nice to just do random problems and figure it out as you go along without any pressure. Focus on quantity>quality on these meh days. Keep doing it until you get tired. You got the time, now you just need to keep up the motivation. The interview is partly luck based so you're just increasing your chances.
 
 
 ### Aug 18
