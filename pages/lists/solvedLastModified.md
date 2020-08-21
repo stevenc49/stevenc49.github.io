@@ -8,9 +8,9 @@ There are 148 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
-[Delete Duplicate Emails](/problems/sql_1template copy) | 2020-08-20 | Attempted | sql 
+[Reformat Department table](/problems/sql_reformat_department) | 2020-08-20 | Attempted | sql 
+[Delete Duplicate Emails](/problems/sql_delete_duplicate_emails) | 2020-08-20 | Attempted | sql 
 [SQL Template](/problems/sql_1template) | 2020-08-20 | Attempted | sql 
-[Reformat Department table](/problems/reformat_department) | 2020-08-20 | Attempted | sql 
 [Generate Parenthesis](/problems/generateParanthesis) | 2020-08-19 | Attempted | backtracking 
 [nth digit](/problems/nthdigit) | 2020-08-19 | Attempted | math 
 [Product of Array Except Self](/problems/productOfArrayExceptSelf) | 2020-08-19 | Attempted |  
