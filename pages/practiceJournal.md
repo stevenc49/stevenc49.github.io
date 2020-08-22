@@ -25,6 +25,9 @@ Today, I'm feeling kinda meh but I've gotten in the zone by doing random questio
 
 Another thing on can do on my "meh days" is just to randomly pick medium problems and practice them.
 
+Can also do hackerrank practice on my meh days.
+
+
 
 ### Aug 18
 
