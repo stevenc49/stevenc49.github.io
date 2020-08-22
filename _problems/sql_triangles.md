@@ -60,5 +60,27 @@ from triangles
 
 {% endhighlight %}
 
+___________
+
+This is the right answer (just take away the A,B,C)
+
+{% highlight sql %}
+
+select A,B,C,
+
+case when A+B>C and B+C>A and A+C>A then
+
+    case when A=B and B=C and C=A then 'Equilateral'
+         when A=B or B=C or C=A then 'Isosceles'
+         else 'Scalene'
+         end
+         
+else 'Not A Triangle'
+end
+
+from triangles
+
+{% endhighlight %}
+
 
 ![image1]()
