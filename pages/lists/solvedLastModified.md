@@ -8,6 +8,7 @@ There are 159 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Product of Array Except Self](/problems/productOfArrayExceptSelf) | 2020-08-24 | Attempted |  
 [Copy List with Random Pointer](/problems/copyListWithRandomPointer) | 2020-08-24 | Attempted | linked list 
 [Restore IP Addresses](/problems/restoreIpAddresses) | 2020-08-24 | Not Solved | backtracking 
 [Insert into BST](/problems/insertIntoBST) | 2020-08-24 | Attempted | tree 
@@ -25,7 +26,6 @@ Problem | Last Modified | Status | Category
 [SQL Template](/problems/sql_1template) | 2020-08-20 | Attempted | sql 
 [Generate Parenthesis](/problems/generateParanthesis) | 2020-08-19 | Attempted | backtracking 
 [nth digit](/problems/nthdigit) | 2020-08-19 | Attempted | math 
-[Product of Array Except Self](/problems/productOfArrayExceptSelf) | 2020-08-19 | Attempted |  
 [Shortest Cell Path](/problems/shortestPathCells) | 2020-08-18 | Attempted |  
 [Ransom Note](/problems/ransomNote) | 2020-08-18 | Attempted | string 
 [Implement strstr](/problems/implement_strstr) | 2020-08-18 | Attempted | string 

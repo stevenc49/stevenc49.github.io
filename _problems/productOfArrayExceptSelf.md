@@ -60,4 +60,4 @@ Make Left and Right Array, then multiply together.
 {% endhighlight %}
 
 
-![image1]()
+![image1](https://4lscea.dm.files.1drv.com/y4moZDY--zQtyjchZihDibspJtcXS7g6gp9nWktB3lpAu_lE0U1QuUB3wEuIN_1VH2sqosjTpLDY0JCULp5OAzQIMvSy5tmHTpoL5IWDyl9_-dPMiRhe5wLGjhspxmUIVkPDS1Z4-4r4FGhZA0r4nXT9RThzOFWR-jtJCTL-SCxKUP3g9dUsOn0EJc0edUV4HYDZ4gfRbfhEQsXOEdLWKRu9w?width=1810&height=2243&cropmode=none)
