@@ -7,6 +7,7 @@ title:  Practice Log
 
 try [this](https://leetcode.com/problems/heaters/) problem. it should be easy
 
+just do a bunch of easy problems to see if you can get brute force solution on your meh days
 
 ### Aug 20
 
