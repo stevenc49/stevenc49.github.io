@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 158 problems solved.
+There are 159 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Copy List with Random Pointer](/problems/copyListWithRandomPointer) | 2020-08-24 | Attempted |  
 [Restore IP Addresses](/problems/restoreIpAddresses) | 2020-08-24 | Not Solved | backtracking 
 [Insert into BST](/problems/insertIntoBST) | 2020-08-24 | Attempted | tree 
 [Reverse Words in a String III](/problems/reverseWordsInAString3) | 2020-08-24 | Solved | string 
