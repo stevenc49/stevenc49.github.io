@@ -4,7 +4,7 @@ title:  Restore IP Addresses
 last_solved: 
 category: backtracking
 leetcode_url: https://leetcode.com/problems/restore-ip-addresses/
-status: Attempted
+status: Not Solved
 ---
 
 Problem

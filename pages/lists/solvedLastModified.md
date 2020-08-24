@@ -8,7 +8,8 @@ There are 158 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
-[Restore IP Addresses](/problems/restoreIpAddresses) | 2020-08-24 | Attempted | backtracking 
+[Restore IP Addresses](/problems/restoreIpAddresses) | 2020-08-24 | Not Solved | backtracking 
+[Insert into BST](/problems/insertIntoBST) | 2020-08-24 | Attempted | tree 
 [Reverse Words in a String III](/problems/reverseWordsInAString3) | 2020-08-24 | Solved | string 
 [Triangles (SQL Case Statements)](/problems/sql_triangles) | 2020-08-22 | Attempted | sql 
 [Longest Univar Path](/problems/longestUnivaluePath) | 2020-08-20 | Not Solved | tree 
@@ -16,7 +17,6 @@ Problem | Last Modified | Status | Category
 [Path Sum](/problems/pathSum) | 2020-08-20 | Attempted | tree 
 [Path Sum 2](/problems/pathSum2) | 2020-08-20 | Attempted | tree 
 [Reorder List](/problems/reorder_list) | 2020-08-20 | Attempted | linked list 
-[Insert into BST](/problems/insertIntoBST) | 2020-08-20 | Attempted | tree 
 [Number Complement](/problems/number_compliment) | 2020-08-20 | Attempted | binary 
 [Duplicate Emails](/problems/sql_dupicate_emails) | 2020-08-20 | Attempted | sql 
 [Reformat Department table](/problems/sql_reformat_department) | 2020-08-20 | Attempted | sql 
