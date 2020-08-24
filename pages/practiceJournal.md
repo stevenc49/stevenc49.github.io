@@ -9,6 +9,17 @@ try [this](https://leetcode.com/problems/heaters/) problem. it should be easy
 
 just do a bunch of easy problems to see if you can get brute force solution on your meh days
 
+round robin thru each type of problems in last 2 weeks before interview:
+- 1-2 sql questions
+- 1-2 string/array problems
+- 1-2 matrix q
+- 1-2 island
+- 1-2 binary search
+- 1-2 trees
+- 1-2 bfs
+- etc
+
+
 ### Aug 20
 
 Getting very burnt out but my facebook interview phone screen is coming up in 2 weeks.
