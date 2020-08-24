@@ -156,7 +156,7 @@ Solvable with backtracking template. Need to articulate them better.
 - [Generate Parenthesis](/problems/generateParanthesis)
 - [Combination Sum](/problems/combination_sum)
 
-#### Flood Fill
+#### Islands
 
 Okay at solving these. Just need to remember pattern.
 
@@ -167,6 +167,9 @@ Okay at solving these. Just need to remember pattern.
 - [Surrounded Region](/problems/surroundedRegion)
 - [Word Search](/problems/wordSearch)
 - [Island Perimeter](/problems/islandPerimeter)
+
+
+#### Path Sums
 
 
 #### Graphs (Dijkstra)

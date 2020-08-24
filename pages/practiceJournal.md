@@ -3,11 +3,19 @@ layout: page
 title:  Practice Log
 ---
 
+
+### Aug 24
+
+Sometimes on your meh days, you just have to warm up with easy questions.
+
+
+
 ### Aug 23
 
 try [this](https://leetcode.com/problems/heaters/) problem. it should be easy
 
 just do a bunch of easy problems to see if you can get brute force solution on your meh days
+
 
 round robin thru each type of problems in last 2 weeks before interview:
 - 1-2 sql questions
