@@ -8,6 +8,7 @@ There are 162 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Odd Even Linked List](/problems/oddEvenLinkedList) | 2020-08-24 | Attempted | linked list 
 [Koko Eating Bananas](/problems/koko_eating_bananas) | 2020-08-24 | Attempted | binary search 
 [SQL Binary Tree Nodes](/problems/sql_binary_tree_nodes) | 2020-08-24 | Attempted | sql 
 [The PADS](/problems/sql_thepads) | 2020-08-24 | Attempted | sql 
@@ -89,7 +90,6 @@ Problem | Last Modified | Status | Category
 [Palindrome Linked List](/problems/palindromicLinkList) | 2020-07-22 | Attempted | linked lists, palindrome 
 [Binary Tree Zig Zag (DFS)](/problems/binaryTreeZigZagDfs) | 2020-07-22 | Attempted | bfs 
 [Binary Tree Zig Zag](/problems/binaryTreeZigZag) | 2020-07-22 | Solved | bfs 
-[Odd Even Linked List](/problems/oddEvenLinkedList) | 2020-07-21 | Attempted | linked list 
 [Linked List Cycle II](/problems/llcycle2) | 2020-07-20 | Solved | linked list, cycle detection 
 [Remove Linked List Elements](/problems/removeLinkedListElements) | 2020-07-20 | Attempted | linkedlist 
 [Coin Change](/problems/coinChange) | 2020-07-17 | Solved | dp [bottom up] 

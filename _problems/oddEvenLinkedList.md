@@ -29,40 +29,6 @@ Output: 2->3->6->7->1->5->4->NULL
 Solution
 ----------
 
-Initially tried this but it's in an endless loop. It's tough to write concise and bugfree linked list solutions.
-
-{% highlight python %}
-
-def oddEvenList(self, head: ListNode) -> ListNode:
-    
-    odd = head
-    even = head.next
-    tmp = None
-    
-    while odd and odd.next:
-        
-        print(odd.val)
-        
-        tmp = odd
-        
-        odd.next = odd.next.next
-        odd = tmp.next.next
-        
-        
-    if odd:
-        odd.next = even
-    else:
-        tmp.next = even
-        
-    while even and even.next:
-        
-        even.next = even.next.next
-        even = even.next.next
-
-{% endhighlight %}
-
-
-________________
 
 
 Explained in [Nick White's video](https://www.youtube.com/watch?v=C_LA6SOwVTM)
@@ -73,24 +39,25 @@ Explained in [Nick White's video](https://www.youtube.com/watch?v=C_LA6SOwVTM)
 
 {% highlight python %}
 
-def oddEvenList(self, head: ListNode) -> ListNode:
+    def oddEvenList(self, head: ListNode) -> ListNode:
 
-    if not head: return None
-    
-    odd = head
-    even = head.next
-    evenHead = even
-    
-    while even and even.next:
+        if not head: return None
         
-        odd.next = even.next
-        odd = odd.next
+        odd = head
+        even = head.next
+        evenHead = even
         
-        even.next = odd.next
-        even = even.next
-    
-    odd.next = evenHead
-    return head
+        while even and even.next:
+            
+            odd.next = even.next    # make odd jump over "even"
+            odd = odd.next          # move odd to next
+            
+            even.next = odd.next    # make even jump over
+            even = even.next        # move even to next
+            
+        
+        odd.next = evenHead
+        return head
 
 {% endhighlight %}
 
