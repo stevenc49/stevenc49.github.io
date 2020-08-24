@@ -8,6 +8,7 @@ title:  Practice Log
 
 Sometimes on your meh days, you just have to warm up with easy questions.
 
+[interview experience post](https://leetcode.com/discuss/interview-experience/808191/google-l3-mountain-view-august-2020-offer)
 
 
 ### Aug 23

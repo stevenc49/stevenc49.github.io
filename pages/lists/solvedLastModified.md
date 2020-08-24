@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 161 problems solved.
+There are 162 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Koko Eating Bananas](/problems/koko_eating_bananas) | 2020-08-24 | Attempted | binary search 
 [SQL Binary Tree Nodes](/problems/sql_binary_tree_nodes) | 2020-08-24 | Attempted | sql 
 [The PADS](/problems/sql_thepads) | 2020-08-24 | Attempted | sql 
 [Product of Array Except Self](/problems/productOfArrayExceptSelf) | 2020-08-24 | Attempted |  
