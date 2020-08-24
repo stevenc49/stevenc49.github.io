@@ -4,10 +4,12 @@ title:  Solved - Last Modified
 ---
 
 
-There are 159 problems solved.
+There are 161 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[SQL Binary Tree Nodes](/problems/sql_binary_tree_nodes) | 2020-08-24 | Attempted | sql 
+[The PADS](/problems/sql_thepads) | 2020-08-24 | Attempted | sql 
 [Product of Array Except Self](/problems/productOfArrayExceptSelf) | 2020-08-24 | Attempted |  
 [Copy List with Random Pointer](/problems/copyListWithRandomPointer) | 2020-08-24 | Attempted | linked list 
 [Restore IP Addresses](/problems/restoreIpAddresses) | 2020-08-24 | Not Solved | backtracking 
