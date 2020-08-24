@@ -3,6 +3,11 @@ layout: page
 title:  Practice Log
 ---
 
+### Aug 23
+
+try [this](https://leetcode.com/problems/heaters/) problem. it should be easy
+
+
 ### Aug 20
 
 Getting very burnt out but my facebook interview phone screen is coming up in 2 weeks.
