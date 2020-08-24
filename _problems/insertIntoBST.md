@@ -56,28 +56,18 @@ Solution
         
         # root is bigger, it goes on left side
         if root.val > val:
-            
             if not root.left:
-                
                 root.left = TreeNode(val)
-            
             else:
-                
                 self.insertIntoBST(root.left, val)
         
-        
         else:
-            
             if not root.right:
-                
                 root.right = TreeNode(val)
-            
             else:
-                
                 self.insertIntoBST(root.right, val)
         
         return root
-
 
 {% endhighlight %}
 
