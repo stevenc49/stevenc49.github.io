@@ -2,8 +2,8 @@
 layout: page
 title:  Copy List with Random Pointer
 last_solved: 
-category: 
-leetcode_url: linked list
+category: linked list
+leetcode_url: https://leetcode.com/problems/copy-list-with-random-pointer/
 status: Attempted
 ---
 
