@@ -55,5 +55,27 @@ def guessNumber(self, n: int) -> int:
 
 {% endhighlight %}
 
+__________
+
+{% highlight python %}
+
+def guessNumber(self, n: int) -> int:
+    
+    left, right = 1, n
+    
+    while left<right:
+        
+        mid = (left+right)//2
+        
+        result = guess(mid)
+        
+        if result<=0:
+            right = mid       # target is lower, so ignore everything on the right
+        else:
+            left = mid+1
+    
+    return left
+
+{% endhighlight %}
 
 ![image1]()
