@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Validate BST
-last_solved: 2020-07-29
+last_solved: 2020-07-29, 2020-08-25
 category: dfs
 leetcode_url: https://leetcode.com/problems/validate-binary-search-tree/
 status: Solved

@@ -8,6 +8,7 @@ There are 163 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Validate BST](/problems/validateBST) | 2020-08-25 | Solved | dfs 
 [Guess Number Higher or Lower](/problems/guessNumberHigherOrLower) | 2020-08-25 | Attempted | binary search 
 [Minimum Cost For Tickets](/problems/minimumCostForTickets) | 2020-08-25 | Attempted | dp 
 [Odd Even Linked List](/problems/oddEvenLinkedList) | 2020-08-24 | Attempted | linked list 
@@ -73,7 +74,6 @@ Problem | Last Modified | Status | Category
 [Convert Sorted Array to Binary Search Tree](/problems/convertSortedArrayToBST) | 2020-07-29 | Attempted |  
 [Binary Tree Level Order Traversal](/problems/binaryTreeLevelOrder) | 2020-07-29 | Solved | bfs/dfs 
 [Cousins in Binary Tree](/problems/cousinsInBinaryTree) | 2020-07-29 | Solved | bfs/dfs 
-[Validate BST](/problems/validateBST) | 2020-07-29 | Solved | dfs 
 [Most Common Word](/problems/mostCommonWord) | 2020-07-28 | Attempted | heap 
 [Kth Largest Element in a Stream](/problems/kthlargestElementInAStream) | 2020-07-28 | Attempted | heap 
 [Last Stone Weight](/problems/lastStoneWeight) | 2020-07-28 | Attempted | heap 
