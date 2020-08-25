@@ -4,10 +4,12 @@ title:  Solved - Last Modified
 ---
 
 
-There are 162 problems solved.
+There are 163 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Minimum Cost For Tickets](/problems/minimumCostForTickets) | 2020-08-25 | Attempted |  
+[Guess Number Higher or Lower](/problems/guessNumberHigherOrLower) | 2020-08-25 | Attempted |  
 [Odd Even Linked List](/problems/oddEvenLinkedList) | 2020-08-24 | Attempted | linked list 
 [Koko Eating Bananas](/problems/koko_eating_bananas) | 2020-08-24 | Attempted | binary search 
 [SQL Binary Tree Nodes](/problems/sql_binary_tree_nodes) | 2020-08-24 | Attempted | sql 
@@ -76,7 +78,6 @@ Problem | Last Modified | Status | Category
 [Kth Largest Element in a Stream](/problems/kthlargestElementInAStream) | 2020-07-28 | Attempted | heap 
 [Last Stone Weight](/problems/lastStoneWeight) | 2020-07-28 | Attempted | heap 
 [Task Scheduler](/problems/task_scheduler) | 2020-07-28 | Attempted | heap, greedy 
-[Guess Number Higher or Lower](/problems/guessNumberHigherOrLower) | 2020-07-24 | Attempted |  
 [Sqrt(x)](/problems/sqrtx) | 2020-07-24 | Attempted | Binary Search 
 [All Paths from Source To Target](/problems/allPathsFromSourceToTarget) | 2020-07-24 | Attempted | graph, bfs, dfs 
 [Binary Search](/problems/binarySearch) | 2020-07-23 | Attempted | binary search 

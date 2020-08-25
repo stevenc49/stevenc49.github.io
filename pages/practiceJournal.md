@@ -3,6 +3,9 @@ layout: page
 title:  Practice Log
 ---
 
+### Aug 25
+
+[programmer coach](https://www.programmercoach.com/)https://www.programmercoach.com/
 
 ### Aug 24
 
