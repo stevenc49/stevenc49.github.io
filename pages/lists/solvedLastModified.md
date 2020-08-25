@@ -8,6 +8,7 @@ There are 163 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Coin Change](/problems/coinChange) | 2020-08-25 | Solved | dp [bottom up] 
 [Validate BST](/problems/validateBST) | 2020-08-25 | Solved | dfs 
 [Guess Number Higher or Lower](/problems/guessNumberHigherOrLower) | 2020-08-25 | Attempted | binary search 
 [Minimum Cost For Tickets](/problems/minimumCostForTickets) | 2020-08-25 | Attempted | dp 
@@ -93,7 +94,6 @@ Problem | Last Modified | Status | Category
 [Binary Tree Zig Zag](/problems/binaryTreeZigZag) | 2020-07-22 | Solved | bfs 
 [Linked List Cycle II](/problems/llcycle2) | 2020-07-20 | Solved | linked list, cycle detection 
 [Remove Linked List Elements](/problems/removeLinkedListElements) | 2020-07-20 | Attempted | linkedlist 
-[Coin Change](/problems/coinChange) | 2020-07-17 | Solved | dp [bottom up] 
 [Spiral Matrix](/problems/spiralMatrix) | 2020-07-16 | Attempted | matrix 
 [Pow(x, n)](/problems/powx-n) | 2020-07-16 | Attempted | bit manipulation 
 [Reverse Bits](/problems/reverseBits) | 2020-07-13 | Solved | Bits 
