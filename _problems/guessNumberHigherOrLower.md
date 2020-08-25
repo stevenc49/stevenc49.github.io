@@ -2,7 +2,7 @@
 layout: page
 title:  Guess Number Higher or Lower
 last_solved: 
-category: 
+category: binary search
 leetcode_url: https://leetcode.com/problems/guess-number-higher-or-lower
 status: Attempted
 ---

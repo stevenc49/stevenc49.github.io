@@ -8,8 +8,8 @@ There are 163 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Guess Number Higher or Lower](/problems/guessNumberHigherOrLower) | 2020-08-25 | Attempted | binary search 
 [Minimum Cost For Tickets](/problems/minimumCostForTickets) | 2020-08-25 | Attempted | dp 
-[Guess Number Higher or Lower](/problems/guessNumberHigherOrLower) | 2020-08-25 | Attempted |  
 [Odd Even Linked List](/problems/oddEvenLinkedList) | 2020-08-24 | Attempted | linked list 
 [Koko Eating Bananas](/problems/koko_eating_bananas) | 2020-08-24 | Attempted | binary search 
 [SQL Binary Tree Nodes](/problems/sql_binary_tree_nodes) | 2020-08-24 | Attempted | sql 
