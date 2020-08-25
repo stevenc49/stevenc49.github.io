@@ -59,15 +59,38 @@ The reason it's "ways to make $2 with [1,2] coins" is because if **we USE THE 2 
 {% highlight python %}
 
     def change(self, amount: int, coins: List[int]) -> int:
-        dp = [[1]+[0]*amount for _ in range(len(coins)+1)]
-        for i in range(1, len(coins)+1):
-            for j in range(1, amount+1):
-                if coins[i-1] <= j:
-                    dp[i][j] = dp[i-1][j] + dp[i][j-coins[i-1]]
+
+        dp = [ [1]+[0]*amount for _ in range(len(coins)+1)]
+        
+        for c in range(1, len(coins)+1):
+            for a in range(1, amount+1):
+                if coins[c-1] <= a:
+                    dp[c][a] = dp[c-1][a] + dp[c][a-coins[c-1]]
                 else:
-                    dp[i][j] = dp[i-1][j]
+                    dp[c][a] = dp[c-1][a]
+        
+        print(dp)
         return dp[len(coins)][amount]  # or dp[-1][-1]
 
 {% endhighlight %}
+
+______
+
+This code is simplier, try to analyze this one instead
+
+{% highlight python %}
+
+    def change(self, amount: int, coins: List[int]) -> int:
+        dp = [0] * (amount + 1)             # DP Array of size (Amount +1) initialized to 0
+        dp[0] = 1
+
+        for currCoin in coins:
+            for currAmount in range(currCoin, amount + 1):
+                dp[currAmount] += dp[currAmount - currCoin]
+
+        return dp[-1]
+
+{% endhighlight %}
+
 
 ![image1]()

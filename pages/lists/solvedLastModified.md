@@ -8,6 +8,7 @@ There are 163 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Coin Change 2](/problems/coinChange2) | 2020-08-25 | Not Solved | dp 
 [Coin Change](/problems/coinChange) | 2020-08-25 | Solved | dp [bottom up] 
 [Validate BST](/problems/validateBST) | 2020-08-25 | Solved | dfs 
 [Guess Number Higher or Lower](/problems/guessNumberHigherOrLower) | 2020-08-25 | Attempted | binary search 
@@ -132,7 +133,6 @@ Problem | Last Modified | Status | Category
 [Rotate Matrix](/problems/rotateMatrix) | 2020-06-10 | Solved | Matrix 
 [Validate Sudoku](/problems/validateSudoku) | 2020-06-10 | Solved | matrix 
 [Search in Rotated Sorted Array](/problems/searchRotatedArray) | 2020-06-08 | Attempted | binary search 
-[Coin Change 2](/problems/coinChange2) | 2020-06-07 | Not Solved | dp 
 [First Unque Char in String](/problems/firstNonRepeatingChar) | 2020-06-07 | Solved | string 
 [Queue Reconstruction By Height](/problems/queueReconstructionByHeight) | 2020-06-06 | Attempted | greedy 
 [Longest Common Prefix](/problems/longestCommonPrefix) | 2020-06-05 | Solved | string 

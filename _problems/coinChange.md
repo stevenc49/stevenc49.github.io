@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Coin Change
-last_solved: 2020-07-17
+last_solved: 2020-07-17, 2020-08-25
 category: dp [bottom up]
 leetcode_url: https://leetcode.com/problems/coin-change
 status: Solved
