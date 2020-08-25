@@ -2,7 +2,7 @@
 layout: page
 title:  Minimum Cost For Tickets
 last_solved: 
-category: 
+category: dp
 leetcode_url: https://leetcode.com/problems/minimum-cost-for-tickets/
 status: Attempted
 ---
