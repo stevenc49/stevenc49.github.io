@@ -76,3 +76,46 @@ def find_subsets(nums):
 
 Time and space complexity is O(2^n) because we will have 2^n items
 
+
+
+________________
+
+
+{% highlight python %}
+
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        
+#         start with empty set
+#         []
+        
+#         make a copy of all existing subsets and add 1 to them
+#         [] [1]
+        
+#         make a copy of all existing subsets and add 2 to them
+#         [] [1] [2,][1,2]
+        
+#         make a copy of all existing subsets and add 3 to them
+#         [] [1] [2][1,2] [3] [1,3] [2,3][1,2,3]
+        
+    
+        subsets = [[]]
+        
+        for n in nums:
+            
+            # make a copy of all existing subsets
+            size = len(subsets)
+            
+            existingSubsets = []
+            for i in range(size):
+                existingSubsets.append( subsets[i].copy() )
+                
+            # add n to all existing subsets
+            for existSubset in existingSubsets:
+                existSubset.append(n)
+                
+            # add existing subset list into master subset list
+            subsets.extend( existingSubsets )
+        
+        return subsets
+
+{% endhighlight %}

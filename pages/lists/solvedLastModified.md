@@ -8,6 +8,7 @@ There are 163 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Subsets (Cascading)](/problems/subsetsCascading) | 2020-08-25 | Solved | cascading 
 [Sqrt(x)](/problems/sqrtx) | 2020-08-25 | Attempted | Binary Search 
 [Coin Change 2](/problems/coinChange2) | 2020-08-25 | Not Solved | dp 
 [Coin Change](/problems/coinChange) | 2020-08-25 | Solved | dp [bottom up] 
@@ -62,7 +63,6 @@ Problem | Last Modified | Status | Category
 [Kth Largest Element in an Array](/problems/kthlargestElementInAnArray) | 2020-08-09 | Attempted | heap 
 [Merge K Sorted Linked Lists](/problems/mergeKSortedLinkedLists) | 2020-08-09 | Solved | heap 
 [Permutations (Cascading)](/problems/permutationsCascading) | 2020-08-09 | Solved | cascading 
-[Subsets (Cascading)](/problems/subsetsCascading) | 2020-08-09 | Solved | cascading 
 [BFS](/problems/bfs) | 2020-08-08 | Solved | bfs 
 [Subsets (Backtracking)](/problems/subsets) | 2020-08-08 | Solved | recursion, backtracking 
 [Find all Duplicates in Array](/problems/findAllDupsInArray) | 2020-08-06 | Attempted | array 
