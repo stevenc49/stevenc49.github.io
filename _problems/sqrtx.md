@@ -98,4 +98,38 @@ def mySqrt(self, x: int) -> int:
 
 {% endhighlight %}
 
+____________-
+
+using powerful binary search template
+
+{% highlight python %}
+
+    def mySqrt(self, x: int) -> int:
+               
+        # 1 2 3 4    x=4 sqrt=16
+        
+        left, right = 0, x+1
+        
+        while left<right:
+            
+            mid = (left+right)//2
+            
+            square = mid*mid
+            
+            if square>x:   # condition is k**2 > x
+                right = mid
+            else:
+                left = mid+1
+            
+        return left-1   # left is minimum k value satisfying condition, k-1 is answer
+    
+    
+    # k^2 x=8 condition
+    # 4^2>8   true   
+    # 3^2>8   true    left is this k, the minimum k satisfying the condition
+    # 2^2>8   false   the answer is this, so use left-1
+    # 1^2>8   false
+
+{% endhighlight %}
+
 ![image1]()

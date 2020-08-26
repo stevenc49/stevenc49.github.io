@@ -8,6 +8,7 @@ There are 163 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Sqrt(x)](/problems/sqrtx) | 2020-08-25 | Attempted | Binary Search 
 [Coin Change 2](/problems/coinChange2) | 2020-08-25 | Not Solved | dp 
 [Coin Change](/problems/coinChange) | 2020-08-25 | Solved | dp [bottom up] 
 [Validate BST](/problems/validateBST) | 2020-08-25 | Solved | dfs 
@@ -80,7 +81,6 @@ Problem | Last Modified | Status | Category
 [Kth Largest Element in a Stream](/problems/kthlargestElementInAStream) | 2020-07-28 | Attempted | heap 
 [Last Stone Weight](/problems/lastStoneWeight) | 2020-07-28 | Attempted | heap 
 [Task Scheduler](/problems/task_scheduler) | 2020-07-28 | Attempted | heap, greedy 
-[Sqrt(x)](/problems/sqrtx) | 2020-07-24 | Attempted | Binary Search 
 [All Paths from Source To Target](/problems/allPathsFromSourceToTarget) | 2020-07-24 | Attempted | graph, bfs, dfs 
 [Binary Search](/problems/binarySearch) | 2020-07-23 | Attempted | binary search 
 [Word Ladder](/problems/wordLadder) | 2020-07-23 | Attempted | bfs 
