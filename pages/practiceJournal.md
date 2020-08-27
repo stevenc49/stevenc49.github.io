@@ -7,6 +7,12 @@ title:  Practice Log
 
 [programmer coach](https://www.programmercoach.com/)https://www.programmercoach.com/
 
+___________
+
+SQL Practice, take the "practice sql questions.doc" from facebook and try them in sql fiddle.
+
+
+
 ### Aug 24
 
 Sometimes on your meh days, you just have to warm up with easy questions.
