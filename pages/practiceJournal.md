@@ -7,6 +7,9 @@ title:  Practice Log
 
 Got the question [Find Right Interval]() today for the daily challenge and it seems doable. However, I messed up the initial implementation and had to spend a bit of time debugging. This debugging time should be factored into solving the problem so now I should work on speed of implementation and debugging.
 
+__________
+
+On the motivational and sustainable end, leetcoding could be very dry (it's a grind afterall), so intermix it with rental reseach and life planning. Like what you would do in a regular work day anyways.
 
 
 ### Aug 25
