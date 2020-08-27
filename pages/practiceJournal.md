@@ -11,6 +11,10 @@ __________
 
 On the motivational and sustainable end, leetcoding could be very dry (it's a grind afterall), so intermix it with rental reseach and life planning. Like what you would do in a regular work day anyways.
 
+__________
+
+On real estate investing, [this video on bigger pockets](https://www.youtube.com/watch?v=u83O2l1QEj4) has first steps on what you need to do to start your rental business career. It boils down to get good at the math.
+
 
 ### Aug 25
 
