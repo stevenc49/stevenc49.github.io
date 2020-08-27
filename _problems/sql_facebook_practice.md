@@ -67,6 +67,69 @@ Solution
 
 {% highlight sql %}
 
+-- a. The names of all salespeople that have an order with Samsonic. 
+select distinct name
+from salesperson s join orders o on s.id=o.salesperson_id;
+
+
+-- b. The names of all salespeople that do not have any order with Samsonic. 
+select name
+from salesperson s
+where s.id not in (
+  select salesperson_id from orders
+  );
+  
+-- c. The names of salespeople that have 2 or more orders. 
+select name
+from salesperson
+where id in (
+-- use group/having to get ids of salespeople with count>=2
+select o.salesperson_id
+from salesperson s join orders o on s.id=o.salesperson_id
+group by o.salesperson_id
+having count(*)>=2
+ );
+ 
+-- d. The names and ages of all salespersons must having a salary of 100,000 or greater.
+select name, age
+from salesperson
+where salary>100000;
+
+
+
+-- e. What sales people have sold more than 1400 total units?
+select distinct s.name
+from salesperson s join orders o on s.id=o.salesperson_id
+where o.salesperson_id in
+(
+  select salesperson_id
+  from orders
+  group by salesperson_id
+  having sum(amount) > 1400
+ );
+
+
+-- f. When was the earliest and latest order made to Samsonite?
+
+select number
+from orders
+where cust_id=4  -- join and get customer name if you have to
+and order_date in (
+  
+ -- earliest order
+ select min(order_date)
+ from orders o join customer c on c.id=o.cust_id
+ where c.name='Samsonic'
+ 
+ union
+ 
+ -- latest order
+  select max(order_date)
+ from orders o join customer c on c.id=o.cust_id
+ where c.name='Samsonic'
+ )
+
+
 {% endhighlight %}
 
 
