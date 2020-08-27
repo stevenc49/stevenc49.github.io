@@ -3,6 +3,12 @@ layout: page
 title:  Practice Log
 ---
 
+### Aug 27
+
+Got the question [Find Right Interval]() today for the daily challenge and it seems doable. However, I messed up the initial implementation and had to spend a bit of time debugging. This debugging time should be factored into solving the problem so now I should work on speed of implementation and debugging.
+
+
+
 ### Aug 25
 
 [programmer coach](https://www.programmercoach.com/)https://www.programmercoach.com/
