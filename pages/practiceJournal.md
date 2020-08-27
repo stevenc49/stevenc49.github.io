@@ -15,6 +15,10 @@ So leetcode time should be split between:
 - on meh days
     - solve easy questions for motivation
     - reviewing old problems in a round robin fashion (work on speed and recall)
+
+I may need to have another system for tracking leetcode problems. I'm outgrowing jekyll, probably need to keep track of revisits and timing. Outsource solutions database to a blog or something (substack?).
+
+
 __________
 
 On the motivational and sustainable end, leetcoding could be very dry (it's a grind afterall), so intermix it with rental reseach and life planning. Like what you would do in a regular work day anyways.
