@@ -15,6 +15,9 @@ __________
 
 On real estate investing, [this video on bigger pockets](https://www.youtube.com/watch?v=u83O2l1QEj4) has first steps on what you need to do to start your rental business career. It boils down to get good at the math.
 
+You can check by doing the math on your current property.
+
+
 
 ### Aug 25
 
