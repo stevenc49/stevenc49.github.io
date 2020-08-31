@@ -8,6 +8,7 @@ There are 164 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Deepest Leaves Sum (BFS)](/problems/deepestLeavesSumBFS) | 2020-08-31 | Solved | bfs 
 [SQL Facebook Practice Questions](/problems/sql_facebook_practice) | 2020-08-26 | Attempted | sql 
 [Subsets (Cascading)](/problems/subsetsCascading) | 2020-08-25 | Solved | cascading 
 [Sqrt(x)](/problems/sqrtx) | 2020-08-25 | Attempted | Binary Search 
@@ -163,7 +164,6 @@ Problem | Last Modified | Status | Category
 [Is Same Tree?](/problems/isSameTree) | 2020-05-12 |  |  
 [Print K distance from Root](/problems/printKdistanceFromRoot) | 2020-05-11 |  |  
 [Serialize & Deserialize Tree](/problems/serializeTree) | 2020-05-11 |  |  
-[Deepest Leaves Sum (BFS)](/problems/deepestLeavesSumBFS) | 2020-05-11 |  |  
 [Is Tree Balanced?](/problems/isTreeBalanced) | 2020-05-11 |  |  
 [Is Sub Tree?](/problems/isSubtree) | 2020-05-11 |  |  
 [Max Depth of Tree](/problems/maxDepth) | 2020-05-11 |  |  
