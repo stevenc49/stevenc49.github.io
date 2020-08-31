@@ -3,6 +3,12 @@ layout: page
 title:  Practice Log
 ---
 
+### Aug 31
+
+After taking the weekend off from studying, it's now Monday and I need to get back to the mindset of solving problems for my Facebook phone screen on Thursday. To relief the stress, I've opened Spotify to some relaxing music and I'm going thru my "Review List".
+
+
+
 ### Aug 27
 
 Got the question [Find Right Interval]() today for the daily challenge and it seems doable. However, I messed up the initial implementation and had to spend a bit of time debugging. This debugging time should be factored into solving the problem so now I should work on speed of implementation and debugging.
