@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 164 problems solved.
+There are 165 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Tempalte](/problems/minStack) | 2020-08-31 | Attempted |  
 [Deepest Leaves Sum (BFS)](/problems/deepestLeavesSumBFS) | 2020-08-31 | Solved | bfs 
 [SQL Facebook Practice Questions](/problems/sql_facebook_practice) | 2020-08-26 | Attempted | sql 
 [Subsets (Cascading)](/problems/subsetsCascading) | 2020-08-25 | Solved | cascading 

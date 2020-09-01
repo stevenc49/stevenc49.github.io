@@ -3,6 +3,11 @@ layout: page
 title:  Practice Log
 ---
 
+### Sept 1
+
+Procrastinating from solving problems with my facebook interview coming up soon. I found myself procrastinating by doing telus work. Next time, I might need to have "my own project" to keep me busy. Maybe a stock tracker or a real estate property finder.
+
+
 ### Aug 31
 
 After taking the weekend off from studying, it's now Monday and I need to get back to the mindset of solving problems for my Facebook phone screen on Thursday. To relief the stress, I've opened Spotify to some relaxing music and I'm going thru my "Review List".
