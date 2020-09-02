@@ -64,7 +64,9 @@ Mock Interviews
 Facebook questions
 -----------------
 [facebook phone interview questions](https://leetcode.com/discuss/interview-question/790428/facebook-phone-interview-questions)
+[fb interviews jun 2020](https://leetcode.com/discuss/general-discussion/675445/facebook-interview-experiences-all-combined-from-lc-till-date-07-jun-2020)
 
+[mega leetcode post](https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode)
 
 [Must Do Easy and Medium Problems](https://leetcode.com/discuss/career/449135/How-to-effectively-use-LeetCode-to-prepare-for-interviews)
 
