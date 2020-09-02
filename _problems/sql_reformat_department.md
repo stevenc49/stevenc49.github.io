@@ -110,9 +110,13 @@ group by id
 {% endhighlight %}
 
 Note: if you don't have the `sum()`, the result will look like this and your Jan_Rev will be
+
 `[1, 8000, 7000, 6000, null, null, null, null, null, null, null, null, null]`
 
+So that's why you need to `sum()` all Jan revenues
+
 ```
+
 {"headers": ["id", "Jan_Revenue", "Feb_Revenue", "Mar_Revenue", "Apr_Revenue", "May_Revenue", "Jun_Revenue", "Jul_Revenue", "Aug_Revenue", "Sep_Revenue", "Oct_Revenue", "Nov_Revenue", "Dec_Revenue"], "values": [[1, 8000, 7000, 6000, null, null, null, null, null, null, null, null, null], [2, 9000, null, null, null, null, null, null, null, null, null, null, null], [3, null, 10000, null, null, null, null, null, null, null, null, null, null]]}
 ```
 
