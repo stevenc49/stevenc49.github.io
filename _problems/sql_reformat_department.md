@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Reformat Department table
+title:  Reformat Department table (if and case statements)
 last_solved: 
 category: sql
 leetcode_url: https://leetcode.com/problems/reformat-department-table/

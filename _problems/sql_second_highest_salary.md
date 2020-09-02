@@ -51,6 +51,9 @@ Without limit, the resultset is
 100
 ```
 
+- offset chooses the one you want and puts it on the top
+- limit just selects the top one
+
 But we also have to use the ifnull( if this is null , return this value ) clause
 
 {% highlight sql %}
@@ -60,7 +63,7 @@ select ifnull(
     (select distinct salary as SecondHighestSalary
     from employee
     order by salary desc
-    limit 3 offset 1)
+    limit 1 offset 1)
     
 ,  
     null 

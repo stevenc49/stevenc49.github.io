@@ -8,6 +8,7 @@ There are 166 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Reformat Department table (if and case statements)](/problems/sql_reformat_department) | 2020-09-01 | Attempted | sql 
 [SQL - Second Highest Salary (limit/offset + ifnull)](/problems/sql_second_highest_salary) | 2020-09-01 | Attempted | sql 
 [SQL Facebook Practice Questions](/problems/sql_facebook_practice) | 2020-09-01 | Attempted | sql 
 [Tempalte](/problems/minStack) | 2020-08-31 | Attempted |  
@@ -36,7 +37,6 @@ Problem | Last Modified | Status | Category
 [Reorder List](/problems/reorder_list) | 2020-08-20 | Attempted | linked list 
 [Number Complement](/problems/number_compliment) | 2020-08-20 | Attempted | binary 
 [Duplicate Emails](/problems/sql_dupicate_emails) | 2020-08-20 | Attempted | sql 
-[Reformat Department table](/problems/sql_reformat_department) | 2020-08-20 | Attempted | sql 
 [Delete Duplicate Emails](/problems/sql_delete_duplicate_emails) | 2020-08-20 | Attempted | sql 
 [SQL Template](/problems/sql_1template) | 2020-08-20 | Attempted | sql 
 [Generate Parenthesis](/problems/generateParanthesis) | 2020-08-19 | Attempted | backtracking 
