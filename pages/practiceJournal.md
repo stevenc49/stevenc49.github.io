@@ -15,6 +15,10 @@ Somethings to make studying easier:
 - keep spreadsheet of questions solved
 - start by listening to something CS related (CS50 - Harvard Intro to AI)
 
+___________-
+
+[TechGig algorithm practice](https://www.techgig.com/practice/algorithms/implementation)
+
 ### Aug 31
 
 After taking the weekend off from studying, it's now Monday and I need to get back to the mindset of solving problems for my Facebook phone screen on Thursday. To relief the stress, I've opened Spotify to some relaxing music and I'm going thru my "Review List".
