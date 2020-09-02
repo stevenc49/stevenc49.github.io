@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 165 problems solved.
+There are 166 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[SQL - Second Highest Salary (limit/offset + ifnull)](/problems/sql_second_highest_salary) | 2020-09-01 | Attempted | sql 
 [SQL Facebook Practice Questions](/problems/sql_facebook_practice) | 2020-09-01 | Attempted | sql 
 [Tempalte](/problems/minStack) | 2020-08-31 | Attempted |  
 [Deepest Leaves Sum (BFS)](/problems/deepestLeavesSumBFS) | 2020-08-31 | Solved | bfs 
