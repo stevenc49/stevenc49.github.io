@@ -7,6 +7,13 @@ title:  Practice Log
 
 Procrastinating from solving problems with my facebook interview coming up soon. I found myself procrastinating by doing telus work. Next time, I might need to have "my own project" to keep me busy. Maybe a stock tracker or a real estate property finder.
 
+___________
+
+Somethings to make studying easier:
+- listen to something relaxing or podcast
+- forest app
+- keep spreadsheet of questions solved
+- start by listening to something CS related (CS50 - Harvard Intro to AI)
 
 ### Aug 31
 
