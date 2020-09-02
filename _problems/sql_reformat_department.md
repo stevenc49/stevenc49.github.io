@@ -113,7 +113,22 @@ Note: if you don't have the `sum()`, the result will look like this and your Jan
 
 `[1, 8000, 7000, 6000, null, null, null, null, null, null, null, null, null]`
 
-So that's why you need to `sum()` all Jan revenues
+or
+
+```
++----+-------------+-------------+
+| id | Jan_Revenue | Feb_Revenue |
++----+-------------+-------------+
+|  1 |        NULL |        7000 |
+|  1 |        8000 |        NULL |
+|  1 |        NULL |        NULL |
+|  2 |        9000 |        NULL |
+|  3 |        NULL |       10000 |
++----+-------------+-------------+
+```
+
+- So that's why you need to `sum()` or `max()` as an aggregate to "merge them all".
+- [This is why we need either SUM (NULL+8000+NULL) or MAX, in both cases 8000 will be used. Actually from MySQL version 5.7.5 you would get an error if you didn't use an aggregation method:](https://leetcode.com/problems/reformat-department-table/discuss/376357/MySQLPostgreSQL-solutions/471453)
 
 ```
 
