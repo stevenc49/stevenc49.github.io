@@ -68,16 +68,24 @@ Solution
 {% highlight sql %}
 
 -- a. The names of all salespeople that have an order with Samsonic. 
-select distinct name
-from salesperson s join orders o on s.id=o.salesperson_id;
+select name
+from salesperson
+where id in (
+  select o.salesperson_id
+  from orders o join customer c on o.cust_id=c.id
+  where c.name='Samsonic'
+)
+ 
 
 
 -- b. The names of all salespeople that do not have any order with Samsonic. 
-select name
-from salesperson s
-where s.id not in (
-  select salesperson_id from orders
-  );
+select distinct s.name
+from orders o join salesperson s on o.salesperson_id=s.id
+where cust_id not in (
+  select id
+  from customer
+  where name='Samsonic'
+)
   
 -- c. The names of salespeople that have 2 or more orders. 
 select name
