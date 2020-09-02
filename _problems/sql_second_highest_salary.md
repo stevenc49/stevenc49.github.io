@@ -51,7 +51,7 @@ Without limit, the resultset is
 100
 ```
 
-But we also have to use the ifnull( <if this is null> , <return this value> ) clause
+But we also have to use the ifnull( if this is null , return this value ) clause
 
 {% highlight sql %}
 
