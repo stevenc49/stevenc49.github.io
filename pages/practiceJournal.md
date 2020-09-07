@@ -3,6 +3,23 @@ layout: page
 title:  Practice Log
 ---
 
+### Sept 6
+
+New goal to keep up. 
+
+- solve questions you've seen before in less time
+- resolve harder questions days or a week after you've learned them
+- round robin thru all types of problems
+- can solve questions from daily problems, explore cards, lists, difficulty, categories, etc
+
+
+### Sept 4
+
+The last few days I've just stressing out over the Facebook phone screen. It turns out that the actual interview had pretty easy questions (even though I didn't answer all the questions). But as the days approached, I just kept thinking that I am not ready. I saw people say on Leetcode that they're phone screens are leetcode difficulty questions that I was not ready for.
+
+To relieve the stress, I would need to keep up my Leetcodig skills. I also need a fun project to releave myself from telus boredom and as a break from leetcoding. I think 
+
+
 ### Sept 1
 
 Procrastinating from solving problems with my facebook interview coming up soon. I found myself procrastinating by doing telus work. Next time, I might need to have "my own project" to keep me busy. Maybe a stock tracker or a real estate property finder.
