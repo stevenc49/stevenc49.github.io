@@ -4,10 +4,13 @@ title:  Solved - Last Modified
 ---
 
 
-There are 166 problems solved.
+There are 169 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Combination Sum III](/problems/combinationSum3) | 2020-09-15 | Attempted | backtrack 
+[Merge Two Binary Trees](/problems/mergeTwoBinaryTrees) | 2020-09-04 | Attempted | trees 
+[Find All Anagrams in a String](/problems/findAllAnagramsInString) | 2020-09-02 | Attempted | sliding window 
 [Generate Parenthesis](/problems/generateParanthesis) | 2020-09-02 | Attempted | backtracking 
 [Reformat Department table (if and case statements)](/problems/sql_reformat_department) | 2020-09-01 | Attempted | sql 
 [SQL - Second Highest Salary (limit/offset + ifnull)](/problems/sql_second_highest_salary) | 2020-09-01 | Attempted | sql 
