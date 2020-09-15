@@ -155,6 +155,7 @@ Solvable with backtracking template. Need to articulate them better.
 - [Subsets (cascading)](/problems/subsetsCascading)
 - [Generate Parenthesis](/problems/generateParanthesis)
 - [Combination Sum](/problems/combination_sum)
+- [Combination Sum III](/problems/combinationSum3)
 
 #### Islands
 
