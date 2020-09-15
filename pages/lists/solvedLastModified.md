@@ -8,6 +8,7 @@ There are 169 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Combination Sum](/problems/combination_sum) | 2020-09-15 | Attempted | permutations 
 [Combination Sum III](/problems/combinationSum3) | 2020-09-15 | Attempted | backtrack 
 [Merge Two Binary Trees](/problems/mergeTwoBinaryTrees) | 2020-09-04 | Attempted | trees 
 [Find All Anagrams in a String](/problems/findAllAnagramsInString) | 2020-09-02 | Attempted | sliding window 
@@ -122,7 +123,6 @@ Problem | Last Modified | Status | Category
 [Perfect Squares](/problems/perfectSquaresa) | 2020-06-29 | Semi-Solved | dp [bottom up] 
 [Reconstruct Iternary](/problems/reconstructIternary) | 2020-06-28 | Not Solved | dfs, graph 
 [Merge Sorted Linked List (Iterative)](/problems/mergeSortedLLiter) | 2020-06-26 | Solved | linked list 
-[Combination Sum](/problems/combination_sum) | 2020-06-26 | Attempted | permutations 
 [Sum Root to Leaf Numbers](/problems/sumRootToLeaf) | 2020-06-26 | Attempted | trees 
 [Find the Duplicate Number](/problems/findTheDuplicateNumber) | 2020-06-25 | Solved | cycle detection 
 [Unique BST](/problems/uniqueBST) | 2020-06-24 | Attempted | dp 

@@ -69,5 +69,30 @@ print( combinationSum(candidates, target) )
 
 {% endhighlight %}
 
+______________
+
+{% highlight python %}
+
+    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+        
+        output = []
+        
+        def backtrack(currentList, start):
+            
+            if sum(currentList)==target:
+                output.append(currentList.copy())
+                return
+            
+            if sum(currentList) > target: # optimization
+                return
+            
+            for i in range(start, len(candidates)):
+                backtrack(currentList + [candidates[i]], i)
+            
+        
+        backtrack([], 0)
+        return output
+
+{% endhighlight %}
 
 ![image1]()
