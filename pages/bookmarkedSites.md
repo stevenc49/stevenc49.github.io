@@ -54,6 +54,7 @@ Youtubers
 - Timothy H Chang
 - Terrible Whiteboard
 - [good teacher](https://goodtecher.com/page/18/)
+- [time infinity complex](https://www.youtube.com/channel/UCf9ywn38ypqEIC6McbwH9sQ/videos)
 
 Mock Interviews
 -----------------

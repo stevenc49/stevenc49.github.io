@@ -99,8 +99,8 @@ ______________
 ____________
 
 
-[watch this explaination](https://www.youtube.com/watch?v=irFtGMLbf-s)
-[watch this too](https://www.youtube.com/watch?v=MTI2wc8s0BY)
+- [watch this explaination](https://www.youtube.com/watch?v=irFtGMLbf-s)
+- [watch this too](https://www.youtube.com/watch?v=MTI2wc8s0BY)
 
 {% highlight python %}
 
