@@ -59,7 +59,7 @@ head = reorderList(head)
 
 
 while head:
-    print(head.val)
+    print(head.val, end=" ")
     head=head.next
 
 
