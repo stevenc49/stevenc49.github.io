@@ -95,4 +95,34 @@ ______________
 
 {% endhighlight %}
 
+
+____________
+
+
+[watch this explaination](https://www.youtube.com/watch?v=irFtGMLbf-s)
+
+{% highlight python %}
+
+    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+        
+        output = []
+        
+        def backtrack(currentList, remaining, start):
+        
+            if remaining<0:
+                return
+            elif remaining==0:
+                output.append(currentList.copy())
+            else:
+            
+                for i in range(start, len(candidates)):
+                    currentList.append(candidates[i])
+                    backtrack(currentList, remaining-candidates[i], i)
+                    currentList.pop()
+
+        backtrack([], target, 0)
+        return output
+
+{% endhighlight %}
+
 ![image1]()

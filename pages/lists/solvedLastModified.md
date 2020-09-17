@@ -8,8 +8,8 @@ There are 170 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Combination Sum](/problems/combination_sum) | 2020-09-16 | Attempted | permutations 
 [Maximum XOR of Two Numbers in an Array](/problems/maxXorOfTwoNums) | 2020-09-16 | Attempted | bits 
-[Combination Sum](/problems/combination_sum) | 2020-09-15 | Attempted | permutations 
 [Combination Sum III](/problems/combinationSum3) | 2020-09-15 | Attempted | backtrack 
 [Merge Two Binary Trees](/problems/mergeTwoBinaryTrees) | 2020-09-04 | Attempted | trees 
 [Find All Anagrams in a String](/problems/findAllAnagramsInString) | 2020-09-02 | Attempted | sliding window 
