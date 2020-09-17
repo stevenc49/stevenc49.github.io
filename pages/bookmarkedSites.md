@@ -53,7 +53,7 @@ Youtubers
 - BackToBackSWE
 - Timothy H Chang
 - Terrible Whiteboard
-
+- [good teacher](https://goodtecher.com/page/18/)
 
 Mock Interviews
 -----------------
