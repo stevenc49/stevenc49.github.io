@@ -3,6 +3,17 @@ layout: page
 title:  Practice Log
 ---
 
+
+### Sept 16
+
+Tmr try to grok:
+
+- [combo sum backtracking](https://www.youtube.com/watch?v=MTI2wc8s0BY)
+- [permuation backtracking](https://www.youtube.com/watch?v=KukNnoN-SoY)
+
+then draw recursion tree for generate parenthesis
+
+
 ### Sept 6
 
 New goal to keep up. 
