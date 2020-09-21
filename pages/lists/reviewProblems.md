@@ -158,6 +158,7 @@ Solvable with backtracking template. Need to articulate them better.
 - [Subsets (cascading)](/problems/subsetsCascading)
 - [Generate Parenthesis](/problems/generateParanthesis)
 - [Combination Sum](/problems/combination_sum)
+- [Combination Sum II](/problems/combinationSum2)
 - [Combination Sum III](/problems/combinationSum3)
 
 [Check this link for combo sum 1,2,3 using add/pop method](https://leetcode.com/problems/combination-sum-ii/discuss/16878/Combination-Sum-I-II-and-III-Java-solution-(see-the-similarities-yourself))
