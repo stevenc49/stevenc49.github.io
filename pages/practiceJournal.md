@@ -3,6 +3,9 @@ layout: page
 title:  Practice Log
 ---
 
+### Sept 22
+
+[engineering levels](https://engineerseekingfire.com/how-to-prepare-for-software-engineering-interviews/)
 
 ### Sept 16
 

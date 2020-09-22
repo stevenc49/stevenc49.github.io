@@ -4,10 +4,12 @@ title:  Solved - Last Modified
 ---
 
 
-There are 171 problems solved.
+There are 173 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Majority Element II](/problems/majorityElement2) | 2020-09-22 | Attempted | boyer moore 
+[Majority Element](/problems/majorityElement) | 2020-09-22 | Attempted | boyer moore 
 [Combination Sum II](/problems/combinationSum2) | 2020-09-21 | Attempted | backtrack 
 [Combination Sum](/problems/combination_sum) | 2020-09-16 | Attempted | permutations 
 [Maximum XOR of Two Numbers in an Array](/problems/maxXorOfTwoNums) | 2020-09-16 | Attempted | bits 
