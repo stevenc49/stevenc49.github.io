@@ -9,6 +9,7 @@ from fileutils import FileUtil
 
 ROOT_DIR = "/home/steve/workspace/stevenc49.github.io/"
 SITE_DIR = ROOT_DIR + "_site/pages/lists"
+LIST_DIR = ROOT_DIR + "pages/lists"
 
 
 
@@ -17,17 +18,13 @@ def main():
     print('> generating cp feed.xml')
 
     content = """
-{% raw %}
-your code block
-{% endraw %}
+        <test/>
 
     """
 
-    # write to site dir
-    FileUtil.saveToFile(content, SITE_DIR + "/cpfeed.md")
 
-
-
+    # write to solved list markdown page
+    FileUtil.saveToFile(content, LIST_DIR + "/cpfeed.md")
 
 
 
