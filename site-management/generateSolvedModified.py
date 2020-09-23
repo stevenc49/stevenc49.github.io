@@ -14,6 +14,8 @@ LIST_DIR = ROOT_DIR + "pages/lists"
 
 def main():
 
+    print('generating solved modified page')
+
     os.chdir( PROBLEMS_DIR )
 
     ll_result = os.popen('ls -lt --time-style=long-iso').read()
