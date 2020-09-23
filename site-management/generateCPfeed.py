@@ -17,7 +17,7 @@ def main():
     print('> generating cp feed.xml')
 
     # write to site dir
-    FileUtil.saveToFile("</test>", SITE_DIR + "/cpfeed.xml")
+    FileUtil.saveToFile("</test>", SITE_DIR + "/cpfeed.html")
 
 
 
