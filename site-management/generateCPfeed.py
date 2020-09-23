@@ -24,7 +24,7 @@ your code block
     """
 
     # write to site dir
-    FileUtil.saveToFile(content, SITE_DIR + "/cpfeed.xml")
+    FileUtil.saveToFile(content, SITE_DIR + "/cpfeed.md")
 
 
 
