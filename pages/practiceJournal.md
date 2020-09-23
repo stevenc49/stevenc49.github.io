@@ -5,7 +5,7 @@ title:  Practice Log
 
 ### Sept 22
 
-[engineering levels](https://engineerseekingfire.com/how-to-prepare-for-software-engineering-interviews/)
+
 
 ### Sept 16
 
@@ -48,7 +48,7 @@ Somethings to make studying easier:
 
 ___________-
 
-[TechGig algorithm practice](https://www.techgig.com/practice/algorithms/implementation)
+
 
 ### Aug 31
 
