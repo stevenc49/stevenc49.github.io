@@ -17,7 +17,7 @@ def main():
 
 
     # write to site dir
-    FileUtil.saveToFile(</test>, SITE_DIR + "/feed.xml")
+    FileUtil.saveToFile("</test>", SITE_DIR + "/feed.xml")
 
 
 
