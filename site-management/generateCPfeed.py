@@ -7,7 +7,7 @@ from fileutils import FileUtil
     This script creates a chinesepod xml feed for beyondpod
 '''
 
-ROOT_DIR = "/home/steve/workspace/stevenc49.github.io/cp/"
+ROOT_DIR = "/home/steve/workspace/stevenc49.github.io/_cp/"
 
 
 
@@ -17,15 +17,12 @@ def main():
 
     # generate markdown list content
     sb = """
----
-layout: page
-title:  CP Feed
----
-    """.strip() + "\n\n\n"
+        <test>
+    """
 
 
     # write to solved list markdown page
-    FileUtil.saveToFile(sb, ROOT_DIR + "cpfeed.md")
+    FileUtil.saveToFile(sb, ROOT_DIR + "cpfeed.xml")
 
 
 

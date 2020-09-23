@@ -26,3 +26,6 @@ collections:
 
   code:
     output: true
+
+  cp:
+    output: true
