@@ -8,7 +8,7 @@ from fileutils import FileUtil
 '''
 
 ROOT_DIR = "/home/steve/workspace/stevenc49.github.io/"
-SITE_DIR = ROOT_DIR + "_site"
+SITE_DIR = ROOT_DIR + "_site/pages/lists"
 
 
 
