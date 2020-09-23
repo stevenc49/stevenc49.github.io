@@ -16,8 +16,15 @@ def main():
 
     print('> generating cp feed.xml')
 
+    content = """
+{% raw %}
+your code block
+{% endraw %}
+
+    """
+
     # write to site dir
-    FileUtil.saveToFile("</test>", SITE_DIR + "/cpfeed.xml")
+    FileUtil.saveToFile(content, SITE_DIR + "/cpfeed.xml")
 
 
 
