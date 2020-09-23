@@ -21,7 +21,7 @@ def main():
     sb = """
 ---
 layout: page
-title:  Solved - Last Modified
+title:  CP Feed
 ---
     """.strip() + "\n\n\n"
 

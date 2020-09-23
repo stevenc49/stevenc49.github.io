@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Solved - Last Modified
+title:  CP Feed
 ---
 
 
