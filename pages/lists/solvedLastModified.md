@@ -4,11 +4,10 @@ title:  Solved - Last Modified
 ---
 
 
-There are 174 problems solved.
+There are 173 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
-[Tempalte](/problems/1template copy) | 2020-09-22 | Attempted |  
 [Majority Element II](/problems/majorityElement2) | 2020-09-22 | Attempted | boyer moore 
 [Majority Element](/problems/majorityElement) | 2020-09-22 | Attempted | boyer moore 
 [Combination Sum II](/problems/combinationSum2) | 2020-09-21 | Attempted | backtrack 
