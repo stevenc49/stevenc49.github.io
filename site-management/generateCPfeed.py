@@ -17,14 +17,17 @@ def main():
 
     print('> generating cp feed.xml')
 
-    content = """
-        <test/>
-
-    """
+    # generate markdown list content
+    sb = """
+---
+layout: page
+title:  Solved - Last Modified
+---
+    """.strip() + "\n\n\n"
 
 
     # write to solved list markdown page
-    FileUtil.saveToFile(content, LIST_DIR + "/cpfeed.md")
+    FileUtil.saveToFile(sb, LIST_DIR + "/cpfeed.md")
 
 
 
