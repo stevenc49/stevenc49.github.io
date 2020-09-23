@@ -14,7 +14,7 @@ LIST_DIR = ROOT_DIR + "pages/lists"
 
 def main():
 
-    print('generating solved modified page')
+    print('> generating solved modified page')
 
     os.chdir( PROBLEMS_DIR )
 
