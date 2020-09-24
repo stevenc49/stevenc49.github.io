@@ -74,7 +74,7 @@ To combat TLE, I added a visited set to prune the recursion tree.
         
         def backtrack(currentList):
             
-            # this caches visited nodes so we don't go down duplicated recursion trees
+            # this caches visited nodes so we don't go down duplicated recursion tree paths
             if tuple(currentList) in visited:
                 return
             else:

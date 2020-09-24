@@ -31,7 +31,7 @@ Solution
 
 Make Left and Right Array, then multiply together.
 
-= Left Array consist of product of all elements to the left of i
+- Left Array consist of product of all elements to the left of i
 - Right Array consist of product of all elements to the right of i
 
 {% highlight python %}

@@ -8,6 +8,7 @@ There are 174 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Product of Array Except Self](/problems/productOfArrayExceptSelf) | 2020-09-24 | Attempted |  
 [Permutations II](/problems/permutations2) | 2020-09-24 | Solved | recursion, backtracking 
 [Permutations](/problems/permutations) | 2020-09-24 | Solved | recursion, backtracking 
 [Majority Element II](/problems/majorityElement2) | 2020-09-22 | Attempted | boyer moore 
@@ -35,7 +36,6 @@ Problem | Last Modified | Status | Category
 [Koko Eating Bananas](/problems/koko_eating_bananas) | 2020-08-24 | Attempted | binary search 
 [SQL Binary Tree Nodes](/problems/sql_binary_tree_nodes) | 2020-08-24 | Attempted | sql 
 [The PADS](/problems/sql_thepads) | 2020-08-24 | Attempted | sql 
-[Product of Array Except Self](/problems/productOfArrayExceptSelf) | 2020-08-24 | Attempted |  
 [Copy List with Random Pointer](/problems/copyListWithRandomPointer) | 2020-08-24 | Attempted | linked list 
 [Restore IP Addresses](/problems/restoreIpAddresses) | 2020-08-24 | Not Solved | backtracking 
 [Insert into BST](/problems/insertIntoBST) | 2020-08-24 | Attempted | tree 
