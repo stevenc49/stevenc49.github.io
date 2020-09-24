@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 173 problems solved.
+There are 174 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Permutations II](/problems/permutations2) | 2020-09-24 | Solved | recursion, backtracking 
 [Permutations](/problems/permutations) | 2020-09-24 | Solved | recursion, backtracking 
 [Majority Element II](/problems/majorityElement2) | 2020-09-22 | Attempted | boyer moore 
 [Majority Element](/problems/majorityElement) | 2020-09-22 | Attempted | boyer moore 
