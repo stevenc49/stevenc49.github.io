@@ -8,6 +8,7 @@ There are 173 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Permutations](/problems/permutations) | 2020-09-24 | Solved | recursion, backtracking 
 [Majority Element II](/problems/majorityElement2) | 2020-09-22 | Attempted | boyer moore 
 [Majority Element](/problems/majorityElement) | 2020-09-22 | Attempted | boyer moore 
 [Combination Sum II](/problems/combinationSum2) | 2020-09-21 | Attempted | backtrack 
@@ -63,7 +64,6 @@ Problem | Last Modified | Status | Category
 [Reverse Vowels Of a String](/problems/reverseVowelsFromAString) | 2020-08-14 | Solved | string 
 [Island Perimeter](/problems/islandPerimeter) | 2020-08-13 | Solved | matrix 
 [Deepest Leaves Sum (DFS)](/problems/deepestLeavesSumDFS) | 2020-08-13 | Solved | trees 
-[Permutations](/problems/permutations) | 2020-08-13 | Solved | recursion, backtracking 
 [Search in Rotated Sorted Array](/problems/searchInRotatedSortedArray) | 2020-08-13 | Attempted | binary search 
 [Find Min in Sorted Array](/problems/findMinInSortedArray) | 2020-08-13 | Attempted | binary search 
 [Search Insert Position](/problems/searchInsertPosition) | 2020-08-13 | Solved | binary search 
