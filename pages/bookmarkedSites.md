@@ -16,7 +16,7 @@ title:  Bookmarked Sites
 - [amazon prep](https://www.amazon.jobs/en/landing_pages/software-development-topics)
 - [career advice](https://www.teamblind.com/post/advice-for-younger-folks-WzpcU2oi)
 - [Jouney](https://leetcode.com/discuss/interview-experience/716202/amz-google-facebook-offer-reject-reject-my-journey-from-failure-to-offer-at-faang)
-
+- [System Design Github](https://github.com/prasadgujar/low-level-design-primer)
 
 Interview Whiteboards
 ------------------------
