@@ -22,6 +22,11 @@ It is sorted by category. This list will continually change as your skill level 
 - [Group Isomorphic Strings](/problems/groupIsomorphicStrings)
 - [Isomorphic Strings](/problems/isomorphicStrings)
 
+
+
+#### Stacks
+- [Minimum Add to Make Parentheses Valid]()
+
 #### Heap
 
 Whenever problem asks for kth largest or kth smallest. Think heap.
