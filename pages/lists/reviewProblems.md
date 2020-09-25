@@ -25,7 +25,11 @@ It is sorted by category. This list will continually change as your skill level 
 
 
 #### Stacks
+
+Need more practice with stacks, don't assume they're easy
+
 - [Minimum Add to Make Parentheses Valid]()
+- [Valid Parenthesis]()
 
 #### Heap
 
