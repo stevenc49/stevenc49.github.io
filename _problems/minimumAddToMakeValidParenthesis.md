@@ -92,7 +92,8 @@ Some other solutions
     
   return numInvalid 
 
-'''''''''''''''''''''''''
+'''
+'''
 
 res = 0
 stack = 0
