@@ -4,10 +4,11 @@ title:  Solved - Last Modified
 ---
 
 
-There are 175 problems solved.
+There are 176 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Valid Parenthesis](/problems/validParenthesis) | 2020-09-25 | Attempted | stack 
 [Minimum Add to Make Parentheses Valid](/problems/minimumAddToMakeValidParenthesis) | 2020-09-25 | Attempted | stack 
 [Product of Array Except Self](/problems/productOfArrayExceptSelf) | 2020-09-24 | Attempted |  
 [Permutations II](/problems/permutations2) | 2020-09-24 | Solved | recursion, backtracking 
