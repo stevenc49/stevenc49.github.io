@@ -95,4 +95,4 @@ output ()()()
 
 ```
 
-![image1](https://ibb.co/FBtb6mg)
+![image1](https://i.ibb.co/Dr9xNgv/image.png)

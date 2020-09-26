@@ -8,6 +8,7 @@ There are 176 problems solved.
 
 Problem | Last Modified | Status | Category 
 --------|---------------|--------|----------
+[Generate Parenthesis](/problems/generateParanthesis) | 2020-09-25 | Attempted | backtracking 
 [Valid Parenthesis](/problems/validParenthesis) | 2020-09-25 | Attempted | stack 
 [Minimum Add to Make Parentheses Valid](/problems/minimumAddToMakeValidParenthesis) | 2020-09-25 | Attempted | stack 
 [Product of Array Except Self](/problems/productOfArrayExceptSelf) | 2020-09-24 | Attempted |  
@@ -21,7 +22,6 @@ Problem | Last Modified | Status | Category
 [Combination Sum III](/problems/combinationSum3) | 2020-09-15 | Attempted | backtrack 
 [Merge Two Binary Trees](/problems/mergeTwoBinaryTrees) | 2020-09-04 | Attempted | trees 
 [Find All Anagrams in a String](/problems/findAllAnagramsInString) | 2020-09-02 | Attempted | sliding window 
-[Generate Parenthesis](/problems/generateParanthesis) | 2020-09-02 | Attempted | backtracking 
 [Reformat Department table (if and case statements)](/problems/sql_reformat_department) | 2020-09-01 | Attempted | sql 
 [SQL - Second Highest Salary (limit/offset + ifnull)](/problems/sql_second_highest_salary) | 2020-09-01 | Attempted | sql 
 [SQL Facebook Practice Questions](/problems/sql_facebook_practice) | 2020-09-01 | Attempted | sql 
