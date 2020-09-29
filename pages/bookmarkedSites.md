@@ -86,7 +86,7 @@ Dynamic Programming Links
 - [dynamic programming patterns](https://leetcode.com/discuss/interview-question/778035/dynamic-programming-patterns)
 - [list of dp problems](https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns)
 - [algo monster](https://algo.monster/problems/dynamic_programming_intro)
-
+- [dp](https://leetcode.com/discuss/general-discussion/868902/dynamic-programming)
 
 
 
