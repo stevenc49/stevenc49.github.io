@@ -3,28 +3,33 @@ from typing import List
 
 
 def findAnagrams(s: str, p: str) -> List[int]:
-    hm, res, pL, sL = defaultdict(int), [], len(p), len(s)
-    if pL > sL: return []
+    char_freqs, indices, len_p, len_s = defaultdict(int), [], len(p), len(s)
 
-    # build hashmap
-    for ch in p: hm[ch] += 1
+    # s cannot have p anangrams if len(p) > len(s)
+    if len_p > len_s:
+        return indices
 
-    # initial full pass over the window
-    for i in range(pL - 1):
-        if s[i] in hm: hm[s[i]] -= 1
+    # build map of character frequencies in p
+    for char in p:
+        char_freqs[char] += 1
 
-    # slide the window with stride 1
-    for i in range(-1, sL - pL + 1):
-        if i > -1 and s[i] in hm:
-            hm[s[i]] += 1
-        if i + pL < sL and s[i + pL] in hm:
-            hm[s[i + pL]] -= 1
+    # initial full pass over the window, except last element which we will pass over later
+    for i in range(len_p - 1):
+        if s[i] in char_freqs:
+            char_freqs[s[i]] -= 1
 
-        # check whether we encountered an anagram
-        if all(v == 0 for v in hm.values()):
-            res.append(i + 1)
+    # slide the window with stride 1, adding the value "sliding out" and subtracting the value "sliding in"
+    for i in range(-1, len_s - len_p + 1):
+        if i > -1 and s[i] in char_freqs:
+            char_freqs[s[i]] += 1
+        if i + len_p < len_s and s[i + len_p] in char_freqs:
+            char_freqs[s[i + len_p]] -= 1
 
-    return res
+        # check whether we encountered an anagram by seeing if all frequencies add up to 0
+        if not any(char_freqs.values()):
+            indices.append(i + 1)
+
+    return indices
 
 
 def main():
