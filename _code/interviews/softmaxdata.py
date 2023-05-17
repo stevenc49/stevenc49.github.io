@@ -5,6 +5,8 @@ a = [6, 5, 4, 2, 6]
 # 3. missing -> 3
 # 4. duplicate -> 6
 
+# similar to this hard LC question
+# https://leetcode.com/problems/first-missing-positive/
 
 def detect(l):
   pass
