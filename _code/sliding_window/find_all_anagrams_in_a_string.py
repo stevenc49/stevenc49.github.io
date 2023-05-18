@@ -16,31 +16,30 @@ from typing import List
 
 '''
     using sliding window template
+    TLE because nested for loop
 '''
 def findAnagrams(s: str, p: str) -> List[int]:
 
     res = []
+    len_s = len(s)
+    len_p = len(p)
 
-    for i in range(len(s) - len(p)+1):
+    # build map of p
+    resetP = defaultdict(int)
+    for char in p:
+        resetP[char] += 1
 
-        # build map of p
-        freq = defaultdict(int)
-        for char in p:
-            freq[char] += 1
-        print(' ' + str(freq))
+    for i in range(len_s - len_p+1):
 
-        for j in range(i, i+len(p)):
+        freq = resetP.copy()
 
-            print(s[j], end='')
+        for j in range(i, i+len_p):
+
             if s[j] in freq:
                 freq[s[j]] -= 1
 
-            print(' ' + str(freq))
             if not any(freq.values()):
-                print('adding ' + str(j))
                 res.append(i)
-
-        print()
 
     return res
 
