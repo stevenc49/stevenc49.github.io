@@ -5,31 +5,35 @@
     [4,2,1,7,8,1,2,8,1,0] k=3
 
     1,7,8 produces 16
+
+    https://www.youtube.com/watch?v=MK-NZ4hN7rs
 '''
 
-def maxSubarray(arr, k):
 
+'''
+    my solution - may 17, 2023
+'''
+def maxSubarray(arr, k):
     maxSum = 0
 
     for i in range(len(arr) - k + 1):
-
         sum = 0
 
-        for j in range(i, i+k):
-
-            sum += arr[j]
+        for j in range(i, i + k):
             print(arr[j])
+            sum = sum + arr[j]
 
-            # if sum>maxSum:
-            #     maxSum = sum
+        maxSum = max(sum, maxSum)
 
-            print()
+        print("sum: " + str(sum))
+        print("maxSum: " + str(maxSum))
 
+        print()
     return maxSum
 
 
 def main():
-    arr = [1, 2, 3, 4, 5, 6]
+    arr = [4,2,1,7,8,1,2,8,1,0]
     k = 3
 
     res = maxSubarray(arr, k)
